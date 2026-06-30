@@ -1,0 +1,18 @@
+Raspberry Pi Security Validation Timing
+============================================================
+runs: 30
+verified_status: VERIFIED_PROVENANCE
+failed_status: FAILED_VERIFICATION
+protected_assets: 5
+verified_mean_ms: 167.79
+verified_std_ms: 0.137
+verified_min_ms: 167.504
+verified_max_ms: 168.05
+failed_mean_ms: 159.709
+failed_std_ms: 0.436
+failed_min_ms: 159.093
+failed_max_ms: 161.527
+
+Saved:
+/home/pi/Desktop/MediFoodShield/paper_ready_results/raspberry_pi/rpi_validation_timing.csv
+/home/pi/Desktop/MediFoodShield/paper_ready_results/raspberry_pi/rpi_validation_timing_summary.txt

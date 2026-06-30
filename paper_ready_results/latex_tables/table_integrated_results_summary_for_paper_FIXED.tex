@@ -1,0 +1,17 @@
+\begin{tabular}{llll}
+\toprule
+Category & Metric & Value & Notes \\
+\midrule
+AI baseline & Majority baseline false-safe rate & 0.00\% & False-safe count = 0; Macro F1 = 31.41\%. This baseline predicts the majority class and is not a useful classifier. \\
+AI safety & Balanced AI baseline false-safe rate & 5.29\% & False-safe count = 128; Accuracy = 91.86\%; Macro F1 = 74.01\% \\
+AI safety & MedSafe-GATE v1 balanced-safety false-safe rate & 1.94\% & Threshold = 0.6; False-safe count = 47; Accuracy = 91.67\%; Macro F1 = 68.60\% \\
+AI safety & MedSafe-GATE v1 strict-screening false-safe rate & 0.62\% & Threshold = 0.7; False-safe count = 15; Accuracy = 90.99\%; Macro F1 = 61.57\% \\
+AI safety & False-safe case reduction from balanced baseline to strict-screening & 113 fewer cases & Reduction from 128 to 15 false-safe cases; relative reduction = 88.28\% \\
+Security & Simulated tamper attack detection & 5/5 & 100.00\% detection in implemented tampering tests \\
+Security overhead & Full manifest verification & 127.921 ms & Mean over benchmark runs \\
+Security overhead & Sign one recommendation output & 0.024 ms & Mean over benchmark runs \\
+Runtime & Fast exact DDID lookup + signing & 0.058 ms & Average across exact DDID lookup examples \\
+Runtime & Input coverage guard + signing & 0.052 ms & Out-of-vocabulary input returned Insufficient evidence \\
+Runtime & Known-entity model branch + signing & 2.940 ms & Includes calibrated LinearSVC prediction and signed output \\
+\bottomrule
+\end{tabular}

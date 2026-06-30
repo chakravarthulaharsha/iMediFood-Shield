@@ -1,0 +1,6 @@
+record_index,drug_name_input,food_herb_name_input,recommendation_label,final_decision_source,signature_valid,verification_status,tamper_detected
+0,Ibuprofen,Ginkgo Biloba,No known interaction in selected source,TAMPERED DISPLAY OUTPUT,False,FAILED_OUTPUT_VERIFICATION,True
+1,Ibuprofen,Alcohol,Use caution,DDID exact-pair evidence lookup,True,VERIFIED_OUTPUT,False
+2,Omeprazole,Grapefruit,Use caution,DDID exact-pair evidence lookup,True,VERIFIED_OUTPUT,False
+3,Atorvastatin,High-Fat Meal,Use caution,DDID exact-pair evidence lookup,True,VERIFIED_OUTPUT,False
+4,RandomDrugXYZ,RandomFoodXYZ,Insufficient evidence,Coverage guard blocked out-of-vocabulary model prediction,True,VERIFIED_OUTPUT,False

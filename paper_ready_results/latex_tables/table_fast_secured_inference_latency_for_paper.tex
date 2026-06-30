@@ -1,0 +1,14 @@
+\begin{tabular}{llllrrrrll}
+\toprule
+Pipeline & Case Type & Drug & Food/Herb & Runs & Mean Time (ms) & Min Time (ms) & Max Time (ms) & Output Label & Decision Source \\
+\midrule
+Fast recommendation only & Exact DDID lookup branch & Ibuprofen & Ginkgo Biloba & 500 & 0.015000 & 0.014000 & 0.059000 & Avoid & DDID exact-pair evidence lookup \\
+Fast recommendation + output signing & Exact DDID lookup branch & Ibuprofen & Ginkgo Biloba & 500 & 0.063000 & 0.046000 & 0.507000 & Avoid & DDID exact-pair evidence lookup \\
+Fast recommendation only & Exact DDID lookup branch & Atorvastatin & High-Fat Meal & 500 & 0.031000 & 0.021000 & 0.429000 & Use caution & DDID exact-pair evidence lookup \\
+Fast recommendation + output signing & Exact DDID lookup branch & Atorvastatin & High-Fat Meal & 500 & 0.054000 & 0.046000 & 0.231000 & Use caution & DDID exact-pair evidence lookup \\
+Fast recommendation only & Input coverage guard branch & RandomDrugXYZ & RandomFoodXYZ & 500 & 0.014000 & 0.013000 & 0.048000 & Insufficient evidence & Coverage guard blocked out-of-vocabulary model prediction \\
+Fast recommendation + output signing & Input coverage guard branch & RandomDrugXYZ & RandomFoodXYZ & 500 & 0.052000 & 0.044000 & 0.504000 & Insufficient evidence & Coverage guard blocked out-of-vocabulary model prediction \\
+Fast recommendation only & Known-entity model branch & abacavir & 250-caloric high-fat meal & 500 & 3.027000 & 2.403000 & 5.024000 & No known interaction in selected source & Known-entity model branch with safety gate \\
+Fast recommendation + output signing & Known-entity model branch & abacavir & 250-caloric high-fat meal & 500 & 2.940000 & 2.455000 & 4.484000 & No known interaction in selected source & Known-entity model branch with safety gate \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,6 @@
+experiment_group,attack_name,protected_asset,verification_status,attack_detected,detection_result
+Protected asset tampering,DDID lookup table tampering,ddid_lookup_table,FAILED_VERIFICATION,True,Detected
+Protected asset tampering,Model file tampering,model_file,FAILED_VERIFICATION,True,Detected
+Protected asset tampering,Policy rollback or policy modification,inference_policy,FAILED_VERIFICATION,True,Detected
+Protected asset tampering,Output log tampering,step16_inference_output,FAILED_VERIFICATION,True,Detected
+Recommendation output tampering,Displayed recommendation modified after signing,signed_recommendation_output,FAILED_OUTPUT_VERIFICATION,True,Detected

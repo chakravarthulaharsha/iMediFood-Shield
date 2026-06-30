@@ -1,0 +1,11 @@
+\begin{tabular}{llllll}
+\toprule
+experiment\_group & attack\_name & protected\_asset & verification\_status & attack\_detected & detection\_result \\
+\midrule
+Protected asset tampering & DDID lookup table tampering & ddid\_lookup\_table & FAILED\_VERIFICATION & Yes & Detected \\
+Protected asset tampering & Model file tampering & model\_file & FAILED\_VERIFICATION & Yes & Detected \\
+Protected asset tampering & Policy rollback or policy modification & inference\_policy & FAILED\_VERIFICATION & Yes & Detected \\
+Protected asset tampering & Output log tampering & step16\_inference\_output & FAILED\_VERIFICATION & Yes & Detected \\
+Recommendation output tampering & Displayed recommendation modified after signing & signed\_recommendation\_output & FAILED\_OUTPUT\_VERIFICATION & Yes & Detected \\
+\bottomrule
+\end{tabular}

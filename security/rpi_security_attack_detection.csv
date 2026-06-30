@@ -1,0 +1,6 @@
+attack,asset,expected_result,observed_result,detected
+DDID lookup table tampering,ddid_lookup_table,FAILED_VERIFICATION,FAILED_VERIFICATION,Yes
+Model file tampering,model_file,FAILED_VERIFICATION,FAILED_VERIFICATION,Yes
+Policy modification / rollback,inference_policy,FAILED_VERIFICATION,FAILED_VERIFICATION,Yes
+Backend output log tampering,rpi_backend_output_log,FAILED_VERIFICATION,FAILED_VERIFICATION,Yes
+Signed recommendation output tampering,signed_recommendation_records,FAILED_VERIFICATION,FAILED_VERIFICATION,Yes

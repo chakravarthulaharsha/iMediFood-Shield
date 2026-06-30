@@ -1,0 +1,5 @@
+attack_name,tampered_logical_name,tampered_path,overall_status,signature_valid,all_files_valid,failed_files,attack_detected
+DDID lookup table tampering,ddid_lookup_table,MediFoodShield/security/tamper_tests/tampered_ddid_lookup_table.csv,FAILED_VERIFICATION,True,False,ddid_lookup_table,True
+Model file tampering,model_file,MediFoodShield/security/tamper_tests/tampered_model_file.joblib,FAILED_VERIFICATION,True,False,model_file,True
+Policy rollback or policy modification,inference_policy,MediFoodShield/security/tamper_tests/tampered_inference_policy.json,FAILED_VERIFICATION,True,False,inference_policy,True
+Output log tampering,step16_inference_output,MediFoodShield/security/tamper_tests/tampered_step16_inference_output.csv,FAILED_VERIFICATION,True,False,step16_inference_output,True

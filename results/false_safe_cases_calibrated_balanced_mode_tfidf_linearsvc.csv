@@ -1,0 +1,97 @@
+pair_key,Drug_ID,Drug_Name,Food_Herb_ID,Food_Herb_Name,Type,paper_label,drug_item_text,prediction
+D01100__F00105,D01100,Belumosudil,F00105,High-fat meal,Food,Use caution,belumosudil [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D01034__F00105,D01034,Cefditoren,F00105,High-Fat Meal,Food,Use caution,cefditoren [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00291__H01018,D00291,Phenacetin,H01018,ZE XIE,Herb,Use caution,phenacetin [SEP] ze xie [SEP] herb,No known interaction in selected source
+D00597__H01038,D00597,Atorvastatin,H01038,Fructus Aurantii Immaturus,Herb,Use caution,atorvastatin [SEP] fructus aurantii immaturus [SEP] herb,No known interaction in selected source
+D00436__F00104,D00436,Fluoxymesterone,F00104,Meal,Food,Use caution,fluoxymesterone [SEP] meal [SEP] food,No known interaction in selected source
+D00187__H01102,D00187,Ibuprofen,H01102,Ginkgo Biloba,Herb,Avoid,ibuprofen [SEP] ginkgo biloba [SEP] herb,No known interaction in selected source
+D01468__F00105,D01468,Rivoceranib,F00105,High-Fat Meal,Food,Use caution,rivoceranib [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00137__F00104,D00137,Ethotoin,F00104,Meal,Food,Use caution,ethotoin [SEP] meal [SEP] food,No known interaction in selected source
+D01009__F00104,D01009,Lansoprazole,F00104,Meal,Food,Use caution,lansoprazole [SEP] meal [SEP] food,No known interaction in selected source
+D01311__F00104,D01311,Vosoritide,F00104,Meal,Food,Use caution,vosoritide [SEP] meal [SEP] food,No known interaction in selected source
+D00360__F00104,D00360,Cocarboxylase,F00104,Meal,Food,Use caution,cocarboxylase [SEP] meal [SEP] food,No known interaction in selected source
+D01218__F00105,D01218,Gimeracil,F00105,High-Fat Meal,Food,Use caution,gimeracil [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00572__F00105,D00572,Simvastatin,F00105,High-Fat Meal,Food,Use caution,simvastatin [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00385__F00104,D00385,Troglitazone,F00104,Meal,Food,Use caution,troglitazone [SEP] meal [SEP] food,No known interaction in selected source
+D00553__F00105,D00553,Pirfenidone,F00105,High-Fat Meal,Food,Use caution,pirfenidone [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00297__F00104,D00297,Phenylbutazone,F00104,Meal,Food,Use caution,phenylbutazone [SEP] meal [SEP] food,No known interaction in selected source
+D00597__F00105,D00597,Atorvastatin,F00105,High-Fat Meal,Food,Use caution,atorvastatin [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00021__F00104,D00021,Acetohexamide,F00104,Meal,Food,Use caution,acetohexamide [SEP] meal [SEP] food,No known interaction in selected source
+D00450__F00104,D00450,Yohimbine,F00104,Meal,Food,Use caution,yohimbine [SEP] meal [SEP] food,No known interaction in selected source
+D00833__F00105,D00833,Artenimol,F00105,High-Fat Meal,Food,Use caution,artenimol [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00597__H00182,D00597,Atorvastatin,H00182,DAN SHEN,Herb,Use caution,atorvastatin [SEP] dan shen [SEP] herb,No known interaction in selected source
+D01083__F00104,D01083,Urea C-14,F00104,Meal,Food,Use caution,urea c-14 [SEP] meal [SEP] food,No known interaction in selected source
+D01265__F00104,D01265,Cholestyramine,F00104,Meal,Food,Use caution,cholestyramine [SEP] meal [SEP] food,No known interaction in selected source
+D00271__H00318,D00271,Omeprazole,H00318,Hypericum perforatum,Herb,Use caution,omeprazole [SEP] hypericum perforatum [SEP] herb,No known interaction in selected source
+D00323__F00105,D00323,Propiverine,F00105,High-Fat Meal,Food,Use caution,propiverine [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00648__F00104,D00648,Methotrimeprazine,F00104,Meal,Food,Use caution,methotrimeprazine [SEP] meal [SEP] food,No known interaction in selected source
+D01290__F00105,D01290,Abrocitinib,F00105,High-Fat Meal,Food,Use caution,abrocitinib [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00597__H00329,D00597,Atorvastatin,H00329,Ramulus Euonymi,Herb,Use caution,atorvastatin [SEP] ramulus euonymi [SEP] herb,No known interaction in selected source
+D00532__F00104,D00532,Pivampicillin,F00104,Meal,Food,Use caution,pivampicillin [SEP] meal [SEP] food,No known interaction in selected source
+D00597__H00325,D00597,Atorvastatin,H00325,Fructus Choerospondiatis,Herb,Use caution,atorvastatin [SEP] fructus choerospondiatis [SEP] herb,No known interaction in selected source
+D00261__F00104,D00261,Nilvadipine,F00104,Meal,Food,Use caution,nilvadipine [SEP] meal [SEP] food,No known interaction in selected source
+D00424__F00104,D00424,Cloxacillin,F00104,Meal,Food,Use caution,cloxacillin [SEP] meal [SEP] food,No known interaction in selected source
+D00608__F00104,D00608,Capecitabine,F00104,Meal,Food,Use caution,capecitabine [SEP] meal [SEP] food,No known interaction in selected source
+D00993__F00105,D00993,Ganaxolone,F00105,High-Fat Meal,Food,Use caution,ganaxolone [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D01072__F00105,D01072,Lurasidone,F00105,High-Fat Meal,Food,Use caution,lurasidone [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00597__H00162,D00597,Atorvastatin,H00162,Coffee,Herb,Use caution,atorvastatin [SEP] coffee [SEP] herb,No known interaction in selected source
+D00056__F00104,D00056,Bethanechol,F00104,Meal,Food,Use caution,bethanechol [SEP] meal [SEP] food,No known interaction in selected source
+D00003__F00104,D00003,Activated Charcoal,F00104,Meal,Food,Use caution,activated charcoal [SEP] meal [SEP] food,No known interaction in selected source
+D00972__F00105,D00972,Everolimus,F00105,High-Fat Meal,Food,Use caution,everolimus [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00976__F00116,D00976,Rilpivirine,F00116,Standard Meal,Food,Use caution,rilpivirine [SEP] standard meal [SEP] food,No known interaction in selected source
+D01173__F00105,D01173,Icotinib,F00105,High-Fat Meal,Food,Use caution,icotinib [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00055__F00104,D00055,Betaxolol,F00104,Meal,Food,Use caution,betaxolol [SEP] meal [SEP] food,No known interaction in selected source
+D00597__H00567,D00597,Atorvastatin,H00567,Herba Ephedrae,Herb,Use caution,atorvastatin [SEP] herba ephedrae [SEP] herb,No known interaction in selected source
+D01132__F00105,D01132,Vismodegib,F00105,High-Fat Meal,Food,Use caution,vismodegib [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00597__H00700,D00597,Atorvastatin,H00700,Pericarpium Citri Reticulatae Viride,Herb,Use caution,atorvastatin [SEP] pericarpium citri reticulatae viride [SEP] herb,No known interaction in selected source
+D00106__F00104,D00106,Cyclandelate,F00104,Meal,Food,Use caution,cyclandelate [SEP] meal [SEP] food,No known interaction in selected source
+D00906__F00104,D00906,Naloxone,F00104,Meal,Food,Use caution,naloxone [SEP] meal [SEP] food,No known interaction in selected source
+D01278__F00105,D01278,Omaveloxolone,F00105,High-Fat Meal,Food,Use caution,omaveloxolone [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00365__F00105,D00365,Ticlopidine,F00105,High-Fat Meal,Food,Use caution,ticlopidine [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00976__F00105,D00976,Rilpivirine,F00105,High-Fat Meal,Food,Use caution,rilpivirine [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00825__F00104,D00825,Tioguanine,F00104,Meal,Food,Use caution,tioguanine [SEP] meal [SEP] food,No known interaction in selected source
+D00813__F00104,D00813,Chlorprothixene,F00104,Meal,Food,Use caution,chlorprothixene [SEP] meal [SEP] food,No known interaction in selected source
+D00488__F00104,D00488,Hydrogen Fluoride,F00104,Meal,Food,Use caution,hydrogen fluoride [SEP] meal [SEP] food,No known interaction in selected source
+D01294__F00104,D01294,Voxilaprevir,F00104,Meal,Food,Use caution,voxilaprevir [SEP] meal [SEP] food,No known interaction in selected source
+D00716__F00105,D00716,Lactitol,F00105,High-Fat Meal,Food,Use caution,lactitol [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00571__F00104,D00571,Lovastatin,F00104,Meal,Food,Use caution,lovastatin [SEP] meal [SEP] food,No known interaction in selected source
+D00206__F00104,D00206,Labetalol,F00104,Meal,Food,Use caution,labetalol [SEP] meal [SEP] food,No known interaction in selected source
+D00586__F00105,D00586,Exemestane,F00105,High-Fat Meal,Food,Use caution,exemestane [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00461__F00104,D00461,Methysergide,F00104,Meal,Food,Use caution,methysergide [SEP] meal [SEP] food,No known interaction in selected source
+D00422__F00105,D00422,Cysteamine,F00105,High-Fat Meal,Food,Use caution,cysteamine [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00321__F00105,D00321,Propafenone,F00105,High-Fat Meal,Food,Use caution,propafenone [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00815__F00104,D00815,Mercaptopurine,F00104,Meal,Food,Use caution,mercaptopurine [SEP] meal [SEP] food,No known interaction in selected source
+D00282__F00105,D00282,Guanfacine,F00105,High-Fat Meal,Food,Use caution,guanfacine [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00597__H00088,D00597,Atorvastatin,H00088,herba Menthae,Herb,Use caution,atorvastatin [SEP] herba menthae [SEP] herb,No known interaction in selected source
+D00331__F00105,D00331,Raloxifene,F00105,High-Fat Meal,Food,Use caution,raloxifene [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00684__F00105,D00684,Desloratadine,F00105,High-Fat Meal,Food,Use caution,desloratadine [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00187__F00103,D00187,Ibuprofen,F00103,Alcohol,Food,Use caution,ibuprofen [SEP] alcohol [SEP] food,No known interaction in selected source
+D01485__F00104,D01485,Cedazuridine,F00104,Meal,Food,Use caution,cedazuridine [SEP] meal [SEP] food,No known interaction in selected source
+D01114__F00104,D01114,Liraglutide,F00104,Meal,Food,Use caution,liraglutide [SEP] meal [SEP] food,No known interaction in selected source
+D00547__F00104,D00547,Cefradine,F00104,Meal,Food,Use caution,cefradine [SEP] meal [SEP] food,No known interaction in selected source
+D01269__F00105,D01269,Selinexor,F00105,High-Fat Meal,Food,Use caution,selinexor [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00785__F00105,D00785,Pretomanid,F00105,High-Fat Meal,Food,Use caution,pretomanid [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00939__F00142,D00939,Indinavir,F00142,Light Meal,Food,Use caution,indinavir [SEP] light meal [SEP] food,No known interaction in selected source
+D00673__F00105,D00673,Paliperidone,F00105,High-Fat Meal,Food,Use caution,paliperidone [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00322__F00104,D00322,Propantheline,F00104,Meal,Food,Use caution,propantheline [SEP] meal [SEP] food,No known interaction in selected source
+D00681__F00105,D00681,Piperaquine,F00105,High-Fat Meal,Food,Use caution,piperaquine [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D01391__F00105,D01391,Pibrentasvir,F00105,High-Fat Meal,Food,Use caution,pibrentasvir [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D01226__F00104,D01226,Lymecycline,F00104,Meal,Food,Use caution,lymecycline [SEP] meal [SEP] food,No known interaction in selected source
+D01494__F00105,D01494,Nirmatrelvir,F00105,High-Fat Meal,Food,Use caution,nirmatrelvir [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D01074__F00105,D01074,Eluxadoline,F00105,High-Fat Meal,Food,Use caution,eluxadoline [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00343__F00104,D00343,Risedronate,F00104,Meal,Food,Use caution,risedronate [SEP] meal [SEP] food,No known interaction in selected source
+D00597__H00277,D00597,Atorvastatin,H00277,Radix seu Rhizoma rdostachyos,Herb,Use caution,atorvastatin [SEP] radix seu rhizoma rdostachyos [SEP] herb,No known interaction in selected source
+D00922__F00104,D00922,Zuclopenthixol,F00104,Meal,Food,Use caution,zuclopenthixol [SEP] meal [SEP] food,No known interaction in selected source
+D00291__H00877,D00291,Phenacetin,H00877,Folium Evodiae rutaecarpae,Herb,Use caution,phenacetin [SEP] folium evodiae rutaecarpae [SEP] herb,No known interaction in selected source
+D00844__F00105,D00844,Orlistat,F00105,High-Fat Meal,Food,Use caution,orlistat [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00972__F00123,D00972,Everolimus,F00123,Low-Fat Meal,Food,Use caution,everolimus [SEP] low-fat meal [SEP] food,No known interaction in selected source
+D00745__F00105,D00745,Lenalidomide,F00105,High-Fat Meal,Food,Use caution,lenalidomide [SEP] high-fat meal [SEP] food,No known interaction in selected source
+D00516__F00104,D00516,Clemastine,F00104,Meal,Food,Use caution,clemastine [SEP] meal [SEP] food,No known interaction in selected source
+D00232__F00104,D00232,Methazolamide,F00104,Meal,Food,Use caution,methazolamide [SEP] meal [SEP] food,No known interaction in selected source
+D00069__H00057,D00069,Caffeine,H00057,Radix Angelicae Dahuricae,Herb,Use caution,caffeine [SEP] radix angelicae dahuricae [SEP] herb,No known interaction in selected source
+D00711__F00104,D00711,Hyoscyamine,F00104,Meal,Food,Use caution,hyoscyamine [SEP] meal [SEP] food,No known interaction in selected source
+D00309__F00104,D00309,Prilocaine,F00104,Meal,Food,Use caution,prilocaine [SEP] meal [SEP] food,No known interaction in selected source
+D00435__F00104,D00435,Quinethazone,F00104,Meal,Food,Use caution,quinethazone [SEP] meal [SEP] food,No known interaction in selected source
+D00959__F00104,D00959,Gadobutrol,F00104,Meal,Food,Use caution,gadobutrol [SEP] meal [SEP] food,No known interaction in selected source
+D00271__F00162,D00271,Omeprazole,F00162,Grapefruit,Food,Use caution,omeprazole [SEP] grapefruit [SEP] food,No known interaction in selected source
+D00664__F00105,D00664,Droxidopa,F00105,High-Fat Meal,Food,Use caution,droxidopa [SEP] high-fat meal [SEP] food,No known interaction in selected source

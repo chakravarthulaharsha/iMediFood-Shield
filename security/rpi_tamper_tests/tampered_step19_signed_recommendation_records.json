@@ -1,0 +1,143 @@
+[
+  {
+    "record_body": {
+      "record_type": "MediFoodShield signed recommendation",
+      "record_version": "v1.0",
+      "created_utc": "2026-06-30T08:27:26.447532+00:00",
+      "input": {
+        "drug_name_input": "Ibuprofen",
+        "food_herb_name_input": "Ginkgo Biloba",
+        "drug_name_norm": "ibuprofen",
+        "food_herb_name_norm": "ginkgo biloba"
+      },
+      "decision": {
+        "recommendation_label": "Avoid",
+        "source": "DDID Evidence Lookup Guard",
+        "final_decision_source": "DDID exact-pair evidence lookup",
+        "found_in_ddid": "True",
+        "coverage_guard_applied": "False"
+      },
+      "asset_hashes": {
+        "ddid_lookup_table_sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+        "model_file_sha256": "883956d5ee1e2fb5a715ace250bb463a0340d32d58ce7f30b38c49a4c03d237c",
+        "inference_policy_sha256": "dbd7e239f3980b2acb3f0102df21b31e97d1a77aa1ff1c770afd4afcc9182394"
+      },
+      "output_hash": "8d4848fe975a793581453695968e442cea1714f93e7d33d93ac70f406b77a9be",
+      "disclaimer": "Research prototype only. This is medication-aware food-risk screening using selected public evidence sources and is not a substitute for advice from physicians, pharmacists, or registered dietitians."
+    },
+    "record_signature_hmac_sha256": "0d8e07d473936eb3261fdcf1078f28e1fe900d44d237b4bdf29169d4eee101ad"
+  },
+  {
+    "record_body": {
+      "record_type": "MediFoodShield signed recommendation",
+      "record_version": "v1.0",
+      "created_utc": "2026-06-30T08:27:26.447790+00:00",
+      "input": {
+        "drug_name_input": "Ibuprofen",
+        "food_herb_name_input": "Alcohol",
+        "drug_name_norm": "ibuprofen",
+        "food_herb_name_norm": "alcohol"
+      },
+      "decision": {
+        "recommendation_label": "Use caution",
+        "source": "DDID Evidence Lookup Guard",
+        "final_decision_source": "DDID exact-pair evidence lookup",
+        "found_in_ddid": "True",
+        "coverage_guard_applied": "False"
+      },
+      "asset_hashes": {
+        "ddid_lookup_table_sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+        "model_file_sha256": "883956d5ee1e2fb5a715ace250bb463a0340d32d58ce7f30b38c49a4c03d237c",
+        "inference_policy_sha256": "dbd7e239f3980b2acb3f0102df21b31e97d1a77aa1ff1c770afd4afcc9182394"
+      },
+      "output_hash": "8ff2087066bc1814592d55bcfe73d90d4cc1b65abcd08ab4ec39a866b860dccf",
+      "disclaimer": "Research prototype only. This is medication-aware food-risk screening using selected public evidence sources and is not a substitute for advice from physicians, pharmacists, or registered dietitians."
+    },
+    "record_signature_hmac_sha256": "a04de5de450d3963b8770dac6b97b5e4771dab3d19588703a46e8c0861bcb21c"
+  },
+  {
+    "record_body": {
+      "record_type": "MediFoodShield signed recommendation",
+      "record_version": "v1.0",
+      "created_utc": "2026-06-30T08:27:26.448148+00:00",
+      "input": {
+        "drug_name_input": "Omeprazole",
+        "food_herb_name_input": "Grapefruit",
+        "drug_name_norm": "omeprazole",
+        "food_herb_name_norm": "grapefruit"
+      },
+      "decision": {
+        "recommendation_label": "Use caution",
+        "source": "DDID Evidence Lookup Guard",
+        "final_decision_source": "DDID exact-pair evidence lookup",
+        "found_in_ddid": "True",
+        "coverage_guard_applied": "False"
+      },
+      "asset_hashes": {
+        "ddid_lookup_table_sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+        "model_file_sha256": "883956d5ee1e2fb5a715ace250bb463a0340d32d58ce7f30b38c49a4c03d237c",
+        "inference_policy_sha256": "dbd7e239f3980b2acb3f0102df21b31e97d1a77aa1ff1c770afd4afcc9182394"
+      },
+      "output_hash": "e3bd421ecf02f6aa1ed7df842c1887f017f0e87b2126230ab4531d39529d5d8a",
+      "disclaimer": "Research prototype only. This is medication-aware food-risk screening using selected public evidence sources and is not a substitute for advice from physicians, pharmacists, or registered dietitians."
+    },
+    "record_signature_hmac_sha256": "5e50558ddf96f627de8ae87748f111768944462b8236d16294aa082c8c2a6c74"
+  },
+  {
+    "record_body": {
+      "record_type": "MediFoodShield signed recommendation",
+      "record_version": "v1.0",
+      "created_utc": "2026-06-30T08:27:26.448346+00:00",
+      "input": {
+        "drug_name_input": "Atorvastatin",
+        "food_herb_name_input": "High-Fat Meal",
+        "drug_name_norm": "atorvastatin",
+        "food_herb_name_norm": "high-fat meal"
+      },
+      "decision": {
+        "recommendation_label": "Use caution",
+        "source": "DDID Evidence Lookup Guard",
+        "final_decision_source": "DDID exact-pair evidence lookup",
+        "found_in_ddid": "True",
+        "coverage_guard_applied": "False"
+      },
+      "asset_hashes": {
+        "ddid_lookup_table_sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+        "model_file_sha256": "883956d5ee1e2fb5a715ace250bb463a0340d32d58ce7f30b38c49a4c03d237c",
+        "inference_policy_sha256": "dbd7e239f3980b2acb3f0102df21b31e97d1a77aa1ff1c770afd4afcc9182394"
+      },
+      "output_hash": "91eba10c50f38673226b06c3e29db987b2509516ae57ab8a98470e48be9b41b1",
+      "disclaimer": "Research prototype only. This is medication-aware food-risk screening using selected public evidence sources and is not a substitute for advice from physicians, pharmacists, or registered dietitians."
+    },
+    "record_signature_hmac_sha256": "18670fb2bed77bbf7b54d37d46017cbc5bd6603ec3983bc27c2e67deb1c69569"
+  },
+  {
+    "record_body": {
+      "record_type": "MediFoodShield signed recommendation",
+      "record_version": "v1.0",
+      "created_utc": "2026-06-30T08:27:26.448539+00:00",
+      "input": {
+        "drug_name_input": "RandomDrugXYZ",
+        "food_herb_name_input": "RandomFoodXYZ",
+        "drug_name_norm": "randomdrugxyz",
+        "food_herb_name_norm": "randomfoodxyz"
+      },
+      "decision": {
+        "recommendation_label": "Insufficient evidence",
+        "source": "Input Coverage Guard",
+        "final_decision_source": "Coverage guard blocked out-of-vocabulary model prediction",
+        "found_in_ddid": "False",
+        "coverage_guard_applied": "True"
+      },
+      "asset_hashes": {
+        "ddid_lookup_table_sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+        "model_file_sha256": "883956d5ee1e2fb5a715ace250bb463a0340d32d58ce7f30b38c49a4c03d237c",
+        "inference_policy_sha256": "dbd7e239f3980b2acb3f0102df21b31e97d1a77aa1ff1c770afd4afcc9182394"
+      },
+      "output_hash": "8e0d872b61d14b593dcda2c75be2866314afde4474e4e5ef258cdf6a20ff3f2a",
+      "disclaimer": "Research prototype only. This is medication-aware food-risk screening using selected public evidence sources and is not a substitute for advice from physicians, pharmacists, or registered dietitians."
+    },
+    "record_signature_hmac_sha256": "7d7e04b37b00ccbb8f49a9779eb0656a829fdd6a6ca1e8485da8604149f7d66c"
+  }
+]
+RPI_TAMPER_TEST_CHANGE

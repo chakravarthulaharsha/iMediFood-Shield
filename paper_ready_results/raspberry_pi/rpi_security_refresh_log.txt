@@ -1,0 +1,10 @@
+======================================================================
+Raspberry Pi security refresh complete
+======================================================================
+Signed manifest: /home/pi/Desktop/MediFoodShield/security/rpi_security_manifest_v1_signed.json
+Verification result: VERIFIED_PROVENANCE
+Protected assets: 5
+Missing assets: 0
+Attack detection: 5/5
+Attack detection rate: 100.0%
+Paper-ready folder: /home/pi/Desktop/MediFoodShield/paper_ready_results/raspberry_pi

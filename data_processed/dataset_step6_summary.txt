@@ -1,0 +1,27 @@
+MediFoodShield Paper 1 - DDID-only Dataset Step 6 Summary
+======================================================================
+
+Total unique drug-food/herb pairs: 17693
+
+Class distribution:
+                            paper_label  count  percentage
+                            Use caution  15766       89.11
+No known interaction in selected source   1566        8.85
+                                  Avoid    361        2.04
+
+Majority baseline:
+Majority label: Use caution
+Majority baseline accuracy: 0.8911
+
+Conflict summary:
+Pairs with effect conflicts: 495
+Pairs with paper-label conflicts: 285
+Percentage with effect conflicts: 2.80%
+Percentage with paper-label conflicts: 1.61%
+
+Type vs label distribution:
+paper_label  Avoid  No known interaction in selected source  Use caution    All
+Type                                                                           
+Food            64                                      810         2855   3729
+Herb           297                                      756        12911  13964
+All            361                                     1566        15766  17693

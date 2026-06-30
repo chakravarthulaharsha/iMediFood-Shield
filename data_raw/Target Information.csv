@@ -1,0 +1,1357 @@
+﻿TTD_ID,Target_ID,Target_Name,Highest_status,MOA(Mechanisms of Action),FHDI_Drug_ID
+D0N0TZ,T46937,P2Y purinoceptor 12 (P2RY12),Approved,Antagonist,D00589
+D0TR5X,T27812,Serotonin transporter (SERT),Approved,Modulator,D00160
+D06OIV,T02777,ATP-binding cassette transporter C9 (ABCC9),Approved,Blocker,D00370
+D06OIV,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Blocker,D00370
+D0U2OO,T78709,5-HT 1A receptor (HTR1A),Approved,Agonist,D00065
+D0A1DH,T84316,Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1),Approved,Blocker,D00265
+D0A2ZX,T49814,Bacterial Deoxyribonucleic acid (Bact DNA),Approved,Modulator,D00241
+D05ULR,T94879,HUMAN phosphodiesterase type 5 (PDE5),Phase 3 Trial,Inhibitor,D01334
+D0WI3T,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Inhibitor,D00756
+D0E3OF,T11843,Vitamin K epoxide reductase complex 1 (VKORC1),Approved,Inhibitor,D01217
+D0D7LA,T08922,Acetyl-CoA carboxylase 2 (ACACB),Approved,Activator,D00230
+D0D7LA,T39676,Solute carrier family 47 member 1 (SLC47A1),Approved,Modulator,D00230
+D0F8RA,T25663,Adenosine receptor (ADOR),Approved,Antagonist,D00032
+D0U6LM,T75440,Translocator protein (TSPO),Approved,Modulator,D00245
+D0A1PX,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Modulator,D00162
+D0H0ND,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00572
+D0M9BW,T40800,Sodium pump subunit alpha-1 (ATP1A1),Approved,Binder,D00635
+D01KPV,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00149
+D0SH3I,T57361,Kallikrein-related peptidase (KLK),Approved,Inhibitor,D00751
+D0SH3I,T27602,Cationic trypsinogen (PRSS1),Approved,Inhibitor,D00751
+D0SH3I,T69707,Proteasome (PS),Approved,Modulator,D00751
+D0EP0C,T72168,Mineralocorticoid receptor  (MR),Approved,Modulator,D00404
+D0NS6H,T30082,Acetylcholinesterase (AChE),Approved,Modulator,D00128
+D0LG8E,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00454
+D0I5HF,T84631,Coagulation factor Xa (F10),Approved,Inhibitor,D01057
+D0NJ5H,T31391,Dipeptidyl peptidase 4 (DPP-4),Approved,Inhibitor,D01082
+D07HGR,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00936
+D09KTS,T25005,Tyrosine-protein kinase BTK (ATK),Approved,Inhibitor,D01138
+D0Z5IU,T26623,Aldose reductase (AKR1B1),Approved,Inhibitor,D00822
+D0JE2E,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00774
+D0JE2E,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D01381
+D07KSG,T89534,Estrogen receptor (ESR),Approved,Antagonist,D00829
+D0B7EB,T96144,DNA topoisomerase II (TOP2),Approved,Modulator,D00543
+D06ABF,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00211
+D0DD0K,T74456,Angiotensin II receptor type-1 (AGTR1),Approved,Antagonist,D00213
+D0Q2PE,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00267
+D0O5WP,T43189,Tubulin (TUB),Approved,Inhibitor,D00700
+D04OSE,T82266,Voltage-gated L-type calcium channel (L-CaC),Approved,Modulator,D00259
+D0K3QS,T75243,Serine/threonine-protein kinase mTOR (mTOR),Approved,Inhibitor,D00972
+D08RBC,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00699
+D0Y3TM,T49493,Hemoglobin (HB),Approved,Activator,D00507
+D0GY5Z,T03403,Prostaglandin G/H synthase (COX),Approved,Inhibitor,D00043
+D0GY5Z,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00043
+D0WN0U,T45993,Calcium channel unspecific (CaC),Approved,Blocker,D00142
+D07MVK,T39610,Calmodulin (CALM),Approved,Modulator,D00544
+D01TSI,T81183,Adrenergic receptor Alpha-1 (ADRA1),Approved,Agonist,D00447
+D08HVR,T67162,Dopamine D2 receptor (D2R),Approved,Modulator,D00420
+D06RGG,T79591,Thyroid hormone receptor alpha (THRA),Approved,Antagonist,D00403
+D0U5QK,T03403,Prostaglandin G/H synthase (COX),Approved,Inhibitor,D00019
+D0U5QK,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00019
+D0U5QK,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00019
+D03OFF,T58921,Peroxisome proliferator-activated receptor gamma (PPAR-gamma),Approved,Agonist,D00299
+D07VLY,T48945,TERT messenger RNA (TERT mRNA),Approved,NA,D00531
+D07VLY,T96144,DNA topoisomerase II (TOP2),Approved,Modulator,D00531
+D03SKD,T58992,Opioid receptor delta (OPRD1),Approved,Agonist,D00907
+D03SKD,T47768,Opioid receptor mu (MOP),Approved,Modulator,D00907
+D04YZL,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Agonist,D00341
+D0U4CE,T23499,Endothelin A receptor (EDNRA),Approved,Modulator,D00666
+D0U4CE,T92828,Endothelin B receptor (EDNRB),Approved,Modulator,D00666
+D0Y4QG,T52771,Mycobacterium Proton pump (MycB Prop),Approved,Modulator,D00940
+D09GRX,T14597,Erbb2 tyrosine kinase receptor (HER2),Approved,Inhibitor,D01198
+D03VPC,T88975,Phosphodiesterase 3A (PDE3A),Approved,Inhibitor,D00091
+D03VPC,T33754,Phosphodiesterase 3 (PDE3),Approved,Modulator,D00091
+D05BMG,T99524,Trace amine-associated receptor-1 (TAAR1),Approved,Modulator,D00114
+D02TLO,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00191
+D08ZEB,T39078,Calcium-activated potassium channel (KCN),Approved,Activator,D00090
+D0OB1J,T84316,Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1),Approved,Blocker,D00551
+D01XNB,T92687,Gastric H(+)/K(+) ATPase (Proton pump),Approved,Modulator,D00271
+D0TD1R,T16156,Thrombopoietin receptor (MPL),Approved,Agonist,D01192
+D06OMK,T25464,Calcineurin (PPP3CA),Approved,Inhibitor,D00770
+D0R1QE,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00187
+D0R1QE,T00884,C-X-C chemokine receptor type 1 (CXCR1),Approved,Inhibitor,D00187
+D0R1QE,T56923,C-X-C chemokine receptor type 2 (CXCR2),Approved,Inhibitor,D00187
+D0R1QE,T22658,Interleukin-8 (IL8),Approved,Inhibitor,D00187
+D0W9MM,T28661,Tubulin beta-2 chain (TUBB2),Approved,Inhibitor,D00481
+D0O8SJ,T99989,Casein kinase I epsilon (CSNK1E),Approved,Inhibitor,D01282
+D0O8SJ,T67849,PI3-kinase delta (PIK3CD),Approved,Inhibitor,D01282
+D01UXC,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00045
+D0C1SF,T71484,Fungal Microtubule (Fung MicroTU),Approved,Inducer,D00754
+D0R1RS,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Modulator,D00194
+D0R1RS,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Modulator,D01370
+D0O1WX,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Inhibitor,D00093
+D0O1WX,T52227,Candida Thymidylate synthase (Candi TMP1),Approved,Inhibitor,D00093
+D0O1WX,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00093
+D0O1WX,T40696,Staphylococcus Topoisomerase IV (Stap-coc parC),Approved,Modulator,D00093
+D02OZE,T03917,Sodium/potassium-transporting ATPase (SPT ATPase),Approved,Inhibitor,D00828
+D02OZE,T36053,Organic anion transporter M1 (SLCO4C1),Approved,Modulator,D00828
+D0O6IU,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00419
+D0XN1F,T45993,Calcium channel unspecific (CaC),Approved,Blocker,D00262
+D0L9GG,T75440,Translocator protein (TSPO),Approved,Agonist,D00027
+D07JVL,T75440,Translocator protein (TSPO),Approved,Agonist,D00115
+D06WTZ,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00571
+D0R0MW,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Modulator,D00926
+D0G5QB,T47768,Opioid receptor mu (MOP),Approved,Agonist,D00568
+D0U3LS,T75440,Translocator protein (TSPO),Approved,Modulator,D00375
+D03NPH,T75440,Translocator protein (TSPO),Approved,Modulator,D00328
+D0E4DW,T29303,Sodium channel unspecific (NaC),Approved,Blocker,D00016
+D0Z1RV,T24983,Dopamine D4 receptor (D4R),Approved,Modulator,D01328
+D03HFG,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00924
+D0D1AL,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00178
+D0K0TC,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00627
+D0E1WI,T47768,Opioid receptor mu (MOP),Approved,Modulator,D00148
+D09OJQ,T23547,Opioid receptor (OPR),Approved,Agonist,D00231
+D0Z1ZM,T53601,Bacterial 50S ribosomal RNA (Bact 50S rRNA),Approved,Binder,D00656
+D02YIZ,T53601,Bacterial 50S ribosomal RNA (Bact 50S rRNA),Approved,Binder,D00478
+D09HNR,T53601,Bacterial 50S ribosomal RNA (Bact 50S rRNA),Approved,Binder,D00837
+D03DDR,T12819,E3 ubiquitin-protein ligase COP1 (RFWD2),Approved,Modulator,D00845
+D03DDR,T12819,E3 ubiquitin-protein ligase COP1 (RFWD2),Approved,Modulator,D01382
+D0T1LK,T20089,Plasmodium Deoxyribonucleic acid (Malaria DNA),Approved,NA,D00310
+D0L9ZR,T19433,Glutathione-dependent PGD synthase (HPGDS),Approved,Inhibitor,D00307
+D0A0OO,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Inhibitor,D00618
+D0V7CF,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Inhibitor,D00939
+D0V4IB,T73726,Candida Cytochrome P450 51 (Candi ERG11),Approved,Modulator,D00579
+D0V4IB,T69189,Hedgehog signaling pathway (HS pathway),Approved,Inhibitor,D00579
+D0HD9K,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00018
+D08JIV,T84316,Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1),Approved,Blocker,D00036
+D0T0KA,T45993,Calcium channel unspecific (CaC),Approved,Blocker,D00258
+D0S5CU,T45993,Calcium channel unspecific (CaC),Approved,Blocker,D00263
+D0R0FE,T64795,Voltage-gated calcium channel alpha Cav3.1 (CACNA1G),Approved,Blocker,D00070
+D0L5WM,T67952,Potassium channel unspecific (KC),Approved,Modulator,D00033
+D01QIN,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00597
+D02RQU,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00574
+D03SVX,T61622,Angiotensinogenase renin (REN),Approved,Inhibitor,D00954
+D0IL7L,T40016,Glucocorticoid receptor (NR3C1),Approved,Agonist,D00407
+D0N5YA,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Blocker,D00624
+D0N5YA,T02777,ATP-binding cassette transporter C9 (ABCC9),Approved,Blocker,D00624
+D05LYX,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Modulator,D00174
+D05LYX,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Modulator,D01369
+D00STL,T38284,Fusion protein Bcr-Abl (Bcr-Abl),Approved,Modulator,D00808
+D0Y7IU,T40016,Glucocorticoid receptor (NR3C1),Approved,Antagonist,D00867
+D08QMX,T89534,Estrogen receptor (ESR),Approved,Agonist,D00400
+D08PIQ,T40016,Glucocorticoid receptor (NR3C1),Approved,Modulator,D00440
+D01GBY,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00684
+D08SOF,T77913,Histamine H1 receptor (H1R),Withdrawn from market,Antagonist,D00358
+D0B3HD,T92072,Adenosine A1 receptor (ADORA1),Approved,Antagonist,D00069
+D0B3HD,T77365,Adenosine A2a receptor (ADORA2A),Approved,Antagonist,D00069
+D0BD8D,T59679,5-HT 4 receptor (HTR4),Approved,Agonist,D00984
+D00QET,T71192,Leukotriene CysLT1 receptor (CYSLTR1),Approved,Antagonist,D00870
+D0B7YT,T09130,Muscarinic acetylcholine receptor (CHRM),Approved,Antagonist,D00832
+D0S5UH,T49814,Bacterial Deoxyribonucleic acid (Bact DNA),Approved,Modulator,D00097
+D02RSN,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00703
+D02RSN,T40696,Staphylococcus Topoisomerase IV (Stap-coc parC),Approved,Modulator,D00703
+D0O2IE,T60529,Prostaglandin G/H synthase 1 (COX-1),Withdrawn from market,Inhibitor,D00291
+D0O2IE,T40111,Inosine-5'-monophosphate dehydrogenase 1 (IMPDH1),Withdrawn from market,Inhibitor,D00291
+D08GHB,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00772
+D08GJH,T67162,Dopamine D2 receptor (D2R),Phase 3,Antagonist,D00687
+D08GJH,T32060,5-HT 2A receptor (HTR2A),Phase 3,Antagonist,D00687
+D08NQZ,T72657,Staphylococcus 30S ribosomal subunit (Stap-coc pbp2),Approved,Binder,D01209
+D0U4UQ,T82577,Angiotensin-converting enzyme (ACE),Approved,Modulator,D00181
+D09DHY,T43189,Tubulin (TUB),Approved,Binder,D00428
+D0AZ3C,T38284,Fusion protein Bcr-Abl (Bcr-Abl),Approved,Inhibitor,D00345
+D0AZ3C,T52624,Platelet-derived growth factor receptor (PDGFR),Approved,Inhibitor,D00345
+D0AZ3C,T57700,Tyrosine-protein kinase Kit (KIT),Approved,Inhibitor,D00345
+D0AZ3C,T33765,Mcl-1 messenger RNA (MCL-1 mRNA),Approved,NA,D00345
+D00EQL,T25265,Enhancer of zeste homolog 2 (EZH2),Approved,Inhibitor,D01250
+D0E6XR,T85943,Proto-oncogene c-Src (SRC),Approved,Inhibitor,D00850
+D0E6XR,T38284,Fusion protein Bcr-Abl (Bcr-Abl),Approved,Inhibitor,D00850
+D0E6XR,T12499,LCK tyrosine protein kinase (LCK),Approved,Inhibitor,D00850
+D0E6XR,T17980,Fyn tyrosine protein kinase (FYN),Approved,Inhibitor,D00850
+D0P1UX,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00387
+D0P1UX,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00387
+D03FLC,T34123,Voltage-gated sodium channel alpha Nav1.9 (SCN11A),Approved,Blocker,D00207
+D07POC,T59328,Epidermal growth factor receptor (EGFR),Approved,Inhibitor,D00728
+D0H7KF,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00329
+D06GDY,T27812,Serotonin transporter (SERT),Approved,Modulator,D00560
+D00YZD,T39087,Human immunodeficiency virus Integrase (HIV IN),Approved,Modulator,D01228
+D03ZMQ,T43920,Carbonic anhydrase (CA),Investigative,Inhibitor,D00004
+D03ZMQ,T53378,Carbonic anhydrase IV (CA-IV),Investigative,Inhibitor,D00004
+D03ZMQ,T13201,Carbonic anhydrase I (CA-I),Investigative,Inhibitor,D00004
+D03ZMQ,T06569,Carbonic anhydrase VI (CA-VI),Investigative,Inhibitor,D00004
+D03ZMQ,T64567,Carbonic anhydrase IX (CA-IX),Investigative,Inhibitor,D00004
+D03ZMQ,T31992,Carbonic anhydrase XIV (CA-XIV),Investigative,Inhibitor,D00004
+D03ZMQ,T20401,Carbonic anhydrase II (CA-II),Investigative,Inhibitor,D00004
+D03ZMQ,T16987,Carbonic anhydrase XII (CA-XII),Investigative,Inhibitor,D00004
+D07QPA,T94033,Coagulation factor IIa (F2),Investigative,Cofactor,D00864
+D07SUG,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00066
+D03SKR,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Agonist,D00102
+D03SKR,T69619,Membrane copper amine oxidase (AOC3),Approved,Inhibitor,D00102
+D0U5GB,T88338,Bacterial 23S ribosomal RNA (Bact 23S rRNA),Approved,Modulator,D00662
+D09XQF,T79068,Bacterial Fatty acid synthetase I (Bact inhA),Approved,Inhibitor,D00200
+D0SV8E,T19229,Proton-coupled folate transporter (SLC46A1),Approved,Modulator,D00688
+D0SV8E,T35465,Solute carrier family 19 member 1 (SLC19A1),Approved,Modulator,D00688
+D0S1CQ,T87023,Platelet-activating factor receptor (PTAFR),Phase 4,Inhibitor,D00696
+D0S1CQ,T77913,Histamine H1 receptor (H1R),Phase 4,Inhibitor,D00696
+D06MAJ,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00623
+D0N3VR,T73726,Candida Cytochrome P450 51 (Candi ERG11),Approved,Modulator,D00645
+D07HOB,T09826,DNA topoisomerase I (TOP1),Approved,Modulator,D00600
+D02WCI,T97257,Transforming growth factor beta 1 (TGFB1),Approved,Modulator,D00553
+D03IGH,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Modulator,D00739
+D0ZU9R,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Inhibitor,D00752
+D0AN7B,T97613,Melatonin receptor type 1A (MTNR1A),Approved,Binder,D00010
+D0AN7B,T75498,Quinone reductase 2 (NQO2),Approved,Inhibitor,D00010
+D07IRF,T46937,P2Y purinoceptor 12 (P2RY12),Approved,Inhibitor,D00995
+D0X5ZI,T23499,Endothelin A receptor (EDNRA),Approved,Antagonist,D00998
+D05SHK,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Modulator,D00550
+D0D1HW,T88975,Phosphodiesterase 3A (PDE3A),Approved,Inhibitor,D01339
+D0R9VR,T30082,Acetylcholinesterase (AChE),Approved,Inhibitor,D00460
+D03KZM,T66237,Vasopressin V2 receptor (V2R),Approved,Antagonist,D00743
+D0TP5H,T69494,N-methyl-D-aspartate receptor (NMDAR),Phase 3,Antagonist,D00730
+D0O5NK,T31595,Influenza Neuraminidase (Influ NA),Approved,Inhibitor,D00619
+D0X4RS,T68066,Steroid hormone receptor ERR (ESRR),Approved,Modulator,D00397
+D0Z0DW,T87467,Folate receptor (FOLR),Approved,Binder,D01326
+D0Z0DW,T19229,Proton-coupled folate transporter (SLC46A1),Approved,Modulator,D01326
+D0Z0DW,T35465,Solute carrier family 19 member 1 (SLC19A1),Approved,Modulator,D01326
+D0TG1H,T03403,Prostaglandin G/H synthase (COX),Approved,Modulator,D00116
+D0ZS8P,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00100
+D0K6GZ,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00587
+D0K6GZ,T40696,Staphylococcus Topoisomerase IV (Stap-coc parC),Approved,Modulator,D00587
+D0BP9C,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00735
+D0J0ZS,T42446,Gamma-aminobutyric acid B receptor (GABBR),Approved,Antagonist,D00167
+D05LBU,T87023,Platelet-activating factor receptor (PTAFR),Approved,Modulator,D00365
+D0M2MR,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Blocker,D00170
+D0M2MR,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Blocker,D01368
+D0O1UZ,T44351,Cannabinoid receptor (CB),Approved,Binder,D00806
+D09OBB,T46360,Opioid receptor sigma 1 (OPRS1),Approved,Agonist,D00932
+D0X4ZR,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00006
+D0X4ZR,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00006
+D07HVY,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00615
+D05LEO,T52227,Candida Thymidylate synthase (Candi TMP1),Approved,Inhibitor,D00159
+D05LEO,T75890,Dihydrothymine dehydrogenase (DPYD),Approved,Inhibitor,D00159
+D05LEO,T48945,TERT messenger RNA (TERT mRNA),Approved,NA,D00159
+D05LEO,T79249,Thymidylate synthase messenger RNA (TYMS mRNA),Approved,NA,D00159
+D0I1FQ,T39087,Human immunodeficiency virus Integrase (HIV IN),Approved,Modulator,D01206
+D0H4JM,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Antagonist,D00450
+D0WE3O,T47768,Opioid receptor mu (MOP),Approved,Modulator,D00912
+D0PQ3G,T93878,Solute carrier family 12 member 1 (SLC12A1),Approved,Blocker,D00166
+D0PQ3G,T93878,Solute carrier family 12 member 1 (SLC12A1),Approved,Blocker,D01367
+D07BCT,T62094,Bacterial 30S ribosomal RNA (Bact 30S rRNA),Approved,Modulator,D00541
+D0I2MK,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00240
+D0U5HU,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00957
+D0DJ1B,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00714
+D0DJ1B,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Inhibitor,D00714
+D09MGR,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00683
+D05FTJ,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00223
+D0CT9C,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00108
+D00PLV,T82624,"Inositol 1,4,5-trisphosphate receptor (ITPR)",Approved,Antagonist,D01101
+D0X4RN,T34123,Voltage-gated sodium channel alpha Nav1.9 (SCN11A),Approved,Blocker,D00189
+D0I0EG,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00561
+D04JEE,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00324
+D03SLR,T16987,Carbonic anhydrase XII (CA-XII),Patented,Inhibitor,D00771
+D03SLR,T20401,Carbonic anhydrase II (CA-II),Patented,Inhibitor,D00771
+D03SLR,T31992,Carbonic anhydrase XIV (CA-XIV),Patented,Inhibitor,D00771
+D03SLR,T64567,Carbonic anhydrase IX (CA-IX),Patented,Inhibitor,D00771
+D03SLR,T06569,Carbonic anhydrase VI (CA-VI),Patented,Inhibitor,D00771
+D03SLR,T13201,Carbonic anhydrase I (CA-I),Patented,Inhibitor,D00771
+D03SLR,T53378,Carbonic anhydrase IV (CA-IV),Patented,Inhibitor,D00771
+D03SLR,T43920,Carbonic anhydrase (CA),Patented,Inhibitor,D00771
+D03SLR,T83011,Monoamine oxidase type B (MAO-B),Patented,Inhibitor,D00771
+D0Z4SB,T09423,Inward rectifier potassium channel Kir1.2 (KCNJ10),Approved,Blocker,D00172
+D0N2SR,T99954,Prostacyclin receptor (PTGIR),Approved,Agonist,D01040
+D03UVS,T38301,Ribonucleoside-diphosphate reductase M2 (RRM2),Approved,Modulator,D00594
+D0K9MY,T31391,Dipeptidyl peptidase 4 (DPP-4),Approved,Inhibitor,D01073
+D00UZR,T85799,Cyclin-dependent kinase 4 (CDK4),Approved,Modulator,D00927
+D00UZR,T89361,Cyclin-dependent kinase 6 (CDK6),Approved,Modulator,D00927
+D00UZR,T85799,Cyclin-dependent kinase 4 (CDK4),Approved,Modulator,D01384
+D00UZR,T89361,Cyclin-dependent kinase 6 (CDK6),Approved,Modulator,D01384
+D04NQI,T17448,Histamine N-methyltransferase (HNMT),Approved,Inhibitor,D00038
+D08CDI,T59328,Epidermal growth factor receptor (EGFR),Approved,Inhibitor,D00738
+D08CDI,T14597,Erbb2 tyrosine kinase receptor (HER2),Approved,Inhibitor,D00738
+D08CDI,T92494,Eukaryotic elongation factor 2 kinase (eEF-2K),Approved,Inhibitor,D00738
+D05CKR,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00252
+D0D9JW,T03403,Prostaglandin G/H synthase (COX),Approved,Inhibitor,D00204
+D0B2GI,T02777,ATP-binding cassette transporter C9 (ABCC9),Approved,Blocker,D00171
+D0B2GI,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Blocker,D00171
+D0H3WI,T40111,Inosine-5'-monophosphate dehydrogenase 1 (IMPDH1),Approved,Inhibitor,D00545
+D0A1CB,T66040,Bacterial Penicillin binding protein 2 (Bact mrdA),Approved,Modulator,D00949
+D0F0YZ,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00286
+D0BA9U,T22939,Progesterone receptor (PGR),Approved,Binder,D00479
+D0BA9U,T22939,Progesterone receptor (PGR),Approved,Binder,D01376
+D0B7NG,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00086
+D0MA9N,T16761,Pneumocystis carinii Dihydropteroate synthase (PC DHPS),Approved,Modulator,D00110
+D2GV9Q,T33455,Insulin-like growth factor-binding protein 3 (IGFBP3),Phase 2,Inhibitor,D01092
+D03LJR,T75243,Serine/threonine-protein kinase mTOR (mTOR),Approved,Inhibitor,D00909
+D03LJR,T90695,PI3K/AKT/mTOR pathway (PAm pathway),Approved,Inhibitor,D00909
+D0F9GE,T07663,Phosphodiesterase 5A (PDE5A),Approved,Modulator,D00122
+D0G3DL,T30520,Bacterial RNA polymerase switch region (Bact RNAP-SR),Approved,Inhibitor,D01327
+D0G3DL,T30520,Bacterial RNA polymerase switch region (Bact RNAP-SR),Approved,Inhibitor,D01390
+D0S9QA,T06042,Sinus node I(f) channel (SA node IfC),Approved,Modulator,D00695
+D0S9QA,T99727,Hyperpolarization cyclic nucleotide-gated channel (HCN),Approved,Inhibitor,D00695
+D0MP5H,T74654,Adrenergic neuron (AD neuro),Approved,Blocker,D00111
+D0MP5H,T74654,Adrenergic neuron (AD neuro),Approved,Blocker,D01365
+D0F6EO,T82349,Bacterial Cell membrane (Bact CM),Approved,Modulator,D00533
+D0R8ER,T96144,DNA topoisomerase II (TOP2),Approved,Inhibitor,D00133
+D0S7JH,T23499,Endothelin A receptor (EDNRA),Approved,Modulator,D01107
+D0S7JH,T92828,Endothelin B receptor (EDNRB),Approved,Modulator,D01107
+D03WEX,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D01046
+D0EG1I,T23172,Janus kinase 3 (JAK-3),Approved,Modulator,D01042
+D0H3HM,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00595
+D0W9LX,T81183,Adrenergic receptor Alpha-1 (ADRA1),Approved,Antagonist,D00078
+D0A5SE,T40954,Xanthine dehydrogenase/oxidase (XDH),Approved,Inhibitor,D00697
+D0Z3DY,T11288,Multidrug resistance-associated protein 1 (ABCC1),Approved,Stimulator,D00052
+D0Z3DY,T05089,Calcium-dependent chloride channel anoctamin (ANO),Approved,Antagonist,D00052
+D0AV3G,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00127
+D0W5HK,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Modulator,D00744
+D0W5HK,T57700,Tyrosine-protein kinase Kit (KIT),Approved,Modulator,D00744
+D0W5HK,T59102,Platelet-derived growth factor receptor beta (PDGFRB),Approved,Modulator,D00744
+D0W5HK,T59328,Epidermal growth factor receptor (EGFR),Approved,Inhibitor,D00744
+D00HHS,T67162,Dopamine D2 receptor (D2R),Approved,Stimulator,D00444
+D04CRN,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00576
+D05GKD,T83813,5-HT 2C receptor (HTR2C),Approved,Modulator,D00534
+D0K5ER,T58921,Peroxisome proliferator-activated receptor gamma (PPAR-gamma),Approved,Agonist,D00871
+D0W0BF,T13260,Aromatase (CYP19A1),Approved,Inhibitor,D00040
+D07XGR,T86591,Peroxisome proliferator-activated receptor alpha (PPARA),Approved,Agonist,D00144
+D0R0FO,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Inhibitor,D01017
+D09JUG,T00140,Arachidonate 5-lipoxygenase (5-LOX),Approved,Inhibitor,D00588
+D0PG8O,T23547,Opioid receptor (OPR),Approved,Antagonist,D00931
+D0PW7C,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00567
+D08QME,T30578,Mycobacterium Arabinosyltransferase C (MycB embC),Approved,Inhibitor,D00486
+D05ARP,T37847,Herpes simplex virus DNA polymerase UL30 (HSV UL30),Approved,Inhibitor,D01331
+D02PPN,T55959,Dopamine transporter (DAT),Approved,Blocker,D00236
+D0L4YD,T67684,Muscarinic acetylcholine receptor M3 (CHRM3),Approved,Antagonist,D00708
+D0P0SZ,T23761,Sarcoplasmic/endoplasmic reticulum calcium ATPase (ATP2A),Approved,Inhibitor,D00681
+D00KVO,T68536,Tubulin beta (TUBB),Approved,Binder,D00023
+D0D2VS,T13260,Aromatase (CYP19A1),Approved,Inhibitor,D00586
+D0GU4K,T47094,Substance-P receptor (TACR1),Approved,Antagonist,D01345
+D0L3DK,T31391,Dipeptidyl peptidase 4 (DPP-4),Approved,Inhibitor,D00999
+D0C6DT,T92687,Gastric H(+)/K(+) ATPase (Proton pump),Approved,Modulator,D01004
+D0HR8Z,T14908,Ceramide glucosyltransferase (UGCG),Approved,Inhibitor,D00569
+D0E9WL,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00903
+D00PEH,T16156,Thrombopoietin receptor (MPL),Approved,Agonist,D01347
+D06YYD,T51666,Gastric H(+)/K(+) ATPase alpha (ATP4A),Approved,Inhibitor,D01009
+D06YYD,T92687,Gastric H(+)/K(+) ATPase (Proton pump),Approved,Modulator,D01009
+D06YYD,T51666,Gastric H(+)/K(+) ATPase alpha (ATP4A),Approved,Inhibitor,D01385
+D06YYD,T92687,Gastric H(+)/K(+) ATPase (Proton pump),Approved,Modulator,D01385
+D00BLL,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Modulator,D01026
+D01KHH,T75984,5-HT 2 receptor (5HT2R),Approved,Antagonist,D00107
+D00WUF,T84316,Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1),Approved,Modulator,D00951
+D0J8IJ,T14908,Ceramide glucosyltransferase (UGCG),Approved,Modulator,D01200
+D02EYG,T31391,Dipeptidyl peptidase 4 (DPP-4),Approved,Inhibitor,D01050
+D04JHN,T58992,Opioid receptor delta (OPRD1),Approved,Binder,D00901
+D04JHN,T47768,Opioid receptor mu (MOP),Approved,Inhibitor,D00901
+D01TNW,T30085,Sodium/glucose cotransporter 2 (SGLT2),Approved,Modulator,D01038
+D08YIN,T67952,Potassium channel unspecific (KC),Approved,Modulator,D00015
+D0G3PI,T60077,Retinoic acid receptor RXR-beta (RXRB),Approved,Agonist,D00782
+D0G3PI,T13726,Retinoic acid receptor RXR-alpha (RXRA),Approved,Agonist,D00782
+D0G3PI,T61657,Retinoic acid receptor beta (RARB),Approved,Agonist,D00782
+D0G3PI,T46456,Retinoic acid receptor RXR-gamma (RXRG),Approved,Agonist,D00782
+D0G3PI,T82146,Retinoic acid receptor gamma (RARG),Approved,Modulator,D00782
+D0TV9K,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Antagonist,D00323
+D0P6ZH,T84316,Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1),Approved,Blocker,D00622
+D05AWP,T16047,Onchocerca Glutamate-gated chloride channel (Onchoc GluCl),Approved,Modulator,D01022
+D05AWP,T64382,Gamma-aminobutyric acid receptor (GAR),Approved,Modulator,D01022
+D0OB0F,T63505,Tyrosine-protein kinase ABL1 (ABL),Approved,Inhibitor,D00925
+D0OB0F,T85943,Proto-oncogene c-Src (SRC),Approved,Inhibitor,D00925
+D0Y2LR,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00130
+D02AYL,T53242,Mycobacterium Mycolic acid synthase (MycB cma),Approved,Inhibitor,D00785
+D0X5UN,T51408,Adrenergic receptor beta-3 (ADRB3),Approved,Modulator,D01031
+D0H0EQ,T74312,Fms-like tyrosine kinase 3 (FLT-3),Approved,Modulator,D01139
+D0H0EQ,T63505,Tyrosine-protein kinase ABL1 (ABL),Approved,Modulator,D01139
+D0H0EQ,T57700,Tyrosine-protein kinase Kit (KIT),Approved,Modulator,D01139
+D0H0EQ,T60631,Proto-oncogene c-Ret (RET),Approved,Modulator,D01139
+D0T6WN,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Inhibitor,D00976
+D0T6WN,T43739,Voltage-gated sodium channel alpha Nav1.8 (SCN10A),Approved,Inhibitor,D00976
+D0T1WN,T28722,GABA(A) receptor gamma-3 (GABRG3),Approved,Modulator (allosteric modulator),D00393
+D0T1WN,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Modulator,D00393
+D0L9HX,T25464,Calcineurin (PPP3CA),Approved,Inhibitor,D00997
+D01QGX,T32060,5-HT 2A receptor (HTR2A),Approved,Modulator,D01072
+D01QGX,T67162,Dopamine D2 receptor (D2R),Approved,Modulator,D01072
+D06ALD,T30085,Sodium/glucose cotransporter 2 (SGLT2),Approved,Modulator,D01099
+D07ABV,T73726,Candida Cytochrome P450 51 (Candi ERG11),Approved,Inhibitor,D00791
+D01WUA,T99954,Prostacyclin receptor (PTGIR),Approved,Agonist,D00987
+D0V8HJ,T62431,Tyrosine-protein kinase SYK (SYK),Approved,Modulator,D01096
+D0XF8W,T79068,Bacterial Fatty acid synthetase I (Bact inhA),Approved,Inhibitor,D00012
+D0MU9L,T21678,Alpha-galactosidase A (GLA),Approved,Modulator,D00727
+D0KL4J,T51666,Gastric H(+)/K(+) ATPase alpha (ATP4A),Approved,Inhibitor,D00330
+D08DFX,T30085,Sodium/glucose cotransporter 2 (SGLT2),Approved,Modulator,D01137
+D0G8BM,T08391,Janus kinase 2 (JAK-2),Approved,Inhibitor,D01123
+D09FAZ,T92308,DNA [cytosine-5]-methyltransferase (DNMT),Approved,Inhibitor,D00458
+D06WRJ,T59328,Epidermal growth factor receptor (EGFR),Registered,Antagonist,D01173
+D00JRA,T93662,Hyaluronidase (HYAL),Approved,Modulator,D00847
+D03EDQ,T66505,Smoothened homolog (SMO),Approved,Modulator,D01132
+D06UDG,T74456,Angiotensin II receptor type-1 (AGTR1),Approved,Antagonist,D00601
+D01WLC,T84886,Solute carrier family 12 member 3 (SLC12A3),Approved,Blocker,D00239
+D01ZRI,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Modulator,D00974
+D06XXH,T92057,Erbb4 tyrosine kinase receptor (Erbb-4),Approved,Antagonist,D01086
+D06XXH,T14597,Erbb2 tyrosine kinase receptor (HER2),Approved,Antagonist,D01086
+D06XXH,T59328,Epidermal growth factor receptor (EGFR),Approved,Antagonist,D01086
+D0W9WF,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00203
+D09YHJ,T16047,Onchocerca Glutamate-gated chloride channel (Onchoc GluCl),Approved,Activator,D00961
+D09GDD,T60631,Proto-oncogene c-Ret (RET),Approved,Modulator,D01071
+D09GDD,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Modulator,D01071
+D09GDD,T57700,Tyrosine-protein kinase Kit (KIT),Approved,Modulator,D01071
+D0Q5NX,T20178,Tumor necrosis factor (TNF),Approved,Inhibitor,D00745
+D04XVN,T23003,MAPK/ERK kinase kinase (MAP3K),Approved,Modulator,D01097
+D05ROI,T99089,Serine/threonine-protein kinase B-raf (BRAF),Approved,Inhibitor,D01167
+D05ROI,T99089,Serine/threonine-protein kinase B-raf (BRAF),Approved,Inhibitor,D01388
+DY7MH5,T79232,Vasopressin V1a receptor (V1AR),Phase 3,Antagonist,D01184
+D02STN,T89041,Steroid 17-alpha-monooxygenase (S17AH),Approved,Modulator,D00694
+D07YGK,T22939,Progesterone receptor (PGR),Phase 2,Antagonist,D01196
+D06PSS,T67952,Potassium channel unspecific (KC),Approved,Modulator,D00917
+D6DT3X,T22348,Bacterial DNA gyrase (Bact gyrase),Phase 2,Inhibitor,D00789
+D6DT3X,T72545,Bacterial DNA topoisomerase 4A (Bact parC),Phase 2,Inhibitor,D00789
+D0R7HO,T93878,Solute carrier family 12 member 1 (SLC12A1),Approved,Blocker,D00064
+D0U3YU,T27021,Transferase unspecific (TF),Approved,Modulator,D00538
+D0W7HE,T80276,PI3-kinase alpha (PIK3CA),Approved,Inhibitor,D01234
+D05PWX,T63966,Vascular endothelial growth factor receptor 1 (FLT-1),Phase 3,Inhibitor,D01201
+D05PWX,T47101,Fibroblast growth factor receptor 1 (FGFR1),Phase 3,Inhibitor,D01201
+D05PWX,T80975,Vascular endothelial growth factor receptor 2 (KDR),Phase 3,Inhibitor,D01201
+D05PWX,T07303,Vascular endothelial growth factor receptor 3 (FLT-4),Phase 3,Inhibitor,D01201
+D05PWX,T20333,Macrophage colony-stimulating factor 1 receptor (CSF1R),Phase 3,Inhibitor,D01201
+D05PWX,T31946,Vascular endothelial growth factor receptor (VEGFR),Phase 3,Inhibitor,D01201
+D06JHV,T63505,Tyrosine-protein kinase ABL1 (ABL),Phase 2,Inhibitor,D01187
+D0T6XX,T92687,Gastric H(+)/K(+) ATPase (Proton pump),Approved,Modulator,D00283
+D00LSI,T61400,Dihydroorotate dehydrogenase (DHODH),Phase 2,Modulator,D01015
+D06YPU,T03403,Prostaglandin G/H synthase (COX),Approved,Modulator,D00552
+D00YEV,T88285,Lactoylglutathione lyase (GLO1),Phase 2,Inhibitor,D00879
+D00YEV,T20178,Tumor necrosis factor (TNF),Phase 2,Inhibitor,D00879
+D00YEV,T40954,Xanthine dehydrogenase/oxidase (XDH),Phase 2,Inhibitor,D00879
+D00YEV,T60526,L-selectin (SELL),Phase 2,Inhibitor,D00879
+D00YEV,T86161,Prolyl endopeptidase (PREP),Phase 2,Inhibitor,D00879
+D00YEV,T10965,P-selectin (SELP),Phase 2,Inhibitor,D00879
+D00YEV,T00140,Arachidonate 5-lipoxygenase (5-LOX),Phase 2,Inhibitor,D00879
+D0M4WA,T51426,Farnesoid X-activated receptor (FXR),Approved,Modulator,D00779
+D0O0LS,T69128,Proto-oncogene c-Ros (ROS1),Approved,Inhibitor,D01151
+D0O0LS,T56418,ALK tyrosine kinase receptor (ALK),Approved,Inhibitor,D01151
+D0O0LS,T84703,BDNF/NT-3 growth factors receptor (TrkB),Approved,Inhibitor,D01151
+D0O0LS,T51076,NT-3 growth factor receptor (TrkC),Approved,Inhibitor,D01151
+D0O0LS,T07173,Tropomyosin-related kinase A (TrkA),Approved,Inhibitor,D01151
+D0U2JP,T31391,Dipeptidyl peptidase 4 (DPP-4),Approved,Inhibitor,D00861
+D06ZEO,T19693,Soluble guanylyl cyclase (GUCY2D),Approved,Modulator,D01208
+D0T5DP,T23003,MAPK/ERK kinase kinase (MAP3K),Phase 3,Modulator,D01052
+D0T5DP,T35940,ERK activator kinase 1 (MEK1),Phase 3,Inhibitor,D01052
+D0T5DP,T89055,ERK activator kinase 2 (MEK2),Phase 3,Inhibitor,D01052
+D0QK5X,T11211,Androgen receptor (AR),Approved,Modulator,D01106
+D07BSQ,T22939,Progesterone receptor (PGR),Approved,Agonist,D00416
+D0KX7I,T56418,ALK tyrosine kinase receptor (ALK),Phase 3,Inhibitor,D01239
+D02CPP,T92687,Gastric H(+)/K(+) ATPase (Proton pump),Approved,Modulator,D01180
+D0LW0T,T40474,Proto-oncogene c-Met (MET),Phase 3,Inhibitor,D01259
+D05MQK,T07663,Phosphodiesterase 5A (PDE5A),Approved,Inhibitor,D00671
+D0NV5O,T72168,Mineralocorticoid receptor  (MR),Phase 3,Antagonist,D01248
+DDH8L6,T59328,Epidermal growth factor receptor (EGFR),Phase 3,Inhibitor,D01313
+D00DKK,T11822,Retinoic acid receptor (RAR),Approved,Agonist,D00886
+D0V4QS,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D01335
+D0M7JT,T94033,Coagulation factor IIa (F2),Approved,Inhibitor,D00741
+D0C4YC,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Inhibitor,D00228
+D0C4YC,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Inhibitor,D01371
+D0KG3R,T84631,Coagulation factor Xa (F10),Approved,Modulator,D01036
+D0H0KB,T34123,Voltage-gated sodium channel alpha Nav1.9 (SCN11A),Approved,Blocker,D00333
+D01AXB,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00599
+D01AXB,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00599
+D0CP4E,T64382,Gamma-aminobutyric acid receptor (GAR),Approved,Agonist,D00101
+D05OFX,T92078,Dihydropyrimidinase related protein 2 (DPYSL2),Approved,Modulator,D00747
+D05OFX,T34123,Voltage-gated sodium channel alpha Nav1.9 (SCN11A),Approved,Inhibitor,D00747
+D05OFX,T72065,Voltage-gated sodium channel (Nav),Approved,Inhibitor,D00747
+D0E1XL,T64591,5-HT 3A receptor (HTR3A),Approved,Antagonist,D00902
+D0E1XL,T73676,Synaptic vesicle glycoprotein 2A (SV2A),Approved,Modulator,D00902
+D0QL3P,T34123,Voltage-gated sodium channel alpha Nav1.9 (SCN11A),Approved,Blocker,D00535
+D0Y7RW,T64382,Gamma-aminobutyric acid receptor (GAR),Approved,Antagonist,D00294
+D07VDZ,T73495,Glutamate receptor ionotropic kainate 1 (GRIK1),Approved,Antagonist,D00910
+D09ZIS,T29303,Sodium channel unspecific (NaC),Approved,Blocker,D00394
+D09LWS,T33901,Niemann-Pick C1-like protein 1 (NPC1L1),Approved,Inhibitor,D00704
+D03JTG,T63966,Vascular endothelial growth factor receptor 1 (FLT-1),Phase 3,Inhibitor,D01169
+D03JTG,T80975,Vascular endothelial growth factor receptor 2 (KDR),Phase 3,Inhibitor,D01169
+D03JTG,T07303,Vascular endothelial growth factor receptor 3 (FLT-4),Phase 3,Inhibitor,D01169
+D03JTG,T31946,Vascular endothelial growth factor receptor (VEGFR),Phase 3,Inhibitor,D01169
+D00USF,T27812,Serotonin transporter (SERT),Approved,Modulator,D00373
+D00USF,T78709,5-HT 1A receptor (HTR1A),Approved,Modulator,D00373
+D07DCG,T69563,Oxalosuccinate decarboxylase (IDH1),Approved,Inhibitor,D01275
+D01ZGH,T05152,Hepatitis C virus RNA-directed RNA polymerase (HCV NS5B),Discontinued in Phase 1,Inhibitor,D01242
+D0C3SW,T86057,Urate anion exchanger 1 (URAT1),Approved,Modulator,D01204
+D08PIE,T56418,ALK tyrosine kinase receptor (ALK),Approved,Inhibitor,D01258
+D04LVK,T56418,ALK tyrosine kinase receptor (ALK),Approved,Modulator,D01240
+D0D6XT,T41515,FGFR4 messenger RNA (FGFR4 mRNA),Phase 1,Inhibitor,D01303
+D04BCB,T86591,Peroxisome proliferator-activated receptor alpha (PPARA),Approved,Agonist,D01018
+D04BCB,T58921,Peroxisome proliferator-activated receptor gamma (PPAR-gamma),Approved,Agonist,D01018
+D0G6VL,T32060,5-HT 2A receptor (HTR2A),Approved,Antagonist,D00338
+D01SHZ,T34867,Poly [ADP-ribose] polymerase (PARP),Approved,Modulator,D01043
+DI4HA7,T20563,EGFR Exon20ins mutant (EGFR Exon20ins),Phase 3,Inhibitor,D01306
+D0Y6SQ,T20297,Serine protease unspecific (SP),Phase 2,Inhibitor,D00071
+D03QJL,T47941,Phosphodiesterase 4 (PDE4),Approved,Inhibitor,D00186
+D03QJL,T33754,Phosphodiesterase 3 (PDE3),Approved,Inhibitor,D00186
+D0VI4N,T63414,P2X purinoceptor 7 (P2RX7),Phase 1,Antagonist,D01296
+D0O5AG,T32369,Influenza Polymerase acidic endonuclease (Influ PA),Approved,Inhibitor,D01317
+D07VFD,T84316,Voltage-gated calcium channel alpha-2/delta-1 (CACNA2D1),Registered,Modulator,D01246
+D03RTS,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00079
+D09WNK,T85605,5-HT receptor (5HTR),Phase 3,Antagonist,D00143
+D0C4DH,T03896,Hepatitis C virus Serine protease NS3/4A (HCV NS3/4A),Approved,Inhibitor,D01391
+D0C4DH,T40555,Hepatitis C virus Non-structural 5A (HCV NS5A),Approved,Inhibitor,D01391
+D02CTS,T89534,Estrogen receptor (ESR),Approved,Modulator,D00846
+D0R4UW,T47941,Phosphodiesterase 4 (PDE4),Approved,Modulator,D00783
+D04UKC,T19693,Soluble guanylyl cyclase (GUCY2D),Approved,Modulator,D01077
+D0E3SH,T68547,Histone deacetylase 1 (HDAC1),Approved,Inhibitor,D01002
+D07EDB,T13852,Sphingosine-1-phosphate receptor 1 (S1PR1),Approved,Agonist,D01202
+D0D5ZJ,T08391,Janus kinase 2 (JAK-2),Phase 3,Modulator,D01146
+D0NF1U,T73712,Fatty acid-binding protein 1 (FABP1),Approved,Inhibitor,D00617
+D0NF1U,T73712,Fatty acid-binding protein 1 (FABP1),Approved,Inhibitor,D01380
+D09LNI,T73726,Candida Cytochrome P450 51 (Candi ERG11),Approved,Modulator,D00154
+D06IAQ,T30082,Acetylcholinesterase (AChE),Approved,Inhibitor,D00030
+D0PA5S,T86528,Geranyltranstransferase (FDPS),Approved,Inhibitor,D01374
+D0PA5S,T86528,Geranyltranstransferase (FDPS),Approved,Inhibitor,D00343
+D0W6CA,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00965
+D03YGR,T92076,Extracellular calcium-sensing receptor (CASR),Approved,Agonist,D00715
+D00HCQ,T52227,Candida Thymidylate synthase (Candi TMP1),Approved,Inhibitor,D00608
+D01SAT,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00057
+D06CVT,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00633
+D09IPV,T89534,Estrogen receptor (ESR),Approved,Antagonist,D00522
+D0K1XK,T69619,Membrane copper amine oxidase (AOC3),Approved,Modulator,D00180
+D08LTU,T72657,Staphylococcus 30S ribosomal subunit (Stap-coc pbp2),Approved,Binder,D01211
+D00FGO,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00788
+D0MD2L,T29303,Sodium channel unspecific (NaC),Approved,Blocker,D00690
+D0GQ7K,T28658,Plasmodium 80S ribosome (Malaria 80S),Approved,Binder,D00224
+D0HE0Y,T67952,Potassium channel unspecific (KC),Approved,Blocker,D00410
+D06FDR,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Inhibitor,D01330
+D0KR2J,T56518,Hepatitis B virus Reverse transcriptase (HBV RT),Approved,Modulator,D01323
+D0E6YQ,T30082,Acetylcholinesterase (AChE),Approved,Inhibitor,D00017
+D0I6IB,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D01216
+D09ANG,T99954,Prostacyclin receptor (PTGIR),Approved,Antagonist,D00887
+D05QDC,T29130,Signal transducer and activator of transcription 3 (STAT3),Approved,Inhibitor,D00895
+D0X5KF,T47768,Opioid receptor mu (MOP),Approved,Modulator,D00900
+D0A4IJ,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Inhibitor,D00758
+D0U1OM,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Inhibitor,D00593
+D08LFZ,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00120
+D06JRD,T60529,Prostaglandin G/H synthase 1 (COX-1),Withdrawn from market,Inhibitor,D00123
+D0G7FJ,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D01215
+D02RQT,T00140,Arachidonate 5-lipoxygenase (5-LOX),Phase 3,Modulator,D00592
+D0P7JZ,T62193,Aromatic-L-amino-acid decarboxylase (DDC),Approved,Inhibitor,D00537
+D0Y9EW,T99089,Serine/threonine-protein kinase B-raf (BRAF),Approved,Modulator,D01162
+D0Y2IE,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00948
+D0J9HW,T34867,Poly [ADP-ribose] polymerase (PARP),Approved,Modulator,D01128
+D06ZEE,T01318,Plasmodium Dihydroorotate dehydrogenase (Malaria DHOdehase),Approved,Inhibitor,D00650
+D0W1US,T84885,Picornavirus Capsid protein VP1 (PicVir VP1),Phase 2,Modulator,D00014
+D02VMJ,T30372,Trypanosoma Cruzipain (Trypano CYSP),Approved,Inhibitor,D00566
+D0R1JV,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00603
+D0R1JV,T34429,Neuronal acetylcholine receptor alpha-7 (CHRNA7),Approved,Binder,D00603
+D08TVA,T30372,Trypanosoma Cruzipain (Trypano CYSP),Phase 3,Inhibitor,D00216
+D06CTE,T46482,Toll-like receptor 7 (TLR7),Approved,Agonist,D00585
+D0R6BI,T22118,Dopamine D1 receptor (D1R),Approved,Agonist,D00145
+D0Z9QR,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Inhibitor,D00510
+D0NG7O,T07806,5-HT 1B receptor (HTR1B),Approved,Modulator,D00604
+D0NG7O,T11072,5-HT 1D receptor (HTR1D),Approved,Modulator,D00604
+D0C9SY,T07663,Phosphodiesterase 5A (PDE5A),Approved,Binder,D01336
+D0J6II,T67952,Potassium channel unspecific (KC),Phase 3,Modulator,D01005
+D0VR7W,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D01006
+D0VR7W,T40696,Staphylococcus Topoisomerase IV (Stap-coc parC),Approved,Modulator,D01006
+D0Z2FB,T61744,Phosphodiesterase 4A (PDE4A),Phase 2,Inhibitor,D00712
+D0Z2FB,T02001,Phosphodiesterase 4D (PDE4D),Phase 2,Inhibitor,D00712
+D0Z2FB,T10265,Phosphodiesterase 4B (PDE4B),Phase 2,Inhibitor,D00712
+D00SEB,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00941
+D0Z7KE,T45993,Calcium channel unspecific (CaC),Approved,Modulator,D00201
+D02WFK,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Agonist,D00431
+D02WFK,T12187,Mycobacterium D-alanine-D-alanine ligase A (MycB ddl),Approved,Inhibitor,D00431
+D02WFK,T14582,Mycobacterium Biosynthetic alanine racemase (MycB alr),Approved,Inhibitor,D00431
+D02WFK,T62276,Glutamate receptor ionotropic NMDA 1 (NMDAR1),Approved,Inhibitor,D00431
+D07UYO,T88338,Bacterial 23S ribosomal RNA (Bact 23S rRNA),Approved,Binder,D00763
+D0F5LH,T67684,Muscarinic acetylcholine receptor M3 (CHRM3),Investigative,Antagonist,D00279
+D09GUJ,T62094,Bacterial 30S ribosomal RNA (Bact 30S rRNA),Approved,Inhibitor,D01225
+D0J6AU,T11388,Cathepsin K (CTSK),Phase 3,Inhibitor,D01054
+D09NIA,T93878,Solute carrier family 12 member 1 (SLC12A1),Approved,Blocker,D00089
+D00LNW,T51407,Exportin-1 (XPO1),Phase 3,Inhibitor,D01269
+D0F4SY,T67162,Dopamine D2 receptor (D2R),Phase 3,Modulator,D01011
+D07JAG,T62460,Janus kinase 1 (JAK-1),Approved,Modulator,D01244
+D0IQ6P,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Inhibitor,D01148
+D0IQ6P,T40474,Proto-oncogene c-Met (MET),Approved,Inhibitor,D01148
+D03ZBT,T40474,Proto-oncogene c-Met (MET),Approved,Modulator,D01091
+D03ZBT,T69128,Proto-oncogene c-Ros (ROS1),Approved,Modulator,D01091
+D03ZBT,T56418,ALK tyrosine kinase receptor (ALK),Approved,Modulator,D01091
+D03ZBT,T90848,HGF/Met signaling pathway (HGF/Met pathway),Approved,Inhibitor,D01091
+D0G6QF,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Inhibitor,D00851
+D0G6QF,T60631,Proto-oncogene c-Ret (RET),Approved,Inhibitor,D00851
+D0G6QF,T59328,Epidermal growth factor receptor (EGFR),Approved,Inhibitor,D00851
+D07MON,T22939,Progesterone receptor (PGR),Phase 2,Modulator,D00921
+D0G3YC,T47094,Substance-P receptor (TACR1),Phase 3,Antagonist,D00975
+D04FVU,T64591,5-HT 3A receptor (HTR3A),Approved,Antagonist,D00966
+D06MQM,T40800,Sodium pump subunit alpha-1 (ATP1A1),Approved,Binder,D00971
+D0OJ4L,T46482,Toll-like receptor 7 (TLR7),Approved,Antagonist,D00183
+D01SGK,T76904,Catechol-O-methyl-transferase (COMT),Approved,Inhibitor,D01351
+D07ESC,T89361,Cyclin-dependent kinase 6 (CDK6),Approved,Inhibitor,D01087
+D07ESC,T85799,Cyclin-dependent kinase 4 (CDK4),Approved,Inhibitor,D01087
+D07ESC,T47941,Phosphodiesterase 4 (PDE4),Approved,Inhibitor,D01087
+D0BZ7W,T67684,Muscarinic acetylcholine receptor M3 (CHRM3),Approved,Antagonist,D00766
+D0A3ZU,T29064,Angiogenesis/myeloma cell growth (AMCG),Approved,Modulator,D00698
+D09PQZ,T25005,Tyrosine-protein kinase BTK (ATK),Approved,Inhibitor,D01266
+D0T6EI,T62094,Bacterial 30S ribosomal RNA (Bact 30S rRNA),Approved,Inhibitor,D01220
+D0E7ZU,T48873,Synaptic vesicle amine transporter (SLC18A2),Approved,Modulator,D01284
+D0J0BU,T84631,Coagulation factor Xa (F10),Approved,Modulator,D01061
+D0RE6T,T51593,Tryptophan hydroxylase (TPH),Approved,Modulator,D01158
+D0S9SD,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00606
+D0QD1G,T39087,Human immunodeficiency virus Integrase (HIV IN),Approved,Modulator,D00863
+D02VJP,T67977,Cytochrome P450 3A (CYP3A),Approved,Modulator,D01154
+D0U3SY,T56418,ALK tyrosine kinase receptor (ALK),Approved,Inhibitor,D01190
+D09SGV,T40555,Hepatitis C virus Non-structural 5A (HCV NS5A),Approved,Inhibitor,D01155
+D09ZXR,T47768,Opioid receptor mu (MOP),Approved,Modulator,D01074
+D09ZXR,T58992,Opioid receptor delta (OPRD1),Approved,Modulator,D01074
+D0S9CB,T32060,5-HT 2A receptor (HTR2A),Approved,Modulator,D00989
+D0S9CB,T78709,5-HT 1A receptor (HTR1A),Approved,Modulator,D00989
+D0X0CB,T55654,cAMP-dependent chloride channel (CFTR),Phase 2,Regulator,D01121
+D0W7WC,T55654,cAMP-dependent chloride channel (CFTR),Approved,Modulator,D01119
+D0Q5MQ,T48268,Melatonin receptor type 1B (MTNR1B),Approved,Agonist,D01059
+D0Q5MQ,T97613,Melatonin receptor type 1A (MTNR1A),Approved,Agonist,D01059
+D05RHI,T52227,Candida Thymidylate synthase (Candi TMP1),Approved,Inhibitor,D00433
+D0S3NU,T82349,Bacterial Cell membrane (Bact CM),Approved,Inhibitor,D00978
+D0J5VR,T67849,PI3-kinase delta (PIK3CD),Approved,Inhibitor,D01090
+D07LCF,T47768,Opioid receptor mu (MOP),Approved,Modulator,D01238
+D00OVU,T69485,Orexin receptor type 2 (HCRTR2),Approved,Modulator,D01145
+D00TLP,T03896,Hepatitis C virus Serine protease NS3/4A (HCV NS3/4A),Approved,Modulator,D01143
+D0D9HW,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Inhibitor,D00790
+D0V3YT,T03896,Hepatitis C virus Serine protease NS3/4A (HCV NS3/4A),Approved,Modulator,D01065
+D05KBU,T62905,Sodium-dependent multivitamin transporter (SLC5A6),Phase 2,Modulator,D01037
+D05KBU,T62905,Sodium-dependent multivitamin transporter (SLC5A6),Phase 2,Modulator,D01386
+D0X9CH,T03896,Hepatitis C virus Serine protease NS3/4A (HCV NS3/4A),Approved,Modulator,D00840
+D0X6BV,T27812,Serotonin transporter (SERT),Approved,Modulator,D00994
+D0X6BV,T78709,5-HT 1A receptor (HTR1A),Approved,Modulator,D00994
+D05CPV,T17569,Voltage-gated potassium channel Kv1.5 (KCNA5),Approved,Blocker,D00736
+D05CPV,T67952,Potassium channel unspecific (KC),Approved,Inhibitor,D00736
+D0L7AS,T37693,Cannabinoid receptor 2 (CB2),Approved,Inhibitor,D00904
+D0L7AS,T76685,Cannabinoid receptor 1 (CB1),Approved,Inhibitor,D00904
+D06XZW,T58921,Peroxisome proliferator-activated receptor gamma (PPAR-gamma),Approved,Agonist,D00385
+D0I7SZ,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00577
+D0I7SZ,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D01378
+D05DVP,T71192,Leukotriene CysLT1 receptor (CYSLTR1),Approved,Antagonist,D00390
+D0N0RU,T13726,Retinoic acid receptor RXR-alpha (RXRA),Approved,Modulator,D00654
+D0A9YA,T27265,Oxo-5-alpha-steroid 4-dehydrogenase (SRD5A),Approved,Inhibitor,D00992
+D00CTS,T50066,Chloride channel protein 2 (CLC-2),Approved,Activator,D00717
+D0EV6T,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Modulator,D01221
+D02PMO,T09826,DNA topoisomerase I (TOP1),Approved,Modulator,D00591
+D0AD5C,T92777,Intestinal maltase-glucoamylase (MGAM),Approved,Modulator,D00558
+D0N1TP,T34234,Vitamin D3 receptor (VDR),Approved,Agonist,D00876
+D09QEI,T20178,Tumor necrosis factor (TNF),Approved,NA,D00287
+D0O8GK,T59328,Epidermal growth factor receptor (EGFR),Approved,Inhibitor,D01270
+D04LKS,T08391,Janus kinase 2 (JAK-2),Approved,Modulator,D01149
+D04LKS,T62460,Janus kinase 1 (JAK-1),Approved,Modulator,D01149
+D04LKS,T74363,Urokinase plasminogen activator surface receptor (PLAUR),Approved,Inhibitor,D01149
+D0K0OZ,T30985,Histamine H2 receptor (H2R),Approved,Antagonist,D00956
+D05TIB,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Antagonist,D00911
+D0Z8EX,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Inhibitor,D00496
+D03DIG,T58992,Opioid receptor delta (OPRD1),Approved,Agonist,D00893
+D08SJZ,T86528,Geranyltranstransferase (FDPS),Approved,Modulator,D00602
+D07ILQ,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Agonist,D00282
+D07ILQ,T93788,Glucose-dependent insulinotropic receptor (GPR119),Approved,Agonist,D00282
+D07ILQ,T87670,G-protein coupled receptor 55 (GPR55),Approved,Agonist,D00282
+D07ILQ,T37693,Cannabinoid receptor 2 (CB2),Approved,Agonist,D00282
+D06FPQ,T07806,5-HT 1B receptor (HTR1B),Approved,Modulator,D00652
+D06FPQ,T11072,5-HT 1D receptor (HTR1D),Approved,Modulator,D00652
+D0S2UG,T83011,Monoamine oxidase type B (MAO-B),Approved,Inhibitor,D00513
+D0S2UG,T47094,Substance-P receptor (TACR1),Approved,Antagonist,D00513
+D0S2UG,T62151,Monoamine oxidase (MAO),Approved,Inhibitor,D00513
+D0R9EQ,T02551,Dopamine D3 receptor (D3R),Approved,Modulator,D00337
+D0R9EQ,T67162,Dopamine D2 receptor (D2R),Approved,Modulator,D00337
+D05VLS,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00336
+D0S9MU,T11072,5-HT 1D receptor (HTR1D),Approved,Agonist,D00335
+D0WY5Q,T30082,Acetylcholinesterase (AChE),Approved,Modulator,D00651
+D01AZG,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00334
+D05CHI,T17003,DNA-directed RNA polymerase (RNAP),Approved,Modulator,D01333
+D03HYQ,T89034,Plasminogen (PLG),Approved,Modulator,D00583
+D0P9RF,T53381,Adrenergic receptor alpha-1D (ADRA1D),Approved,Antagonist,D00357
+D04KYY,T40954,Xanthine dehydrogenase/oxidase (XDH),Approved,Inhibitor,D01337
+D02KRS,T95678,Influenza M2 protein (Influ M),Approved,Inhibitor,D00029
+D03ROX,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00055
+D07OJZ,T40474,Proto-oncogene c-Met (MET),Approved,Modulator,D01152
+D06OVY,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00935
+D0YX4S,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00868
+D0Y5AM,T67684,Muscarinic acetylcholine receptor M3 (CHRM3),Approved,Antagonist,D00768
+D0Y5AM,T09130,Muscarinic acetylcholine receptor (CHRM),Approved,Antagonist,D00768
+D0IT2G,T40016,Glucocorticoid receptor (NR3C1),Approved,Agonist,D00396
+D02DMQ,T07806,5-HT 1B receptor (HTR1B),Approved,Modulator,D00653
+D02DMQ,T11072,5-HT 1D receptor (HTR1D),Approved,Modulator,D00653
+D0Y7PG,T76904,Catechol-O-methyl-transferase (COMT),Approved,Inhibitor,D00862
+D08ROP,T01318,Plasmodium Dihydroorotate dehydrogenase (Malaria DHOdehase),Approved,Inhibitor,D00208
+D0C1WH,T13260,Aromatase (CYP19A1),Approved,Inhibitor,D00209
+D07TQV,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00598
+D0A8XN,T81183,Adrenergic receptor Alpha-1 (ADRA1),Approved,Antagonist,D00206
+D03NHW,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00270
+D0Q9DK,T30985,Histamine H2 receptor (H2R),Approved,Antagonist,D00842
+D0R0BX,T49814,Bacterial Deoxyribonucleic acid (Bact DNA),Approved,Breaker,D00980
+D0NR6S,T09960,C-C chemokine receptor type 5 (CCR5),Approved,Antagonist,D00838
+D0NR6S,T72171,CCR5 messenger RNA (CCR5 mRNA),Approved,Antagonist,D00838
+D0V1UW,T07137,Hydroxyphenylpyruvate dioxygenase (HPD),Approved,Inhibitor,D00674
+D05MBZ,T92609,Adrenergic receptor alpha-1A (ADRA1A),Approved,Modulator,D00689
+D00XWD,T59679,5-HT 4 receptor (HTR4),Approved,Agonist,D01340
+D0Z6UC,T11072,5-HT 1D receptor (HTR1D),Approved,Agonist,D00352
+D0U0KW,T97613,Melatonin receptor type 1A (MTNR1A),Approved,Modulator,D00737
+D0U0KW,T48268,Melatonin receptor type 1B (MTNR1B),Approved,Modulator,D00737
+D01XBA,T89534,Estrogen receptor (ESR),Approved,Modulator,D00331
+D0G8NN,T02551,Dopamine D3 receptor (D3R),Approved,Modulator,D00677
+D0G8NN,T67162,Dopamine D2 receptor (D2R),Approved,Modulator,D00677
+D0F2PO,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00298
+D0B3UJ,T85605,5-HT receptor (5HTR),Approved,Antagonist,D00673
+D0K7WK,T84160,5-HT 3 receptor (5HT3R),Approved,Agonist,D00272
+D0V9VG,T32262,Calcitonin gene-related peptide receptor (CGRPR),Approved,Antagonist,D01199
+D09UZO,T40111,Inosine-5'-monophosphate dehydrogenase 1 (IMPDH1),Approved,Inhibitor,D00815
+D09UZO,T97713,Amidophosphoribosyltransferase (PPAT),Approved,Breaker,D00815
+D0YS7D,T71398,Guanylate cyclase (GC),Approved,Stimulator,D00520
+D00JAU,T74456,Angiotensin II receptor type-1 (AGTR1),Approved,Antagonist,D00198
+D01GYT,T24634,Bacterial UDP-N-acetylglucosamine carboxyvinyltransferase (Bact murA),Approved,Inhibitor,D00777
+D08IWD,T27265,Oxo-5-alpha-steroid 4-dehydrogenase (SRD5A),Approved,Inhibitor,D00584
+D08IWD,T71390,Steroid 5-alpha-reductase 2 (SRD5A2),Approved,Inhibitor,D00584
+D0T3KI,T07806,5-HT 1B receptor (HTR1B),Approved,Agonist,D00255
+D0ZV0Z,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00706
+D0ZV0Z,T40696,Staphylococcus Topoisomerase IV (Stap-coc parC),Approved,Modulator,D00706
+D05ZIK,T83813,5-HT 2C receptor (HTR2C),Approved,Antagonist,D00248
+D02XOK,T21945,Norepinephrine transporter (NET),Approved,Modulator,D00986
+D02XOK,T27812,Serotonin transporter (SERT),Approved,Modulator,D00986
+D0NW3X,T67952,Potassium channel unspecific (KC),Approved,Modulator,D00640
+D00YLW,T64591,5-HT 3A receptor (HTR3A),Approved,Antagonist,D00843
+D06FES,T77913,Histamine H1 receptor (H1R),Approved,Inhibitor,D00814
+D09VGC,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00621
+D06ZII,T75440,Translocator protein (TSPO),Approved,Agonist,D00820
+D01XYJ,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Inhibitor,D00540
+D01XYJ,T74312,Fms-like tyrosine kinase 3 (FLT-3),Approved,Binder,D00540
+D0T2XU,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00320
+DU8CF6,T72065,Voltage-gated sodium channel (Nav),Approved,Inhibitor,D01103
+D0S0LZ,T62094,Bacterial 30S ribosomal RNA (Bact 30S rRNA),Approved,Modulator,D01207
+D0J2KV,T12819,E3 ubiquitin-protein ligase COP1 (RFWD2),Approved,Modulator,D00321
+DGO2C1,T67849,PI3-kinase delta (PIK3CD),Phase 2,Inhibitor,D01241
+D0JB3H,T88505,Nuclear factor erythroid 2-related factor 2 (Nrf2),Phase 2,Activator,D01278
+D0YS1U,T74456,Angiotensin II receptor type-1 (AGTR1),Phase 3,Antagonist,D01060
+D0YS1U,T23499,Endothelin A receptor (EDNRA),Phase 3,Antagonist,D01060
+DXP04H,T25005,Tyrosine-protein kinase BTK (ATK),Phase 3,Inhibitor,D01319
+D0OR3G,T81100,SLC5A2 messenger RNA (SLC5A2 mRNA),Phase 3,Inhibitor,D01161
+D0PN8H,T74312,Fms-like tyrosine kinase 3 (FLT-3),Phase 3,Modulator,D01185
+D0PN8H,T08391,Janus kinase 2 (JAK-2),Phase 3,Modulator,D01185
+D0X0CH,T27376,GABA(A) receptor delta (GABRD),Phase 3,Modulator,D00993
+D0X0CH,T28722,GABA(A) receptor gamma-3 (GABRG3),Phase 3,Agonist,D00993
+D0D1ZF,T88637,Myosin (MYO),Phase 3,Inhibitor,D01300
+D07WXI,T17234,Cytomegalovirus Ganciclovir kinase (CMV UL97),Phase 3,Inhibitor,D00792
+DZB84T,T24982,Ileal sodium/bile acid cotransporter (SLC10A2),Phase 3,Inhibitor,D01021
+D02ZUG,T07247,Calgranulin D (S100A12),Phase 2/3,Antagonist,D01279
+DEWC27,T24982,Ileal sodium/bile acid cotransporter (SLC10A2),Phase 3,Inhibitor,D01055
+D0R7LD,T59480,KRAS G12C mutant (KRAS G12C),Phase 3,Inhibitor,D01353
+D0Z4ZT,T72168,Mineralocorticoid receptor  (MR),Approved,Binder,D00634
+D0L3TR,T89534,Estrogen receptor (ESR),Phase 2,Modulator,D00517
+D0Y4SI,T13852,Sphingosine-1-phosphate receptor 1 (S1PR1),Approved,Agonist,D01080
+D0W7JZ,T63966,Vascular endothelial growth factor receptor 1 (FLT-1),Approved,Inhibitor,D01039
+D0W7JZ,T07303,Vascular endothelial growth factor receptor 3 (FLT-4),Approved,Modulator,D01039
+D0W7JZ,T80975,Vascular endothelial growth factor receptor 2 (KDR),Approved,Modulator,D01039
+D0R8QG,T40474,Proto-oncogene c-Met (MET),Approved,Modulator,D01157
+D0DH5X,T51408,Adrenergic receptor beta-3 (ADRB3),Approved,Agonist,D01168
+D0F2WP,T12475,Gonadotropin-releasing hormone receptor (GNRHR),Approved,Antagonist,D01066
+DQ1S0B,T82739,Plasma kallikrein (KLKB1),Approved,Inhibitor,D01354
+D0W4HZ,T13127,Farnesyl protein transferase (Ftase),Approved,Modulator,D00702
+D0OD2I,T60631,Proto-oncogene c-Ret (RET),Approved,Inhibitor,D01318
+D0X5XU,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00784
+D00ZCT,T00972,Human immunodeficiency virus Envelope glycoprotein gp120 (HIV gp120),Approved,Inhibitor,D01079
+D09AAK,T53524,Platelet-derived growth factor receptor alpha (PDGFRA),Approved,Inhibitor,D01271
+D09AAK,T57700,Tyrosine-protein kinase Kit (KIT),Approved,Inhibitor,D01271
+D01KOA,T60631,Proto-oncogene c-Ret (RET),Approved,Inhibitor,D01322
+D0O6UY,T91331,Fibroblast growth factor receptor 3 (FGFR3),Approved,Inhibitor,D01293
+D0O6UY,T47101,Fibroblast growth factor receptor 1 (FGFR1),Approved,Inhibitor,D01293
+D0O6UY,T58454,Fibroblast growth factor receptor 2 (FGFR2),Approved,Inhibitor,D01293
+D03AJU,T84621,Steroid 11-beta-hydroxylase (CYP11B1),Approved,Modulator,D01163
+D0D9NY,T13712,Cholesterol synthesis (Chole synth),Approved,Inhibitor,D01067
+D0D9NY,T52189,ATP-citrate synthase (ACLY),Approved,Inhibitor,D01067
+D0UO2P,T53524,Platelet-derived growth factor receptor alpha (PDGFRA),Approved,Inhibitor,D01302
+D07GXR,T32262,Calcitonin gene-related peptide receptor (CGRPR),Approved,Antagonist,D01261
+D09RII,T49493,Hemoglobin (HB),Approved,Modulator,D01273
+D0UT4W,T25005,Tyrosine-protein kinase BTK (ATK),Approved,Inhibitor,D01352
+D01NQM,T78656,5-HT 1F receptor (HTR1F),Approved,Agonist,D01089
+D04TQO,T92403,Sodium/hydrogen exchanger 3 (SLC9A3),Approved,Modulator,D01272
+D0F4ZY,T77365,Adenosine A2a receptor (ADORA2A),Approved,Modulator,D00914
+D01UUD,T64765,Histamine H3 receptor (H3R),Approved,Agonist,D01044
+D09TAB,T20333,Macrophage colony-stimulating factor 1 receptor (CSF1R),Approved,Inhibitor,D01153
+D09TAB,T57700,Tyrosine-protein kinase Kit (KIT),Approved,Inhibitor,D01153
+D09TAB,T74312,Fms-like tyrosine kinase 3 (FLT-3),Approved,Inhibitor,D01153
+D0DV6D,T11211,Androgen receptor (AR),Approved,Antagonist,D01253
+D0NW0T,T17687,Fibroblast growth factor receptor (FGFR),Approved,Inhibitor,D01255
+D07FKQ,T97617,Sphingosine-1 phosphate receptor (S1PR),Approved,Modulator,D01171
+D07FKQ,T13852,Sphingosine-1-phosphate receptor 1 (S1PR1),Approved,Modulator,D01171
+D04KZY,T74312,Fms-like tyrosine kinase 3 (FLT-3),Approved,Inhibitor,D01189
+D04KZY,T82383,Tyrosine-protein kinase UFO (AXL),Approved,Inhibitor,D01189
+D07TOK,T07173,Tropomyosin-related kinase A (TrkA),Approved,Inhibitor,D01182
+D07TOK,T51076,NT-3 growth factor receptor (TrkC),Approved,Inhibitor,D01182
+D07TOK,T84703,BDNF/NT-3 growth factors receptor (TrkB),Approved,Inhibitor,D01182
+D0FX2Q,T42354,Bacterial RNA polymerase sigma factor SigA (Bact sigA),Approved,Modulator,D00963
+D0FX2Q,T88887,Staphylococcus Plastid RNA polymerase beta (Stap-coc rpoB),Approved,Modulator,D00963
+D0FX2Q,T30938,Mycobacterium RNA polymerase (MycB RNAP),Approved,Inhibitor,D00963
+D0AF6O,T56418,ALK tyrosine kinase receptor (ALK),Approved,Inhibitor,D01277
+D0AF6O,T69128,Proto-oncogene c-Ros (ROS1),Approved,Inhibitor,D01277
+D0GV8J,T34867,Poly [ADP-ribose] polymerase (PARP),Approved,Inhibitor,D01348
+D02XSA,T28722,GABA(A) receptor gamma-3 (GABRG3),Approved,Modulator,D00919
+D0UI3T,T12475,Gonadotropin-releasing hormone receptor (GNRHR),Phase 3,Antagonist,D01075
+D07TWN,T07569,Electron transport complex III (Complex III),Approved,Inhibitor,D00675
+D07TWN,T20796,Reactive oxygen species (ROS),Approved,Modulator,D00675
+D0MD8D,T27495,Variola virus Envelope phospholipase F13 (VARV p37),Approved,Inhibitor,D01109
+D0Y7IC,T08391,Janus kinase 2 (JAK-2),Approved,Modulator,D01165
+D0Y7IC,T62460,Janus kinase 1 (JAK-1),Approved,Modulator,D01165
+D0Y7IC,T43415,Tyrosine-protein kinase (PTK),Approved,Inhibitor,D01165
+D0BV3J,T59604,Growth hormone secretagogue receptor 1 (GHSR),Approved,Agonist,D01012
+D0WH4P,T20808,Isocitrate dehydrogenase (IDH),Approved,Inhibitor,D01298
+D0U1ZV,T14597,Erbb2 tyrosine kinase receptor (HER2),Approved,Antagonist,D01254
+D0U1ZV,T59328,Epidermal growth factor receptor (EGFR),Approved,Antagonist,D01254
+D07NVU,T74312,Fms-like tyrosine kinase 3 (FLT-3),Approved,Inhibitor,D01019
+D07NVU,T47107,Protein kinase C gamma (PRKCG),Approved,Inhibitor,D01019
+D0DN0W,T06273,Poly [ADP-ribose] polymerase 1 (PARP1),Approved,Modulator,D01291
+D0TV6I,T83011,Monoamine oxidase type B (MAO-B),Approved,Inhibitor,D00693
+D09WYX,T40016,Glucocorticoid receptor (NR3C1),Approved,Modulator,D00733
+D07FEC,T97947,Guanylyl cyclase C (GUCY2C),Approved,Modulator,D01264
+D0J8JP,T32060,5-HT 2A receptor (HTR2A),Approved,Modulator,D01048
+D0CT4D,T73676,Synaptic vesicle glycoprotein 2A (SV2A),Approved,Inhibitor,D01023
+D05XGO,T02551,Dopamine D3 receptor (D3R),Approved,Modulator,D01070
+D05XGO,T67162,Dopamine D2 receptor (D2R),Approved,Modulator,D01070
+D0CF0Y,T47094,Substance-P receptor (TACR1),Approved,Antagonist,D01064
+D0OR2L,T31479,Phospholipase A2 (PLA2G1B),Approved,Inhibitor,D00749
+D0OR2L,T42822,Ferrochelatase (FECH),Approved,Inhibitor,D00749
+D0OR2L,T76369,Liver carboxylesterase (CES1),Approved,Inhibitor,D00749
+D00FGR,T31479,Phospholipase A2 (PLA2G1B),Approved,Inhibitor,D00179
+D0VA0I,T36483,Proteinase activated receptor 1 (F2R),Approved,Antagonist,D01049
+D0JY8T,T89534,Estrogen receptor (ESR),Approved,Modulator,D00710
+D0Y5JC,T07663,Phosphodiesterase 5A (PDE5A),Approved,Modulator,D01033
+D01JMC,T83813,5-HT 2C receptor (HTR2C),Approved,Agonist,D01094
+D00GNJ,T97947,Guanylyl cyclase C (GUCY2C),Approved,Activator,D01118
+D07QFP,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D01223
+D07QFP,T01318,Plasmodium Dihydroorotate dehydrogenase (Malaria DHOdehase),Approved,Inhibitor,D01223
+D07QFP,T61400,Dihydroorotate dehydrogenase (DHODH),Approved,Modulator,D01223
+D09VXM,T05089,Calcium-dependent chloride channel anoctamin (ANO),Approved,Modulator,D01124
+D09VXM,T55654,cAMP-dependent chloride channel (CFTR),Approved,Modulator,D01124
+D06LNW,T30520,Bacterial RNA polymerase switch region (Bact RNAP-SR),Approved,Modulator,D01047
+D0N0OU,T02246,Iron (Fe),Approved,Modulator,D00112
+D0Z0MG,T25163,Carbamoyl-phosphate synthetase I (CPS1),Approved,Activator,D00679
+D07VBA,T89534,Estrogen receptor (ESR),Approved,Modulator,D00485
+D0V4WD,T22939,Progesterone receptor (PGR),Approved,Modulator,D01105
+D07UHS,T13852,Sphingosine-1-phosphate receptor 1 (S1PR1),Approved,Modulator,D00668
+D0M8VE,T32060,5-HT 2A receptor (HTR2A),Approved,Antagonist,D00642
+D0M8VE,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00642
+D0R3QY,T59045,GABA transaminase (ABAT),Approved,Inhibitor,D00388
+D0D7KC,T47768,Opioid receptor mu (MOP),Approved,Antagonist,D00953
+D09PJX,T48873,Synaptic vesicle amine transporter (SLC18A2),Approved,Blocker,D00418
+D0U0VU,T92609,Adrenergic receptor alpha-1A (ADRA1A),Approved,Inhibitor,D00923
+D0K4MH,T47768,Opioid receptor mu (MOP),Approved,Modulator,D01024
+D0K4MH,T21945,Norepinephrine transporter (NET),Approved,Modulator,D01024
+D00DEF,T99524,Trace amine-associated receptor-1 (TAAR1),Approved,Modulator,D01088
+D0Z1UA,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00639
+D0LM4A,T63967,Neuronal acetylcholine receptor alpha-4/beta-2 (CHRNA4/B2),Approved,Modulator,D00724
+D06OMW,T83011,Monoamine oxidase type B (MAO-B),Approved,Inhibitor,D00849
+D0E7PQ,T68547,Histone deacetylase 1 (HDAC1),Approved,Inhibitor,D00346
+D0CL9S,T71501,Hepatitis B virus Polymerase (HBV P),Approved,Inhibitor,D00718
+D0ML1F,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00605
+D0Q4SD,T72168,Mineralocorticoid receptor  (MR),Approved,Modulator,D00765
+D08EBN,T38052,Cryptosporidium Pyruvate:ferredoxin oxidoreductase (Crypto CpPNO),Approved,Modulator,D00556
+D09MWJ,T53381,Adrenergic receptor alpha-1D (ADRA1D),Approved,Antagonist,D00025
+D07IQS,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Modulator,D00701
+D01JEU,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Modulator,D00225
+D0GC2M,T54128,Glutamate receptor AMPA (GRIA),Approved,Agonist,D00638
+D0H1LO,T85889,Phosphate (PHO),Approved,Modulator,D00722
+D00AXJ,T73726,Candida Cytochrome P450 51 (Candi ERG11),Approved,Modulator,D00244
+D07HQC,T55959,Dopamine transporter (DAT),Approved,Modulator,D00251
+D07HQC,T55959,Dopamine transporter (DAT),Approved,Modulator,D01372
+D0M5OC,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00950
+D0ED7U,T30374,Gamma-aminobutyric acid uptake (GABAU),Approved,Inhibitor,D00590
+D0ED7U,T62184,GABA transporter GAT-1 (SLC6A1),Approved,Inhibitor,D00590
+D08HZC,T93783,Human immunodeficiency virus Tat protein (HIV tat),Approved,Inhibitor,D00406
+D01MDT,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Agonist,D00368
+D00KRE,T06438,Oxidoreductase unspecific (OR),Approved,Modulator,D00505
+D00BCP,T09423,Inward rectifier potassium channel Kir1.2 (KCNJ10),Approved,Blocker,D00088
+D0WS1X,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00983
+D03MIR,T53381,Adrenergic receptor alpha-1D (ADRA1D),Approved,Antagonist,D00129
+D0J1MI,T68536,Tubulin beta (TUBB),Approved,Binder,D00220
+D0G9IU,T17003,DNA-directed RNA polymerase (RNAP),Approved,Binder,D01338
+D0YA2L,T98708,Parathyroid hormone (PTH),Approved,Modulator,D01113
+D01AJY,T42446,Gamma-aminobutyric acid B receptor (GABBR),Approved,Modulator,D00049
+D01STB,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00938
+D04VMT,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00344
+D0D0ZD,T92777,Intestinal maltase-glucoamylase (MGAM),Approved,Inhibitor,D00759
+D02XIY,T53024,Somatostatin receptor type 2 (SSTR2),Approved,Binder,D00780
+D01AYJ,T78173,Candida Squalene epoxidase (Candi ERG1),Approved,Modulator,D00824
+D0Q2ES,T39716,Voltage-gated sodium channel alpha Nav1.5 (SCN5A),Approved,Blocker,D00446
+D02DGU,T11822,Retinoic acid receptor (RAR),Approved,Binder,D00769
+D02DGU,T82146,Retinoic acid receptor gamma (RARG),Approved,Agonist,D00769
+D0S6JG,T79591,Thyroid hormone receptor alpha (THRA),Approved,Antagonist,D00411
+D0VT8P,T37847,Herpes simplex virus DNA polymerase UL30 (HSV UL30),Approved,Inhibitor,D00140
+D04VFJ,T89534,Estrogen receptor (ESR),Approved,Modulator,D00839
+D0K0MW,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Agonist,D00526
+D0K0MW,T11448,Adrenergic receptor alpha-2A (ADRA2A),Approved,Agonist,D00526
+D0EB5N,T88338,Bacterial 23S ribosomal RNA (Bact 23S rRNA),Approved,Inhibitor,D01160
+D0Z5OE,T89534,Estrogen receptor (ESR),Approved,Binder,D00249
+D0J1VY,T76904,Catechol-O-methyl-transferase (COMT),Approved,Inhibitor,D00875
+D0L6DA,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00678
+D0M9DC,T03403,Prostaglandin G/H synthase (COX),Approved,Inhibitor,D00275
+D07CWD,T38301,Ribonucleoside-diphosphate reductase M2 (RRM2),Approved,Modulator,D00184
+D0A6KR,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Inhibitor,D00573
+D0M0AM,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D00477
+D03KYG,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00667
+D06GWF,T37847,Herpes simplex virus DNA polymerase UL30 (HSV UL30),Approved,Inhibitor,D01344
+D0R0ZL,T53601,Bacterial 50S ribosomal RNA (Bact 50S rRNA),Approved,Binder,D00776
+D0D5GD,T75440,Translocator protein (TSPO),Approved,Antagonist,D00157
+D0D5GD,T62292,GABA(A) receptor alpha-3 (GABRA3),Approved,Modulator (allosteric modulator),D00157
+D0D5GD,T26368,GABA(A) receptor alpha-5 (GABRA5),Approved,Modulator (allosteric modulator),D00157
+D0D5GD,T51452,GABA(A) receptor alpha-2 (GABRA2),Approved,Modulator (allosteric modulator),D00157
+D0D5GD,T28722,GABA(A) receptor gamma-3 (GABRG3),Approved,Modulator (allosteric modulator),D00157
+D0P1WA,T67684,Muscarinic acetylcholine receptor M3 (CHRM3),Approved,Antagonist,D00952
+D0P1WA,T09130,Muscarinic acetylcholine receptor (CHRM),Approved,Antagonist,D00952
+D0GL7U,T22939,Progesterone receptor (PGR),Approved,Agonist,D00430
+D0GL7U,T22939,Progesterone receptor (PGR),Approved,Agonist,D01375
+D0T9TJ,T76685,Cannabinoid receptor 1 (CB1),Approved,Inhibitor,D00844
+D0T9TJ,T94309,Pancreatic triacylglycerol lipase (PNLIP),Approved,Modulator,D00844
+D0J5RN,T53381,Adrenergic receptor alpha-1D (ADRA1D),Approved,Agonist,D01010
+D0I2WV,T82266,Voltage-gated L-type calcium channel (L-CaC),Phase 4,Modulator,D01016
+D05MKA,T36075,Glucagon-like peptide 1 receptor (GLP1R),Approved,Modulator,D01297
+D0E1SW,T13201,Carbonic anhydrase I (CA-I),Approved,Modulator,D00020
+D09BHB,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00371
+D0E3RW,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D01034
+D0F3JT,T48069,Insulin-like growth factor I receptor (IGF1R),Approved,Inhibitor,D01415
+D0X3FX,T47768,Opioid receptor mu (MOP),Approved,Antagonist,D00906
+D06AWE,T47768,Opioid receptor mu (MOP),Approved,Agonist,D00807
+D0U7GK,T20178,Tumor necrosis factor (TNF),Approved,Inhibitor,D00359
+D09DWL,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Modulator,D00391
+D06GKN,T64591,5-HT 3A receptor (HTR3A),Approved,Antagonist,D00026
+D07QCE,T97713,Amidophosphoribosyltransferase (PPAT),Approved,Inhibitor,D00046
+D0N6RF,T74456,Angiotensin II receptor type-1 (AGTR1),Approved,Antagonist,D00625
+D02KOF,T96144,DNA topoisomerase II (TOP2),Approved,Inhibitor,D00210
+D03XYW,T03403,Prostaglandin G/H synthase (COX),Approved,Inhibitor,D00146
+D00IBN,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Modulator,D01213
+D00NKB,T52173,Amiloride-sensitive sodium channel (ENaC),Approved,Blocker,D00374
+D02XJY,T81183,Adrenergic receptor Alpha-1 (ADRA1),Approved,Agonist,D00246
+D0Y5DO,T27812,Serotonin transporter (SERT),Approved,Modulator,D00094
+D05JDR,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00884
+D0X9ZC,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00565
+D02CII,T67710,Parathyroid hormone 1 receptor (PTH1R),Approved,Modulator,D01287
+D0U0RZ,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00295
+D06PII,T20401,Carbonic anhydrase II (CA-II),Phase 3,Inhibitor,D00351
+D02ULU,T36075,Glucagon-like peptide 1 receptor (GLP1R),Approved,Agonist,D01236
+D00UYE,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Agonist,D00226
+D0WV3U,T81183,Adrenergic receptor Alpha-1 (ADRA1),Approved,Antagonist,D00308
+D0X8KY,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00580
+D0G6SD,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00386
+D08VYV,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00238
+D04EGX,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00575
+D0V8QT,T21112,DNA replication (DNA repli),Approved,Intercalator,D00083
+D0F5MT,T56915,Human immunodeficiency virus Protease (HIV PR),Approved,Inhibitor,D00692
+D0T0LM,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D00302
+D0U3EC,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00937
+D04KTZ,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00424
+D04GKO,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00581
+D0V9BD,T11211,Androgen receptor (AR),Approved,Antagonist,D00058
+D05VIX,T28692,Lipoprotein lipase (LPL),Approved,Activator,D00169
+D05HXX,T89034,Plasminogen (PLG),Approved,Inhibitor,D00372
+D0FD0H,T89034,Plasminogen (PLG),Approved,Inhibitor,D00007
+D0FD0H,T45299,Tissue-type plasminogen activator (PLAT),Approved,Inhibitor,D00007
+D02ZTJ,T56556,ATP-binding cassette transporter G2 (ABCG2),Approved,Inhibitor,D00348
+D02ZTJ,T83145,Nuclear factor NF-kappa-B (NFKB),Approved,Activator,D00348
+D0V0LB,T95479,Somatostatin (SST),Approved,Binder,D00422
+D0C8EU,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00356
+D02FLB,T54644,Voltage-gated calcium channel alpha Cav3.2 (CACNA1H),Approved,Blocker,D00795
+D02FLB,T74500,Voltage-gated potassium channel Kv4.3 (KCND3),Approved,Blocker,D00795
+D0F9SG,T27812,Serotonin transporter (SERT),Withdrawn from market,Inhibitor,D00626
+D03WPA,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00614
+D03YVO,T72458,Melanocortin receptor 4 (MC4R),Approved,Agonist,D00934
+D03YVO,T47768,Opioid receptor mu (MOP),Approved,Modulator,D00934
+D0Z5EM,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00519
+D0C0SK,T83386,Folate receptor alpha (FOLR1),Approved,Modulator,D00327
+D0N1WU,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00139
+D0E9JM,T93878,Solute carrier family 12 member 1 (SLC12A1),Approved,Modulator,D00304
+D0P0HB,T79068,Bacterial Fatty acid synthetase I (Bact inhA),Approved,Inhibitor,D00830
+D0SN9T,T11211,Androgen receptor (AR),Approved,Antagonist,D00260
+D05EPM,T39716,Voltage-gated sodium channel alpha Nav1.5 (SCN5A),Approved,Blocker,D00137
+D0P8RS,T89515,Polypeptide deformylase (PDF),Approved,Inhibitor,D00960
+D00HDU,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00659
+D08XFV,T75440,Translocator protein (TSPO),Approved,Modulator,D00161
+D0Z4EI,T40016,Glucocorticoid receptor (NR3C1),Approved,Modulator,D00578
+D0V4GY,T88240,Bacterial Dihydropteroate synthetase (Bact folP),Approved,Breaker,D01003
+D00FGV,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00075
+D0V8HA,T78111,Nicotinic acetylcholine receptor (nAChR),Approved,Antagonist,D00221
+D04FBR,T89360,Inosine-5'-monophosphate dehydrogenase 2 (IMPDH2),Approved,Inhibitor,D00874
+D04FBR,T38529,Prostaglandin E2 receptor EP2 (PTGER2),Approved,Modulator,D00874
+D0B4IF,T73726,Candida Cytochrome P450 51 (Candi ERG11),Approved,Inhibitor,D00786
+D00NNC,T10147,Protein-tyrosine phosphatase sigma (R-PTP-sigma),Approved,Inhibitor,D00138
+D0G3SH,T08378,Solute carrier family 23 member 2 (SLC23A2),Approved,Activator,D00529
+D0G3SH,T37046,Biliverdin reductase A (BLVRA),Approved,Activator,D00529
+D0F8CM,T28076,Fibroblast growth factor-4 (FGF4),Approved,Modulator,D00546
+D0R3FP,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00967
+D0I1SK,T71398,Guanylate cyclase (GC),Approved,Stimulator,D00443
+D07JGT,T96144,DNA topoisomerase II (TOP2),Approved,Inhibitor,D00254
+D0L2CI,T82841,Insulin (INS),Approved,Modulator,D01310
+D02PAH,T84886,Solute carrier family 12 member 3 (SLC12A3),Approved,Blocker,D00050
+D02PAH,T93878,Solute carrier family 12 member 1 (SLC12A1),Approved,Blocker,D00050
+D07YDE,T59328,Epidermal growth factor receptor (EGFR),Approved,Activator,D00266
+D07YDE,T57680,Soluble guanylate cyclase (GCS),Approved,Modulator,D00266
+D0H0HJ,T83875,Monoamine oxidase type A (MAO-A),Approved,Inhibitor,D00498
+D0H0HJ,T83011,Monoamine oxidase type B (MAO-B),Approved,Inhibitor,D00498
+D0H0HJ,T62151,Monoamine oxidase (MAO),Approved,Inhibitor,D00498
+D0S8TD,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00452
+D0U4VT,T64795,Voltage-gated calcium channel alpha Cav3.1 (CACNA1G),Approved,Blocker,D00381
+D0H6QU,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00417
+D01KQA,T60693,Opioid receptor kappa (OPRK1),Approved,Modulator,D00916
+D09LDR,T75440,Translocator protein (TSPO),Approved,Agonist,D00277
+D0T6RC,T23547,Opioid receptor (OPR),Phase 4,Modulator,D00897
+D0O6SX,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00185
+D05BQK,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00068
+D04WFD,T27812,Serotonin transporter (SERT),Approved,Modulator,D00268
+D06IAR,T86679,Adenosine A2b receptor (ADORA2B),Approved,Modulator,D00609
+D0UM7O,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Antagonist,D00202
+D0J2TN,T47768,Opioid receptor mu (MOP),Approved,Agonist,D00483
+D0P9AC,T83011,Monoamine oxidase type B (MAO-B),Approved,Inhibitor,D00188
+D0P9AC,T62151,Monoamine oxidase (MAO),Approved,Inhibitor,D00188
+D06ZUK,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00192
+D0T5OX,T47768,Opioid receptor mu (MOP),Approved,Agonist,D00596
+D06BEP,T75440,Translocator protein (TSPO),Approved,Modulator,D00085
+D0Q1BT,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D00095
+D0Q1BT,T09130,Muscarinic acetylcholine receptor (CHRM),Approved,Antagonist,D00095
+D0Q1BT,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D01364
+D0Q1BT,T09130,Muscarinic acetylcholine receptor (CHRM),Approved,Antagonist,D01364
+D0D8DD,T23547,Opioid receptor (OPR),Approved,Antagonist,D00557
+D00HZV,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00383
+D0J5YC,T39716,Voltage-gated sodium channel alpha Nav1.5 (SCN5A),Approved,Blocker,D00582
+D07UWV,T94033,Coagulation factor IIa (F2),Approved,Inhibitor,D00661
+D03KIA,T53585,HMG-CoA reductase (HMGCR),Approved,Inhibitor,D00773
+D0Y4AW,T89515,Polypeptide deformylase (PDF),Approved,Inhibitor,D00227
+D0Y4AW,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00227
+D0Y4AW,T00895,Protein kinase C epsilon (PRKCE),Approved,Stimulator,D00227
+D0L7LC,T68547,Histone deacetylase 1 (HDAC1),Approved,Inhibitor,D00928
+D0Q4XQ,T64795,Voltage-gated calcium channel alpha Cav3.1 (CACNA1G),Approved,Blocker,D00136
+D0U5RT,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00311
+D0U5OE,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00214
+D04RLY,T68536,Tubulin beta (TUBB),Approved,Binder,D00555
+D0XE1C,T77365,Adenosine A2a receptor (ADORA2A),Approved,Modulator,D00746
+D04BNP,T75440,Translocator protein (TSPO),Approved,Modulator,D00355
+D0A4JK,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00067
+D0E0OG,T75440,Translocator protein (TSPO),Approved,Modulator,D00212
+D0E0LQ,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00819
+D0ZB7K,T54128,Glutamate receptor AMPA (GRIA),Approved,Binder,D00395
+D0P5SA,T07806,5-HT 1B receptor (HTR1B),Approved,Modulator,D00156
+D09HVL,T94033,Coagulation factor IIa (F2),Approved,Inhibitor,D01112
+D09HVL,T99616,Trypanosoma Trypanothione reductase (Trypano TPR),Approved,Inhibitor,D01112
+D07BQE,T89034,Plasminogen (PLG),Approved,Activator,D01394
+D02LVZ,T65197,Erythropoietin Receptor (EPOR),Approved,Agonist,D01396
+D0E8UO,T17758,Urokinase-type plasminogen activator (PLAU),Approved,Modulator,D01397
+D09QBG,T46937,P2Y purinoceptor 12 (P2RY12),Approved,Antagonist,D01029
+D02HSB,T43189,Tubulin (TUB),Approved,Inhibitor,D01030
+D0W2EK,T43189,Tubulin (TUB),Approved,Stablizer,D00973
+D0H8FH,T49526,Voltage-gated potassium channel Kv7.1 (KCNQ1),Approved,Blocker,D00193
+D03SRY,T26240,Estramustine binding protein (EMBP),Approved,Binder,D00750
+D0Y4GO,T52227,Candida Thymidylate synthase (Candi TMP1),Approved,Inhibitor,D01343
+D0G5CF,T34234,Vitamin D3 receptor (VDR),Approved,Antagonist,D00877
+D0V0IX,T99954,Prostacyclin receptor (PTGIR),Approved,Agonist,D00888
+D05ZTH,T38529,Prostaglandin E2 receptor EP2 (PTGER2),Approved,Agonist,D00915
+D08WSY,T21334,Osteoclast differentiation factor (ODF),Approved,NA,D01423
+D0C4AM,T36075,Glucagon-like peptide 1 receptor (GLP1R),Approved,Agonist,D01263
+D01UTL,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00113
+D0AE3X,T01777,Adrenergic receptor alpha-2C (ADRA2C),Approved,Modulator,D00062
+D0AE3X,T31424,Adrenergic receptor Alpha-2 (ADRA2),Approved,Agonist,D00062
+D00KHM,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00493
+D0X5SD,T65291,Fatty aldehyde dehydrogenase (ALDH3A2),Approved,Inhibitor,D00125
+D0NE9T,T84631,Coagulation factor Xa (F10),Approved,Inhibitor,D00801
+D01HTL,T43189,Tubulin (TUB),Approved,Inhibitor,D00920
+D09TPF,T67162,Dopamine D2 receptor (D2R),Approved,Binder,D00506
+D09QVV,T68536,Tubulin beta (TUBB),Approved,Modulator,D00414
+D00JVR,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00048
+D0C2YB,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00562
+D08CVQ,T09507,APOB messenger RNA (APOB mRNA),Approved,NA,D01267
+D02NSF,T23547,Opioid receptor (OPR),Approved,Modulator,D00908
+D0I2VK,T83875,Monoamine oxidase type A (MAO-A),Approved,Inhibitor,D00199
+D02NJA,T65570,Alcohol dehydrogenase 1A (ADH1A),Approved,Modulator,D00165
+D00TLN,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00109
+D0L5KU,T28722,GABA(A) receptor gamma-3 (GABRG3),Approved,Agonist,D01032
+D0ES1Q,T75243,Serine/threonine-protein kinase mTOR (mTOR),Approved,Inhibitor,D00990
+D0E4WR,T27265,Oxo-5-alpha-steroid 4-dehydrogenase (SRD5A),Approved,Inhibitor,D00047
+D0W6DG,T23547,Opioid receptor (OPR),Approved,Antagonist,D00757
+D0J4GO,T20401,Carbonic anhydrase II (CA-II),Approved,Inhibitor,D00117
+D0J4GO,T13201,Carbonic anhydrase I (CA-I),Approved,Modulator,D00117
+D0J4GO,T20401,Carbonic anhydrase II (CA-II),Approved,Inhibitor,D01366
+D0J4GO,T13201,Carbonic anhydrase I (CA-I),Approved,Modulator,D01366
+D03TIS,T88023,Lymphocyte activation antigen CD30 (TNFRSF8),Approved,Modulator,D01425
+D0V3ZA,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00468
+D08SKH,T06455,Cytochrome P450 2A6 (CYP2A6),Approved,Binder,D00234
+D0Y0ER,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00361
+D0Y5UG,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00035
+D0Y5UG,T27812,Serotonin transporter (SERT),Approved,Inhibitor,D00035
+D00KEP,T08165,Elegans Endoprotease bli-4 (Elegans bli-4),Investigative,Inhibitor,D00421
+D0ND2J,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Antagonist,D00150
+D0TD2G,T42000,Interleukin-1 beta (IL1B),Approved,NA,D01422
+D08GYO,T86836,Human Deoxyribonucleic acid (hDNA),Approved,NA,D00315
+D0G6ZG,T17758,Urokinase-type plasminogen activator (PLAU),Phase 3,Activator,D00713
+D05MFG,T82577,Angiotensin-converting enzyme (ACE),Approved,Inhibitor,D00918
+D05VIL,T23547,Opioid receptor (OPR),Approved,Antagonist,D00905
+D05VIL,T23547,Opioid receptor (OPR),Approved,Antagonist,D01383
+D0B8WN,T30985,Histamine H2 receptor (H2R),Approved,Antagonist,D00836
+D0D1SG,T40016,Glucocorticoid receptor (NR3C1),Approved,Modulator,D00399
+D0X9RG,T58992,Opioid receptor delta (OPRD1),Approved,Agonist,D00933
+D06TNG,T84886,Solute carrier family 12 member 3 (SLC12A3),Approved,Blocker,D00303
+D0KR5B,T40016,Glucocorticoid receptor (NR3C1),Approved,Modulator,D00398
+D0J9GD,T53585,HMG-CoA reductase (HMGCR),Terminated,Antagonist,D00616
+D0E2MJ,T84631,Coagulation factor Xa (F10),Discontinued in Phase 3,Inhibitor,D00955
+D09JXM,T81183,Adrenergic receptor Alpha-1 (ADRA1),Withdrawn from market,Agonist,D00515
+D0K3ZR,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00061
+D0O3FG,T27812,Serotonin transporter (SERT),Approved,Modulator,D00686
+D01FGR,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00121
+D01FGR,T17448,Histamine N-methyltransferase (HNMT),Approved,Inhibitor,D00121
+D0G6HA,T84173,Glucosylceramidase (GBA),Approved,Modulator,D01426
+D03GOI,T36075,Glucagon-like peptide 1 receptor (GLP1R),Approved,Agonist,D01114
+D0CY3A,T84631,Coagulation factor Xa (F10),Discontinued in Phase 3,Inhibitor,D00852
+D0Q9WO,T75440,Translocator protein (TSPO),Approved,Binder,D00841
+D04NDM,T72657,Staphylococcus 30S ribosomal subunit (Stap-coc pbp2),Approved,Binder,D00721
+D01WJL,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Modulator,D00281
+D01WJL,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Modulator,D00281
+D01WJL,T17345,Dihydrofolate reductase (DHFR),Approved,Modulator,D00281
+D08IFL,T03403,Prostaglandin G/H synthase (COX),Approved,Inhibitor,D00222
+D05ATI,T63068,Serum albumin (ALB),Approved,Binder,D00859
+D0R9BG,T28869,Bacterial Urease (Bact ureC),Approved,Inhibitor,D00022
+D02IQY,T62151,Monoamine oxidase (MAO),Approved,Modulator,D00798
+D06IZM,T71398,Guanylate cyclase (GC),Approved,Stimulator,D00898
+D0T7ZQ,T89534,Estrogen receptor (ESR),Approved,Modulator,D01014
+D0U0XD,T89534,Estrogen receptor (ESR),Approved,Modulator,D00455
+D06RCB,T00140,Arachidonate 5-lipoxygenase (5-LOX),Approved,Inhibitor,D00119
+D05ZGQ,T77913,Histamine H1 receptor (H1R),Approved,Modulator,D00872
+D0I8LU,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00922
+D07ONP,T29303,Sodium channel unspecific (NaC),Approved,Blocker,D00290
+D0R7JT,T72168,Mineralocorticoid receptor  (MR),Approved,Agonist,D00528
+D0R7JT,T11211,Androgen receptor (AR),Approved,Inhibitor,D00528
+D00MIN,T16792,Iodothyronine deiodinase type I (DIO1),Approved,Inhibitor,D00812
+D00MIN,T51120,Thyroid peroxidase (TPO),Approved,Inhibitor,D00812
+D00WCX,T86591,Peroxisome proliferator-activated receptor alpha (PPARA),Approved,Agonist,D00549
+D01ZSO,T83875,Monoamine oxidase type A (MAO-A),Approved,Inhibitor,D00250
+D01ZSO,T62151,Monoamine oxidase (MAO),Approved,Inhibitor,D00250
+D06YFA,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00527
+D0H8OH,T82146,Retinoic acid receptor gamma (RARG),Phase 3,Agonist,D01063
+D0C2II,T13201,Carbonic anhydrase I (CA-I),Approved,Modulator,D00232
+D0J5KF,T84160,5-HT 3 receptor (5HT3R),Approved,Antagonist,D00899
+D0CT9Y,T89534,Estrogen receptor (ESR),Approved,Modulator,D00823
+D0X6HD,T47768,Opioid receptor mu (MOP),Approved,Agonist,D00449
+D0CF2Q,T09538,Alkaline phosphatase tissue-nonspecific (ALPL),Approved,Inhibitor,D00514
+D06OFS,T01777,Adrenergic receptor alpha-2C (ADRA2C),Approved,Modulator,D00629
+D01XLM,T64382,Gamma-aminobutyric acid receptor (GAR),Approved,Antagonist,D00300
+D0YG7M,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00205
+D0T5UL,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Antagonist,D00913
+D0T0LU,T80896,Estrogen receptor beta (ESR2),Approved,Antagonist,D01178
+D0A0JH,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00451
+D03KQF,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00217
+D02HED,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00289
+D00MYT,T11754,Fatty acid amide hydrolase (FAAH),Approved,Inhibitor,D00834
+D07JJS,T88240,Bacterial Dihydropteroate synthetase (Bact folP),Approved,Inhibitor,D00347
+D05KTE,T53378,Carbonic anhydrase IV (CA-IV),Investigative,Inhibitor,D00429
+D0J2NK,T72657,Staphylococcus 30S ribosomal subunit (Stap-coc pbp2),Approved,Binder,D01210
+D0B3QM,T62390,Tyrosine 3-monooxygenase (TH),Approved,Binder,D00761
+D09GFL,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D00378
+D09GFL,T51408,Adrenergic receptor beta-3 (ADRB3),Approved,Agonist,D00378
+D0Y2HR,T77913,Histamine H1 receptor (H1R),Withdrawn from market,Antagonist,D00044
+D0U1OE,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00362
+D04JCN,T22118,Dopamine D1 receptor (D1R),Approved,Modulator,D00564
+D04JCN,T67162,Dopamine D2 receptor (D2R),Approved,Modulator,D00564
+D0Y7ZU,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Breaker,D01329
+D0T8VY,T03403,Prostaglandin G/H synthase (COX),Approved,Modulator,D00646
+D0R4OM,T39610,Calmodulin (CALM),Approved,Inhibitor,D00377
+D00WAM,T93878,Solute carrier family 12 member 1 (SLC12A1),Approved,Blocker,D00182
+D02TBI,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00502
+D0M4YC,T39716,Voltage-gated sodium channel alpha Nav1.5 (SCN5A),Approved,Blocker,D00124
+D0Z1WA,T52522,Adrenergic receptor beta-2 (ADRB2),Approved,Agonist,D00316
+D0K0KH,T64591,5-HT 3A receptor (HTR3A),Approved,Antagonist,D00810
+D0Q2AT,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00504
+D04VEJ,T72657,Staphylococcus 30S ribosomal subunit (Stap-coc pbp2),Approved,Binder,D01226
+D0R1WR,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Antagonist,D00318
+D02WIW,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00494
+D0X0RI,T39716,Voltage-gated sodium channel alpha Nav1.5 (SCN5A),Approved,Blocker,D00243
+D0O2EM,T14342,Human immunodeficiency virus Reverse transcriptase (HIV RT),Approved,Modulator,D00257
+D0JL2K,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00649
+D03QGM,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00350
+D0C5XC,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00516
+D09ZIO,T50688,Glycoprotein IIb/IIIa receptor (GPIIb/IIIa),Approved,Modulator,D00781
+D0FX8A,T89034,Plasminogen (PLG),Approved,Activator,D01402
+D0P3TX,T50688,Glycoprotein IIb/IIIa receptor (GPIIb/IIIa),Approved,Modulator,D01405
+D0J5DC,T28692,Lipoprotein lipase (LPL),Approved,Activator,D00099
+D02DPA,T30985,Histamine H2 receptor (H2R),Approved,Antagonist,D00092
+D0RD5W,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Antagonist,D00711
+D08FTG,T11843,Vitamin K epoxide reductase complex 1 (VKORC1),Approved,Inhibitor,D00293
+D0R6BR,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00037
+D06YHL,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00787
+D0B0CP,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00813
+D0P2CK,T75440,Translocator protein (TSPO),Approved,Agonist,D00134
+D00YVF,T36075,Glucagon-like peptide 1 receptor (GLP1R),Approved,Binder,D01181
+D0X7XG,T84972,Streptococcus Elongation factor G (Stre-coc fusA),Approved,Inhibitor,D00831
+D05GJW,T03661,Adenosine deaminase (ADA),Approved,Inhibitor,D00501
+D05OQJ,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00237
+D03CQE,T22348,Bacterial DNA gyrase (Bact gyrase),Approved,Modulator,D00353
+D03CQE,T40696,Staphylococcus Topoisomerase IV (Stap-coc parC),Approved,Modulator,D00353
+D06HLY,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Agonist,D00409
+D0U8UV,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00469
+D0U5SI,T12819,E3 ubiquitin-protein ligase COP1 (RFWD2),Approved,Modulator,D00314
+D0V5ZZ,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D00322
+D09IOI,T21945,Norepinephrine transporter (NET),Approved,Inhibitor,D00039
+D02LPF,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Breaker,D00028
+D0R2KJ,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00497
+D0YA9Z,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00432
+D01ZJK,T73476,Antithrombin-III (ATIII),Approved,Modulator,D00009
+D01ZJK,T73476,Antithrombin-III (ATIII),Approved,Modulator,D01359
+D01ZJK,T73476,Antithrombin-III (ATIII),Approved,Modulator,D01360
+D01ZJK,T73476,Antithrombin-III (ATIII),Approved,Modulator,D01361
+D01ZJK,T73476,Antithrombin-III (ATIII),Approved,Modulator,D01362
+D01ZJK,T73476,Antithrombin-III (ATIII),Approved,Modulator,D01363
+D0S8WA,T73215,Leukocyte surface antigen Leu-16 (CD20),Approved,NA,D01427
+D0B2UZ,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00317
+D00SJE,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00340
+D07WFK,T91480,ATP-binding cassette transporter C8 (ABCC8),Approved,Modulator,D00021
+D09WCM,T63598,Pediculus humanus Nicotinic acetylcholine receptor (Pedhc nAChR),Approved,Modulator,D01130
+D08BTB,T77796,Thyrotropin-releasing hormone receptor (TRHR),Approved,Modulator,D00803
+D0U5VZ,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00720
+D0JQ7Y,T94033,Coagulation factor IIa (F2),Withdrawn from market,Inhibitor,D01007
+D03TYI,T88975,Phosphodiesterase 3A (PDE3A),Approved,Inhibitor,D00457
+D03DAP,T34123,Voltage-gated sodium channel alpha Nav1.9 (SCN11A),Approved,Blocker,D00151
+D03DAP,T12819,E3 ubiquitin-protein ligase COP1 (RFWD2),Approved,Modulator,D00151
+D0R5RR,T73342,Ribonucleotide reductase (RIR),Approved,Inhibitor,D00676
+D0R5RR,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00676
+D0D4PB,T23547,Opioid receptor (OPR),Approved,Agonist,D00464
+D01ZII,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00087
+D0X6IU,T88338,Bacterial 23S ribosomal RNA (Bact 23S rRNA),Approved,Binder,D00412
+D0J4JM,T48873,Synaptic vesicle amine transporter (SLC18A2),Approved,Blocker,D00401
+D0T8GD,T78111,Nicotinic acetylcholine receptor (nAChR),Approved,Antagonist,D00658
+D0M6DO,T23145,Cholesterol desmolase (CYP11A1),Approved,Inhibitor,D00031
+D0M6DO,T13260,Aromatase (CYP19A1),Approved,Inhibitor,D00031
+D03VZH,T80387,GABA(A) receptor beta-2 (GABRB2),Approved,Antagonist,D00873
+D03VZH,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00873
+D0H8QL,T21945,Norepinephrine transporter (NET),Approved,Modulator,D00218
+D0I0RJ,T55094,Acid-sensing ion channel 1 (ASIC1),Approved,Modulator,D00492
+D06ULU,T31621,Fibroblast growth factor-2 (FGF2),Approved,Modulator,D01315
+D07ZTO,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Agonist,D00056
+D0X7HM,T86836,Human Deoxyribonucleic acid (hDNA),Approved,Modulator,D00753
+D0QV5T,T11843,Vitamin K epoxide reductase complex 1 (VKORC1),Approved,Inhibitor,D01219
+D0L7FM,T70680,Solute carrier family 22 member 8 (SLC22A8),Approved,Blocker,D00312
+D0BA6T,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00548
+D04AAN,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00229
+D06LYG,T39716,Voltage-gated sodium channel alpha Nav1.5 (SCN5A),Approved,Blocker,D00309
+D0F2XQ,T03661,Adenosine deaminase (ADA),Approved,Inhibitor,D00811
+D07SOO,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00235
+D0M3QP,T03917,Sodium/potassium-transporting ATPase (SPT ATPase),Approved,Inhibitor,D00755
+D08HDY,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00672
+D0Y0JH,T60529,Prostaglandin G/H synthase 1 (COX-1),Approved,Inhibitor,D00339
+D0S7VO,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00364
+D0T5WK,T51487,GABA(A) receptor alpha-1 (GABRA1),Approved,Antagonist,D00264
+D0T6SU,T29500,Adrenergic receptor alpha-1B (ADRA1B),Approved,Antagonist,D00525
+D0E3FD,T54128,Glutamate receptor AMPA (GRIA),Approved,Binder,D00063
+D0E8CI,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00890
+D09FJB,T09423,Inward rectifier potassium channel Kir1.2 (KCNJ10),Approved,Blocker,D00369
+D07XJM,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D00118
+D05CEU,T54644,Voltage-gated calcium channel alpha Cav3.2 (CACNA1H),Approved,Blocker,D00818
+D05CEU,T34949,Voltage-gated calcium channel alpha Cav2.1 (CACNA1A),Approved,Inhibitor,D00818
+D04KAQ,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00532
+D0I8DD,T89883,Ryanodine receptor (RYR),Approved,Modulator,D00982
+D0Y4JJ,T45993,Calcium channel unspecific (CaC),Approved,Modulator,D00053
+D0D9FV,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Antagonist,D00273
+D04YMH,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00705
+D06ZPS,T63068,Serum albumin (ALB),Approved,Modulator,D00280
+D05KON,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Antagonist,D00141
+D0Q5IN,T54128,Glutamate receptor AMPA (GRIA),Approved,Antagonist,D00008
+D04QLR,T39716,Voltage-gated sodium channel alpha Nav1.5 (SCN5A),Approved,Blocker,D00131
+D08WYM,T12475,Gonadotropin-releasing hormone receptor (GNRHR),Approved,Agonist,D01147
+D08QUV,T55959,Dopamine transporter (DAT),Withdrawn from market,Inhibitor,D00539
+D0X7DE,T83813,5-HT 2C receptor (HTR2C),Approved,Antagonist,D00256
+D0X2MB,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00278
+D04XEG,T52522,Adrenergic receptor beta-2 (ADRB2),Approved,Agonist,D00147
+D0KD1U,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Antagonist,D00305
+D0B0SH,T47941,Phosphodiesterase 4 (PDE4),Approved,Modulator,D00809
+D0B0SH,T33754,Phosphodiesterase 3 (PDE3),Approved,Modulator,D00809
+D0E9TP,T73476,Antithrombin-III (ATIII),Approved,Activator,D00977
+D08JZS,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00326
+D0T3HY,T23547,Opioid receptor (OPR),Approved,Agonist,D00929
+D0T3HY,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Antagonist,D00929
+D0L2UN,T68066,Steroid hormone receptor ERR (ESRR),Approved,Modulator,D01129
+D0Q9JT,T84621,Steroid 11-beta-hydroxylase (CYP11B1),Approved,Inhibitor,D00242
+D0RG3O,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Antagonist,D00726
+D08VXO,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00441
+D0B4TN,T28893,Muscarinic acetylcholine receptor M1 (CHRM1),Approved,Antagonist,D00059
+D07QLG,T15117,Adrenergic receptor (ADR),Approved,Modulator,D00817
+D03DEI,T11288,Multidrug resistance-associated protein 1 (ABCC1),Approved,Modulator,D00349
+D06AEO,T11211,Androgen receptor (AR),Approved,Antagonist,D00896
+D06FWC,T75440,Translocator protein (TSPO),Approved,Agonist,D00155
+D0W2NM,T75440,Translocator protein (TSPO),Approved,Agonist,D00158
+D05HFY,T11843,Vitamin K epoxide reductase complex 1 (VKORC1),Approved,Inhibitor,D01214
+D06GAM,T96144,DNA topoisomerase II (TOP2),Approved,Inhibitor,D00152
+D0R0UJ,T83011,Monoamine oxidase type B (MAO-B),Approved,Inhibitor,D00284
+D0R0UJ,T62151,Monoamine oxidase (MAO),Approved,Inhibitor,D00284
+D0U5FS,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00163
+D00ZFP,T89534,Estrogen receptor (ESR),Approved,Agonist,D00408
+D03TPR,T79591,Thyroid hormone receptor alpha (THRA),Approved,Modulator,D01126
+D03TPR,T98933,Thyroid hormone receptor beta (THRB),Approved,Modulator,D01126
+D0AP9T,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00570
+D0G3AQ,T75440,Translocator protein (TSPO),Approved,Modulator,D00306
+D01NLB,T38338,Voltage-gated calcium channel alpha Cav2.2 (CACNA1B),Approved,Blocker,D01115
+D03ELL,T67162,Dopamine D2 receptor (D2R),Approved,Antagonist,D00034
+D0K3OK,T60693,Opioid receptor kappa (OPRK1),Phase 3,Agonist,D01135
+D03BQP,T87831,N-formyl peptide receptor (FPR1),Phase 3,Antagonist,D00332
+D0X8ED,T62193,Aromatic-L-amino-acid decarboxylase (DDC),Phase 3,Inhibitor,D00051
+D0W9ZF,T67162,Dopamine D2 receptor (D2R),Approved,Agonist,D00856
+D0Z9NZ,T57392,Debrisoquine 4-hydroxylase (CYP2D6),Approved,Inducer,D00173
+D06KKS,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00547
+D0Y0SW,T11211,Androgen receptor (AR),Approved,Antagonist,D00164
+D04CFW,T34743,Bacterial Penicillin binding protein (Bact PBP),Approved,Binder,D00762
+D00NAX,T79961,Muscarinic acetylcholine receptor M5 (CHRM5),Approved,Binder,D00319
+D0B8QB,T69494,N-methyl-D-aspartate receptor (NMDAR),Approved,Antagonist,D00946
+D09LPN,T94033,Coagulation factor IIa (F2),Approved,Inhibitor,D01307
+D0Y8OK,T63934,Interferon-alpha 2 (IFNA2),Approved,Modulator,D01393
+D03QCW,T06421,Interferon alpha/beta receptor 2 (IFNAR2),Approved,Binder,D01395
+D0T1UJ,T89034,Plasminogen (PLG),Approved,Activator,D01398
+D0G5JW,T65197,Erythropoietin Receptor (EPOR),Investigative,Stimulator,D01098
+D0I1XG,T32247,Calcitonin receptor (CALCR),Approved,Binder,D01110
+D08NWC,T63934,Interferon-alpha 2 (IFNA2),Approved,Modulator,D01399
+D0K4DI,T89034,Plasminogen (PLG),Approved,Activator,D01400
+D05PHH,T20297,Serine protease unspecific (SP),Approved,Inhibitor,D00168
+D07OGZ,T84631,Coagulation factor Xa (F10),Discontinued in Phase 3,Inhibitor,D01193
+D00AWT,T29500,Adrenergic receptor alpha-1B (ADRA1B),Approved,Binder,D00288
+D0H2DQ,T00494,ATP-binding cassette transporter A1 (ABCA1),Approved,Modulator,D00313
+D0J1NQ,T82266,Voltage-gated L-type calcium channel (L-CaC),Phase 3,Blocker,D00554
+D06UDO,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00474
+D0J8ZA,T43920,Carbonic anhydrase (CA),Approved,Inhibitor,D00435
+D09QZI,T22939,Progesterone receptor (PGR),Approved,Agonist,D00979
+D0Y2CJ,T67952,Potassium channel unspecific (KC),Approved,Modulator,D00247
+D0O6GC,T83813,5-HT 2C receptor (HTR2C),Approved,Antagonist,D00461
+D0N3PE,T74654,Adrenergic neuron (AD neuro),Approved,Blocker,D00177
+D07VHR,T66665,Prostaglandin G/H synthase 2 (COX-2),Approved,Inhibitor,D00297
+D0L2LS,T11211,Androgen receptor (AR),Approved,Agonist,D00436
+D08EOD,T64795,Voltage-gated calcium channel alpha Cav3.1 (CACNA1G),Approved,Blocker,D00437
+D05AFR,T72657,Staphylococcus 30S ribosomal subunit (Stap-coc pbp2),Approved,Binder,D01222
+D02KIU,T22939,Progesterone receptor (PGR),Approved,Binder,D00985
+D0O2WB,T30082,Acetylcholinesterase (AChE),Approved,Inhibitor,D00325
+D04LHJ,T67684,Muscarinic acetylcholine receptor M3 (CHRM3),Approved,Modulator,D00942
+D0PG0G,T14602,Coagulation factor VIII (F8),Approved,Inhibitor,D01406
+D0PG0G,T37510,Coagulation factor Va (F5),Approved,Inhibitor,D01406
+D0AJ5L,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00276
+D07XHO,T20178,Tumor necrosis factor (TNF),Approved,NA,D00253
+D07XHO,T20297,Serine protease unspecific (SP),Approved,Inhibitor,D00253
+D0U8US,T30284,Interferon gamma receptor (IFNGR2),Approved,Binder,D01403
+D0V4JQ,T02808,Interferon-beta (IFNB1),Approved,Modulator,D01408
+D0CQ2O,T06421,Interferon alpha/beta receptor 2 (IFNAR2),Approved,Binder,D01409
+D0P0WV,T63934,Interferon-alpha 2 (IFNA2),Approved,Modulator,D01268
+D0N7AD,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00499
+D08HRJ,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D00439
+D4Q5AW,T99954,Prostacyclin receptor (PTGIR),Phase 4,Agonist,D00889
+D0T7US,T74456,Angiotensin II receptor type-1 (AGTR1),Approved,Antagonist,D00869
+D06HBQ,T09423,Inward rectifier potassium channel Kir1.2 (KCNJ10),Approved,Binder,D00660
+D09PMV,T58454,Fibroblast growth factor receptor 2 (FGFR2),Approved,Binder,D01404
+D09ELP,T45993,Calcium channel unspecific (CaC),Approved,Modulator,D00707
+D0M8PW,T77913,Histamine H1 receptor (H1R),Approved,Antagonist,D01045
+DUQV41,T59480,KRAS G12C mutant (KRAS G12C),Phase 3,Inhibitor,D01356
+D01ZLU,T17687,Fibroblast growth factor receptor (FGFR),Phase 3,Antagonist,D01274
+D01ZLU,T64376,Fibroblast growth factor (FGF),Phase 3,Inhibitor,D01274
+D02QFW,T37405,Neuropeptide receptor (NPR),Phase 2,Modulator,D01078
+D7HLI1,T14602,Coagulation factor VIII (F8),Phase 3,Replacement,D01481
+D07KUN,T89534,Estrogen receptor (ESR),Phase 3,Modulator,D01125
+D0Z8EV,T18143,MERS-CoV papain-like proteinase (PL-PRO),Investigative,Inhibitor,D00775
+D0Z9EO,T17163,Leptin receptor (LEPR),Approved,Modulator,D01429
+D0U5UC,T06093,Rho-associated protein kinase 2 (ROCK2),Phase 2,Inhibitor,D01100
+D0B7CH,T29303,Sodium channel unspecific (NaC),Phase 2,Blocker,D00296
+D0B7CH,T64382,Gamma-aminobutyric acid receptor (GAR),Phase 2,Agonist,D00296
+D0B7CH,T68547,Histone deacetylase 1 (HDAC1),Phase 2,Inhibitor,D00296
+D0TC4R,T89034,Plasminogen (PLG),Phase 3,Activator,D01418
+D08RKK,T20401,Carbonic anhydrase II (CA-II),Investigative,Inhibitor,D00524
+D08RKK,T13201,Carbonic anhydrase I (CA-I),Investigative,Inhibitor,D00524
+D0R6RE,T89534,Estrogen receptor (ESR),Approved,Modulator,D01435
+D05QOL,T08306,B-cell-specific glycoprotein B29 (CD79B),Approved,NA,D01451
+D0NU8J,T21123,Hypoxia-inducible factor 2 alpha (HIF-2A),Phase 3,Inhibitor,D01301
+D07UBG,T74456,Angiotensin II receptor type-1 (AGTR1),Approved,Antagonist,D00691
+D06QAK,T87689,C-type natriuretic peptide (NPPC),Phase 3,Modulator,D01311
+DA69JF,T36075,Glucagon-like peptide 1 receptor (GLP1R),Phase 3,Agonist,D01475
+D0M2XE,T85435,Insulin receptor (INSR),Approved,Binder,D01116
+D24GYL,T23343,Human immunodeficiency virus Capsid p24 (HIV p24),Phase 2/3,Inhibitor,D01355
+D0S1XX,T78932,TYK2 tyrosine kinase (TYK2),Phase 3,Inhibitor,D01321
+D05PCM,T43415,Tyrosine-protein kinase (PTK),Phase 3,Inhibitor,D01290
+D0S2IQ,T76213,Phenylalanine hydroxylase (PAH),Approved,Modulator,D01341
+DDE3Z4,T67849 ,PI3-kinase delta (PIK3CD),NA,Inhibitor,D01502
+DF0PI8,T17140,P2X purinoceptor 3 (P2RX3),NA,Antagonist,D01503
+D0K5CB,T52522,Adrenergic receptor beta-2 (ADRB2),NA,Agonist,D01486
+D0OC3J,T67162,Dopamine D2 receptor (D2R),NA,Antagonist,D01413
+D09EGZ,T07289,Duffy antigen chemokine receptor (ACKR1),Approved,"Modulator	",D01510
+D0L9UU,T62094,Bacterial 30S ribosomal RNA (Bact 30S rRNA),Approved,Modulator,D01511
+D0CS2F,T58992,Opioid receptor delta (OPRD1),Approved,Binder,D01512
+D0I5WB,T89534,Estrogen receptor (ESR),Approved,Modulator,D01513
+D07NSU,T42000,Interleukin-1 beta (IL1B),Approved,Inhibitor,D01514
+D0I8FI,T44068,Adrenergic receptor beta-1 (ADRB1),Approved,Agonist,D01515
+D0I8FI,T52522,Adrenergic receptor beta-2 (ADRB2),Approved,Modulator,D01515
+D0I8FI,T95385,Interleukin-12 beta (IL12B),Approved,Modulator,D01515

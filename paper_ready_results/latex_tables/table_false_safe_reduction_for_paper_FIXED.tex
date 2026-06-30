@@ -1,0 +1,11 @@
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Model / Mode & Gate Threshold & False-safe Count & Risky True Count & False-safe Rate (\%) & Accuracy (\%) & Macro F1 (\%) & Avoid Recall (\%) & No-known Recall (\%) \\
+\midrule
+Majority baseline & NaN & 0 & 2419 & 0.000000 & 89.110000 & 31.410000 & 0.000000 & 0.000000 \\
+Balanced AI baseline & NaN & 128 & 2419 & 5.290000 & 91.860000 & 74.010000 & 55.560000 & 77.020000 \\
+Calibrated balanced mode & NaN & 96 & 2419 & 3.970000 & 91.520000 & 71.730000 & 48.150000 & 57.450000 \\
+MedSafe-GATE v1 balanced-safety mode & 0.600000 & 47 & 2419 & 1.940000 & 91.670000 & 68.600000 & 48.150000 & 38.300000 \\
+MedSafe-GATE v1 strict-screening mode & 0.700000 & 15 & 2419 & 0.620000 & 90.990000 & 61.570000 & 48.150000 & 17.020000 \\
+\bottomrule
+\end{tabular}

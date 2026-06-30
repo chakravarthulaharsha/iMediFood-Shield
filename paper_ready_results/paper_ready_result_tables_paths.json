@@ -1,0 +1,8 @@
+{
+  "ai_performance_table": "MediFoodShield/paper_ready_results/table_ai_performance_for_paper.csv",
+  "false_safe_reduction_table": "MediFoodShield/paper_ready_results/table_false_safe_reduction_for_paper.csv",
+  "security_attack_detection_table": "MediFoodShield/paper_ready_results/table_security_attack_detection_for_paper.csv",
+  "security_overhead_table": "MediFoodShield/paper_ready_results/table_security_overhead_for_paper.csv",
+  "fast_secured_inference_latency_table": "MediFoodShield/paper_ready_results/table_fast_secured_inference_latency_for_paper.csv",
+  "integrated_results_summary": "MediFoodShield/paper_ready_results/table_integrated_results_summary_for_paper.csv"
+}

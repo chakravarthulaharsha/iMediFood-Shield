@@ -1,0 +1,5 @@
+Category,Metric,Value,Notes
+Security,Simulated tamper attack detection,5/5,100.00% detection in implemented tests
+Security overhead,Full manifest verification,127.921 ms,Mean over benchmark runs
+Runtime,Fast exact DDID lookup + signing,0.058 ms,Average across exact lookup examples
+Runtime,Known-entity model branch + signing,2.940 ms,Includes calibrated LinearSVC prediction and signed output

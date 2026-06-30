@@ -1,0 +1,5 @@
+operation,target,runs,mean_seconds,min_seconds,max_seconds,verification_output,mean_ms,min_ms,max_ms
+Full security manifest verification,all protected assets,30,0.12792065420001866,0.10386883699993632,0.46687203500005126,True,127.921,103.869,466.872
+Sign one recommendation output,one signed recommendation record,100,2.399725994109758e-05,2.22569997276878e-05,9.14190004550619e-05,signature_generated,0.024,0.022,0.091
+Verify signed recommendation outputs,5 signed records,100,0.00011906109000847209,0.00011292899944237433,0.00021938000008958625,True,0.119,0.113,0.219
+Verify tampered recommendation outputs,5 records with one tampered record,100,0.00012010324005132133,0.00011342900052113691,0.00021538100008910988,"[False, True, True, True, True]",0.12,0.113,0.215

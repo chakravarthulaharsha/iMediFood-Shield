@@ -1,0 +1,266 @@
+{
+  "Majority baseline_VAL": {
+    "Avoid": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.8911077618688772,
+      "recall": 1.0,
+      "f1-score": 0.9424188085275952,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 235.0
+    },
+    "accuracy": 0.8911077618688772,
+    "macro avg": {
+      "precision": 0.2970359206229591,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.31413960284253173,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.7940730432629596,
+      "recall": 0.8911077618688772,
+      "f1-score": 0.8397967152101593,
+      "support": 2654.0
+    }
+  },
+  "Majority baseline_TEST": {
+    "Avoid": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.8911077618688772,
+      "recall": 1.0,
+      "f1-score": 0.9424188085275952,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 235.0
+    },
+    "accuracy": 0.8911077618688772,
+    "macro avg": {
+      "precision": 0.2970359206229591,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.31413960284253173,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.7940730432629596,
+      "recall": 0.8911077618688772,
+      "f1-score": 0.8397967152101593,
+      "support": 2654.0
+    }
+  },
+  "TFIDF + Logistic Regression_VAL": {
+    "Avoid": {
+      "precision": 0.8709677419354839,
+      "recall": 0.5,
+      "f1-score": 0.6352941176470588,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.9491666666666667,
+      "recall": 0.9632135306553912,
+      "f1-score": 0.9561385099685205,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.6278026905829597,
+      "recall": 0.5957446808510638,
+      "f1-score": 0.611353711790393,
+      "support": 235.0
+    },
+    "accuracy": 0.9212509419743783,
+    "macro avg": {
+      "precision": 0.8159790330617035,
+      "recall": 0.6863194038354851,
+      "f1-score": 0.7342621131353241,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.919120217414536,
+      "recall": 0.9212509419743783,
+      "f1-score": 0.9190812285980539,
+      "support": 2654.0
+    }
+  },
+  "TFIDF + Logistic Regression_TEST": {
+    "Avoid": {
+      "precision": 0.9565217391304348,
+      "recall": 0.4074074074074074,
+      "f1-score": 0.5714285714285714,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.9411764705882353,
+      "recall": 0.960676532769556,
+      "f1-score": 0.9508265327474367,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.5714285714285714,
+      "recall": 0.5276595744680851,
+      "f1-score": 0.5486725663716814,
+      "support": 235.0
+    },
+    "accuracy": 0.9110776186887717,
+    "macro avg": {
+      "precision": 0.8230422603824138,
+      "recall": 0.6319145048816828,
+      "f1-score": 0.6903092235158965,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.9087491488846776,
+      "recall": 0.9110776186887717,
+      "f1-score": 0.9074980956677375,
+      "support": 2654.0
+    }
+  },
+  "TFIDF + Logistic Regression Balanced_VAL": {
+    "Avoid": {
+      "precision": 0.5232558139534884,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.6428571428571429,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.989800649049606,
+      "recall": 0.9027484143763214,
+      "f1-score": 0.9442724458204335,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.5328467153284672,
+      "recall": 0.9319148936170213,
+      "f1-score": 0.6780185758513931,
+      "support": 235.0
+    },
+    "accuracy": 0.9039186134137152,
+    "macro avg": {
+      "precision": 0.6819677261105205,
+      "recall": 0.8893322137755586,
+      "f1-score": 0.7550493881763232,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.9398467698033144,
+      "recall": 0.9039186134137152,
+      "f1-score": 0.9145640487583602,
+      "support": 2654.0
+    }
+  },
+  "TFIDF + Logistic Regression Balanced_TEST": {
+    "Avoid": {
+      "precision": 0.4375,
+      "recall": 0.7777777777777778,
+      "f1-score": 0.56,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.9857471264367816,
+      "recall": 0.906553911205074,
+      "f1-score": 0.9444933920704845,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.5378590078328982,
+      "recall": 0.8765957446808511,
+      "f1-score": 0.6666666666666666,
+      "support": 235.0
+    },
+    "accuracy": 0.9012810851544838,
+    "macro avg": {
+      "precision": 0.6537020447565599,
+      "recall": 0.853642477887901,
+      "f1-score": 0.7237200195790504,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.9349336175070534,
+      "recall": 0.9012810851544838,
+      "f1-score": 0.9120699091610258,
+      "support": 2654.0
+    }
+  },
+  "TFIDF + LinearSVC Balanced_VAL": {
+    "Avoid": {
+      "precision": 0.7450980392156863,
+      "recall": 0.7037037037037037,
+      "f1-score": 0.7238095238095238,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.977112676056338,
+      "recall": 0.9386892177589852,
+      "f1-score": 0.9575156351089066,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.595166163141994,
+      "recall": 0.8382978723404255,
+      "f1-score": 0.696113074204947,
+      "support": 235.0
+    },
+    "accuracy": 0.9250188394875659,
+    "macro avg": {
+      "precision": 0.7724589594713395,
+      "recall": 0.8268969312677048,
+      "f1-score": 0.7924794110411257,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.9385722763109476,
+      "recall": 0.9250188394875659,
+      "f1-score": 0.929614455070249,
+      "support": 2654.0
+    }
+  },
+  "TFIDF + LinearSVC Balanced_TEST": {
+    "Avoid": {
+      "precision": 0.6521739130434783,
+      "recall": 0.5555555555555556,
+      "f1-score": 0.6,
+      "support": 54.0
+    },
+    "Use caution": {
+      "precision": 0.9686820356676816,
+      "recall": 0.9416490486257928,
+      "f1-score": 0.9549742710120068,
+      "support": 2365.0
+    },
+    "No known interaction in selected source": {
+      "precision": 0.5857605177993528,
+      "recall": 0.7702127659574468,
+      "f1-score": 0.6654411764705882,
+      "support": 235.0
+    },
+    "accuracy": 0.9186134137151469,
+    "macro avg": {
+      "precision": 0.735538822170171,
+      "recall": 0.755805790046265,
+      "f1-score": 0.7401384824941983,
+      "support": 2654.0
+    },
+    "weighted avg": {
+      "precision": 0.9283361444390591,
+      "recall": 0.9186134137151469,
+      "f1-score": 0.9221148558455103,
+      "support": 2654.0
+    }
+  }
+}

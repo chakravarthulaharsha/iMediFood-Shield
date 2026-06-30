@@ -1,0 +1,43 @@
+{
+  "verification_status": "VERIFIED_PROVENANCE",
+  "manifest_signature_match": true,
+  "all_file_hashes_match": true,
+  "file_results": [
+    {
+      "asset_name": "ddid_lookup_table",
+      "relative_path": "data_processed/ddid_evidence_lookup_guard_table.csv",
+      "expected_sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+      "current_sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+      "status": "MATCH"
+    },
+    {
+      "asset_name": "model_file",
+      "relative_path": "models/medsafe_gate_v1_calibrated_linearsvc.joblib",
+      "expected_sha256": "cea20002341ee99ac5254ac5a08f34a88be4e1d717f16cf9c1bf39aa6afc86f9",
+      "current_sha256": "cea20002341ee99ac5254ac5a08f34a88be4e1d717f16cf9c1bf39aa6afc86f9",
+      "status": "MATCH"
+    },
+    {
+      "asset_name": "inference_policy",
+      "relative_path": "security/rpi_inference_policy.json",
+      "expected_sha256": "e2e9bdeca794c857777c9b29dcda2a4d35478083be48c35c8c82621fbbc1d76b",
+      "current_sha256": "e2e9bdeca794c857777c9b29dcda2a4d35478083be48c35c8c82621fbbc1d76b",
+      "status": "MATCH"
+    },
+    {
+      "asset_name": "rpi_backend_output_log",
+      "relative_path": "paper_ready_results/raspberry_pi/rpi_backend_test.txt",
+      "expected_sha256": "f1c1b1ba171c754ed551e8474ac5443712790ec2bed492906962b277a4df767e",
+      "current_sha256": "f1c1b1ba171c754ed551e8474ac5443712790ec2bed492906962b277a4df767e",
+      "status": "MATCH"
+    },
+    {
+      "asset_name": "signed_recommendation_records",
+      "relative_path": "security/step19_signed_recommendation_records.json",
+      "expected_sha256": "f6aedbc89065ea3679dff30719ff3af9e00905856d89bf87cf54989d6e511342",
+      "current_sha256": "f6aedbc89065ea3679dff30719ff3af9e00905856d89bf87cf54989d6e511342",
+      "status": "MATCH"
+    }
+  ],
+  "missing_assets": []
+}

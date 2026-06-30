@@ -1,0 +1,16 @@
+[
+  {
+    "model_name": "TFIDF + Logistic Regression",
+    "threshold": 0.9,
+    "false_safe_rate": 0.0008267879288962381,
+    "macro_f1": 0.5412719297517895,
+    "accuracy": 0.9009042954031651
+  },
+  {
+    "model_name": "TFIDF + Logistic Regression Balanced",
+    "threshold": 0.9,
+    "false_safe_rate": 0.03431169904919388,
+    "macro_f1": 0.6975410379205446,
+    "accuracy": 0.9027882441597589
+  }
+]

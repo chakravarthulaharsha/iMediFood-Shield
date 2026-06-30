@@ -1,0 +1,73 @@
+{
+  "manifest": {
+    "manifest_name": "MediFoodShield Security Manifest",
+    "manifest_version": "v1.0",
+    "created_utc": "2026-06-30T08:27:25.481501+00:00",
+    "hash_algorithm": "SHA-256",
+    "signature_algorithm": "HMAC-SHA256 demo key",
+    "security_note": "This is a software prototype manifest. For Raspberry Pi deployment, the HMAC key should be replaced by a hardware-rooted or device-bound key.",
+    "device_context": {
+      "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+      "python_version": "3.12.13",
+      "machine": "x86_64",
+      "processor": "x86_64"
+    },
+    "protected_files": [
+      {
+        "logical_name": "ddid_lookup_table",
+        "path": "MediFoodShield/data_processed/ddid_evidence_lookup_guard_table.csv",
+        "sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84",
+        "size_bytes": 12797737
+      },
+      {
+        "logical_name": "model_file",
+        "path": "MediFoodShield/models/medsafe_gate_v1_calibrated_linearsvc.joblib",
+        "sha256": "883956d5ee1e2fb5a715ace250bb463a0340d32d58ce7f30b38c49a4c03d237c",
+        "size_bytes": 494947
+      },
+      {
+        "logical_name": "inference_policy",
+        "path": "MediFoodShield/results/medsafe_gate_v1_ddid_evidence_lookup_policy.json",
+        "sha256": "dbd7e239f3980b2acb3f0102df21b31e97d1a77aa1ff1c770afd4afcc9182394",
+        "size_bytes": 1240
+      },
+      {
+        "logical_name": "step16_inference_output",
+        "path": "MediFoodShield/results/step16_inference_with_coverage_guard_outputs.csv",
+        "sha256": "34591404e1a2560b612929286edbb145338fea3108aa9b8b13979f3781af58d5",
+        "size_bytes": 3845
+      },
+      {
+        "logical_name": "official_summary",
+        "path": "MediFoodShield/results/medsafe_gate_v1_official_summary_percent.csv",
+        "sha256": "74c51cdf7ed7c723419fb9f91082fd8e1f6eb31f4556b7f2605ebb9b1f0ea12f",
+        "size_bytes": 1109
+      },
+      {
+        "logical_name": "false_safe_summary",
+        "path": "MediFoodShield/results/step12_confusion_and_false_safe_summary.csv",
+        "sha256": "4c1f3ee97dec9ab10761206925ba4d0c1a5d489603207e79866acafc450222d5",
+        "size_bytes": 1873
+      },
+      {
+        "logical_name": "raw_interaction_information",
+        "path": "MediFoodShield/data_raw/Interaction Information.csv",
+        "sha256": "971f358383bff8462f507179782e5204c99ab4574c7f9b3b9c3be2bd06fd1749",
+        "size_bytes": 18386578
+      },
+      {
+        "logical_name": "label_mapping",
+        "path": "MediFoodShield/data_processed/ddid_label_mapping.csv",
+        "sha256": "efec174c239537d1438b1a3a7804bee689610f872bc2e240571cc260aaa1f72e",
+        "size_bytes": 533
+      },
+      {
+        "logical_name": "split_summary",
+        "path": "MediFoodShield/data_processed/split_summary_ddid_only.txt",
+        "sha256": "56413486daa110afe3e6067b9fbbda7c864d69947f04724f922f3f319ccd7353",
+        "size_bytes": 1067
+      }
+    ]
+  },
+  "manifest_signature_hmac_sha256": "20069dbc90ebad239e0e95b327f7a9d34b369334b896dca2c3f885640740688e"
+}

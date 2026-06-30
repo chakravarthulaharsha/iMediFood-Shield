@@ -1,0 +1,7 @@
+{
+  "total_security_attacks": 5,
+  "detected_attacks": 5,
+  "attack_detection_rate": 1.0,
+  "attack_detection_rate_percent": 100.0,
+  "summary": "5/5 security attacks were detected."
+}

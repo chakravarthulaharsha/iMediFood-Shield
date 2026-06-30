@@ -1,0 +1,1695 @@
+﻿TTD_ID,Indication,State,FHDI_Drug_ID
+D0IV3M,Constipation [ICD-11: DD91.1],Approved,D00001
+D0XB8P,Inborn error of metabolism [ICD-11: 5C50-5C59],Approved,D00002
+D0X4ZR,Smoking dependence [ICD-11: 6C4A.2],Approved,D00006
+D0FD0H,Bleeding disorder [ICD-11: GA20-GA21],Approved,D00007
+D0FD0H,Postoperative hemorrhage [ICD-11: NE81.0Z],Approved,D00007
+D0Q5IN,Infestations of lice and scabies [ICD-11: 1G00.Z],Approved,D00008
+D0AN7B,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00010
+D01ZJK,Venous thrombosis [ICD-11: BA43],Approved,D00009
+D01ZJK,Deep vein thrombosis [ICD-11: BD71],Approved,D00009
+D01ZJK,Thrombosis [ICD-11: DB61-GB90],Phase 3,D00009
+D01ZJK,Venous thromboembolism [ICD-11: BD72],Phase 3,D00009
+D01ZJK,Venous thrombosis [ICD-11: BA43],Approved,D01359
+D01ZJK,Deep vein thrombosis [ICD-11: BD71],Approved,D01359
+D01ZJK,Thrombosis [ICD-11: DB61-GB90],Phase 3,D01359
+D01ZJK,Venous thromboembolism [ICD-11: BD72],Phase 3,D01359
+D01ZJK,Venous thrombosis [ICD-11: BA43],Approved,D01360
+D01ZJK,Deep vein thrombosis [ICD-11: BD71],Approved,D01360
+D01ZJK,Thrombosis [ICD-11: DB61-GB90],Phase 3,D01360
+D01ZJK,Venous thromboembolism [ICD-11: BD72],Phase 3,D01360
+D01ZJK,Venous thrombosis [ICD-11: BA43],Approved,D01361
+D01ZJK,Deep vein thrombosis [ICD-11: BD71],Approved,D01361
+D01ZJK,Thrombosis [ICD-11: DB61-GB90],Phase 3,D01361
+D01ZJK,Venous thromboembolism [ICD-11: BD72],Phase 3,D01361
+D01ZJK,Venous thrombosis [ICD-11: BA43],Approved,D01362
+D01ZJK,Deep vein thrombosis [ICD-11: BD71],Approved,D01362
+D01ZJK,Thrombosis [ICD-11: DB61-GB90],Phase 3,D01362
+D01ZJK,Venous thromboembolism [ICD-11: BD72],Phase 3,D01362
+D01ZJK,Venous thrombosis [ICD-11: BA43],Approved,D01363
+D01ZJK,Deep vein thrombosis [ICD-11: BD71],Approved,D01363
+D01ZJK,Thrombosis [ICD-11: DB61-GB90],Phase 3,D01363
+D01ZJK,Venous thromboembolism [ICD-11: BD72],Phase 3,D01363
+D0XF8W,Mycobacterium infection [ICD-11: 1B10-1B21],Approved,D00012
+D0W1US,Virus infection [ICD-11: 1A24-1D9Z],Phase 2,D00014
+D08YIN,Multiple sclerosis [ICD-11: 8A40],Approved,D00015
+D0E4DW,Epilepsy [ICD-11: 8A60-8A68],Approved,D00016
+D0E6YQ,Alzheimer disease [ICD-11: 8A20],Approved,D00017
+D0HD9K,Hypertension [ICD-11: BA00-BA04],Approved,D00018
+D0U5QK,Pain [ICD-11: MG30-MG3Z],Approved,D00019
+D0E1SW,Glaucoma/ocular hypertension [ICD-11: 9C61],Approved,D00020
+D07WFK,Diabetic complication [ICD-11: 5A2Y],Approved,D00021
+D0R9BG,Urinary tract infection [ICD-11: GC08],Approved,D00022
+D00KVO,Worm infection [ICD-11: 1F90.Z],Approved,D00023
+D09MWJ,Benign prostatic hyperplasia [ICD-11: GA90],Approved,D00025
+D06GKN,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D00026
+D0L9GG,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00027
+D0L9GG,Epilepsy [ICD-11: 8A60-8A68],Phase 2,D00027
+D02LPF,Ovarian cancer [ICD-11: 2C73],Approved,D00028
+D02KRS,Influenza A virus infection [ICD-11: 1E30],Approved,D00029
+D06IAQ,Myasthenia gravis [ICD-11: 8C6Y],Approved,D00030
+D0M6DO,Cushing disease [ICD-11: 5A70],Approved,D00031
+D0F8RA,Chronic obstructive pulmonary disease [ICD-11: CA22],Approved,D00032
+D0L5WM,Tachyarrhythmias [ICD-11: BC71],Approved,D00033
+D03ELL,Schizophrenia [ICD-11: 6A20],Approved,D00034
+D0Y5UG,Depression [ICD-11: 6A70-6A7Z],Approved,D00035
+D08JIV,Hypertension [ICD-11: BA00-BA04],Approved,D00036
+D0R6BR,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00037
+D04NQI,Malaria [ICD-11: 1F40-1F45],Approved,D00038
+D09IOI,Major depressive disorder [ICD-11: 6A70.3],Approved,D00039
+D0W0BF,Breast cancer [ICD-11: 2C60-2C65],Approved,D00040
+D0GY5Z,Pain [ICD-11: MG30-MG3Z],Approved,D00043
+D0GY5Z,Myocardial infarction [ICD-11: BA41-BA43],Approved,D00043
+D0GY5Z,Cardiovascular disease [ICD-11: BA00-BE2Z],Phase 3,D00043
+D0Y2HR,Allergic rhinitis [ICD-11: CA08.0],Withdrawn from market,D00044
+D01UXC,Hypertension [ICD-11: BA00-BA04],Approved,D00045
+D07QCE,Organ transplant rejection [ICD-11: NE84],Approved,D00046
+D0E4WR,Acne vulgaris [ICD-11: ED80],Approved,D00047
+D00JVR,Allergic conjunctivitis [ICD-11: 9A60.02],Approved,D00048
+D01AJY,Multiple sclerosis [ICD-11: 8A40],Approved,D00049
+D01AJY,Fragile X syndrome [ICD-11: LD55],Phase 3,D00049
+D02PAH,High blood pressure [ICD-11: BA00],Approved,D00050
+D0Z3DY,Gout [ICD-11: FA25],Approved,D00052
+D0Y4JJ,Chronic/stable angina [ICD-11: BA40.1],Approved,D00053
+D03ROX,Hypertension [ICD-11: BA00-BA04],Approved,D00055
+D07ZTO,Urinary retention [ICD-11: MF50.3],Approved,D00056
+D01SAT,Hypertension [ICD-11: BA00-BA04],Approved,D00057
+D0V9BD,Prostate cancer [ICD-11: 2C82.0],Approved,D00058
+D0B4TN,Parkinson disease [ICD-11: 8A00.0],Approved,D00059
+D07IEF,Constipation [ICD-11: DD91.1],Approved,D00060
+D0K3ZR,Hypertension [ICD-11: BA00-BA04],Approved,D00061
+D0AE3X,Ocular hypertension [ICD-11: 9C61.01],Approved,D00062
+D0AE3X,Glaucoma/ocular hypertension [ICD-11: 9C61],Phase 3,D00062
+D0E3FD,Panic attacks [ICD-11: MB23.H],Approved,D00063
+D0E3FD,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00063
+D0R7HO,Congestive heart failure [ICD-11: BD10],Approved,D00064
+D0U2OO,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00065
+D07SUG,Myeloproliferative syndrome [ICD-11: 2A22],Approved,D00066
+D0A4JK,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00067
+D05BQK,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00068
+D05BQK,Headache [ICD-11: 8A80-8A84],Approved,D00068
+D0B3HD,Orthostatic hypotension [ICD-11: BA21],Approved,D00069
+D0R0FE,Hypertension [ICD-11: BA00-BA04],Approved,D00070
+D0Y6SQ,Cystic fibrosis [ICD-11: CA25],Phase 2,D00071
+D00FGV,Vasomotor/allergic rhinitis [ICD-11: CA08],Approved,D00075
+D05PLH,Musculoskeletal disorder [ICD-11: FA00-FC0Z],Approved,D00076
+D0W9LX,Congestive heart failure [ICD-11: BD10],Approved,D00078
+D03RTS,Rheumatoid arthritis [ICD-11: FA20],Approved,D00079
+D03RTS,Pain [ICD-11: MG30-MG3Z],Phase 3,D00079
+D02OAV,Alcohol dependence [ICD-11: 6C40.2],Approved,D00082
+D0V8QT,Chronic lymphocytic leukaemia [ICD-11: 2A82.0],Approved,D00083
+D06BEP,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00085
+D0B7NG,Allergic rhinitis [ICD-11: CA08.0],Approved,D00086
+D01ZII,Schizophrenia [ICD-11: 6A20],Approved,D00087
+D00BCP,Non-insulin dependent diabetes [ICD-11: 5A11],Approved,D00088
+D09NIA,Edema [ICD-11: MG29],Approved,D00089
+D09NIA,Hypertension [ICD-11: BA00-BA04],Approved,D00089
+D08ZEB,Acute pain [ICD-11: MG31],Approved,D00090
+D03VPC,Intermittent claudication [ICD-11: BD40.00],Approved,D00091
+D02DPA,Acid-reflux disorder [ICD-11: DA22],Approved,D00092
+D0O1WX,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00093
+D0O1WX,Gram-positive bacterial infection [ICD-11: 1B74-1G40],Approved,D00093
+D0O1WX,Cystic fibrosis [ICD-11: CA25],Phase 2,D00093
+D0O1WX,Biliary cancer [ICD-11: 2E92.7],Phase 1,D00093
+D0Y5DO,Depression [ICD-11: 6A70-6A7Z],Approved,D00094
+D0Q1BT,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D00095
+D0Q1BT,Abdominal stomach pain [ICD-11: DD91.4],Approved,D00095
+D0Q1BT,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D00095
+D0Q1BT,Abdominal stomach pain [ICD-11: DD91.4],Approved,D00095
+D0Q1BT,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D01364
+D0Q1BT,Abdominal stomach pain [ICD-11: DD91.4],Approved,D01364
+D0Q1BT,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D01364
+D0Q1BT,Abdominal stomach pain [ICD-11: DD91.4],Approved,D01364
+D0S5UH,Crohn disease [ICD-11: DD70],Approved,D00097
+D0S5UH,Mycobacterium infection [ICD-11: 1B10-1B21],Investigative,D00097
+D0J5DC,Dysbetalipoproteinemia [ICD-11: 5C80.2],Approved,D00099
+D0ZS8P,Depression [ICD-11: 6A70-6A7Z],Approved,D00100
+D0CP4E,Epilepsy [ICD-11: 8A60-8A68],Approved,D00101
+D0CP4E,Seizure disorder [ICD-11: 8A6Z],Phase 2,D00101
+D03SKR,Hypertension [ICD-11: BA00-BA04],Approved,D00102
+D03SKR,Diabetic neuropathy [ICD-11: 8C0Z],Phase 3,D00102
+D05VQI,Dementia [ICD-11: 6D80-6D86],Approved,D00106
+D01KHH,Depression [ICD-11: 6A70-6A7Z],Approved,D00107
+D0CT9C,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00108
+D00TLN,Rhinitis [ICD-11: FA20],Approved,D00109
+D0MA9N,Pneumocystis pneumonia [ICD-11: CA40.20],Approved,D00110
+D0MP5H,Hypertension [ICD-11: BA00-BA04],Approved,D00111
+D0MP5H,Hypertension [ICD-11: BA00-BA04],Approved,D01365
+D0N0OU,Thalassemia [ICD-11: 3A50],Approved,D00112
+D01UTL,Attention deficit hyperactivity disorder [ICD-11: 6A05.Z],Approved,D00113
+D01UTL,Depression [ICD-11: 6A70-6A7Z],Approved,D00113
+D05BMG,Attention deficit hyperactivity disorder [ICD-11: 6A05.Z],Approved,D00114
+D07JVL,Epilepsy [ICD-11: 8A60-8A68],Approved,D00115
+D0TG1H,Osteoarthritis [ICD-11: FA00-FA05],Approved,D00116
+D0J4GO,Chronic glaucoma [ICD-11: 9C61.0Z],Approved,D00117
+D0J4GO,Chronic glaucoma [ICD-11: 9C61.0Z],Approved,D01366
+D07XJM,Functional bowel syndrome [ICD-11: DD91.0],Approved,D00118
+D06RCB,Lymphatic filariasis [ICD-11: 1F66.3],Approved,D00119
+D08LFZ,Pain [ICD-11: MG30-MG3Z],Approved,D00120
+D01FGR,Meniere disease [ICD-11: AB31.0],Approved,D00121
+D0F9GE,Hypertension [ICD-11: BA00-BA04],Approved,D00122
+D06JRD,Pain [ICD-11: MG30-MG3Z],Withdrawn from market,D00123
+D06JRD,Fever [ICD-11: MG26],Withdrawn from market,D00123
+D0M4YC,Ventricular arrhythmias [ICD-11: BC71],Approved,D00124
+D0M4YC,Urinary incontinence [ICD-11: MF50.2],Withdrawn from market,D00124
+D0X5SD,Alcohol dependence [ICD-11: 6C40.2],Approved,D00125
+D0AV3G,Gastrointestinal disease [ICD-11: DE2Z],Approved,D00127
+D0NS6H,Alzheimer disease [ICD-11: 8A20],Approved,D00128
+D03MIR,Hypertension [ICD-11: BA00-BA04],Approved,D00129
+D0Y2LR,Morning sickness [ICD-11: SC00],Approved,D00130
+D04QLR,Pain [ICD-11: MG30-MG3Z],Approved,D00131
+D0R8ER,Urinary tract infection [ICD-11: GC08],Approved,D00133
+D0P2CK,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00134
+D0Q4XQ,Epilepsy [ICD-11: 8A60-8A68],Approved,D00136
+D05EPM,Complex partial seizure [ICD-11: 8A68.0],Approved,D00137
+D00NNC,Paget's disease [ICD-11: FB85],Approved,D00138
+D0N1WU,Pain [ICD-11: MG30-MG3Z],Approved,D00139
+D0VT8P,Virus infection [ICD-11: 1A24-1D9Z],Approved,D00140
+D05KON,Epilepsy [ICD-11: 8A60-8A68],Approved,D00141
+D0WN0U,Hypertension [ICD-11: BA00-BA04],Approved,D00142
+D09WNK,Dravet syndrome [ICD-11: 8A61.11],Phase 3,D00143
+D09WNK,LennoxGastaut syndrome [ICD-11: 8A62.1],Phase 3,D00143
+D09WNK,Obesity [ICD-11: 5B81],Withdrawn from market,D00143
+D07XGR,High cholesterol level [ICD-11: 5C80.0],Approved,D00144
+D0R6BI,Hypertension [ICD-11: BA00-BA04],Approved,D00145
+D03XYW,Rheumatoid arthritis [ICD-11: FA20],Approved,D00146
+D04XEG,Asthma [ICD-11: CA23],Approved,D00147
+D0E1WI,Analgesia [ICD-11: MB40.8],Approved,D00148
+D0E1WI,Pain [ICD-11: MG30-MG3Z],Phase 3,D00148
+D0E1WI,Cancer related pain [ICD-11: MG30],Phase 3,D00148
+D0E1WI,Chronic pain [ICD-11: MG30],Phase 1,D00148
+D01KPV,Allergic rhinitis [ICD-11: CA08.0],Approved,D00149
+D0ND2J,Suprapubic pain [ICD-11: MG30-MG3Z],Approved,D00150
+D0ND2J,Nocturia [ICD-11: MF55],Approved,D00150
+D0ND2J,Urgency [ICD-11: N.A.],Approved,D00150
+D0ND2J,Dysuria [ICD-11: MF50.7],Approved,D00150
+D03DAP,Tachyarrhythmias [ICD-11: BC71],Approved,D00151
+D03DAP,Paroxysmal atrial fibrillation [ICD-11: BC81.30],Phase 1,D00151
+D03DAP,Atrial fibrillation [ICD-11: BC81.3],Investigative,D00151
+D06GAM,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00152
+D0AK5R,Arthritis [ICD-11: FA20],Withdrawn from market,D00153
+D09LNI,Fungal infection [ICD-11: 1F29-1F2F],Approved,D00154
+D06FWC,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00155
+D0P5SA,Psychotic disorder [ICD-11: 6A20-6A25],Approved,D00156
+D0D5GD,Benzodiazepine overdose [ICD-11: PC91],Approved,D00157
+D0W2NM,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00158
+D05LEO,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00159
+D05LEO,Tumour [ICD-11: 2A00-2F9Z],Investigative,D00159
+D05LEO,Colorectal cancer [ICD-11: 2B91.Z],Investigative,D00159
+D0TR5X,Depression [ICD-11: 6A70-6A7Z],Approved,D00160
+D0TR5X,Depression [ICD-11: 6A70-6A7Z],Approved,D00160
+D08XFV,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00161
+D0A1PX,Rheumatoid arthritis [ICD-11: FA20],Approved,D00162
+D0U5FS,Schizophrenia [ICD-11: 6A20],Approved,D00163
+D0Y0SW,Prostate cancer [ICD-11: 2C82.0],Approved,D00164
+D02NJA,Athylene glycol or methanol poisoning [ICD-11: NE61],Approved,D00165
+D0PQ3G,Congestive heart failure [ICD-11: BD10],Approved,D00166
+D0PQ3G,Congestive heart failure [ICD-11: BD10],Approved,D01367
+D0J0ZS,Complex partial seizure [ICD-11: 8A68.0],Approved,D00167
+D0J0ZS,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 3,D00167
+D05PHH,Pancreatitis [ICD-11: DC31-DC34],Approved,D00168
+D05VIX,Hyperlipidaemia [ICD-11: 5C80],Approved,D00169
+D0M2MR,Diabetic complication [ICD-11: 5A2Y],Approved,D00170
+D0M2MR,Diabetic complication [ICD-11: 5A2Y],Approved,D01368
+D0B2GI,Diabetic complication [ICD-11: 5A2Y],Approved,D00171
+D0Z4SB,Diabetic complication [ICD-11: 5A2Y],Approved,D00172
+D0Z9NZ,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00173
+D05LYX,Diabetic complication [ICD-11: 5A2Y],Approved,D00174
+D05LYX,Stroke [ICD-11: 8B20],Phase 3,D01369
+D05LYX,Diabetic complication [ICD-11: 5A2Y],Approved,D00174
+D05LYX,Stroke [ICD-11: 8B20],Phase 3,D01369
+D0N3PE,Moderate and severe hypertension [ICD-11: BA00.Z],Approved,D00177
+D0D1AL,Schizophrenia [ICD-11: 6A20],Approved,D00178
+D00FGR,Leishmaniasis [ICD-11: 1F54],Approved,D00179
+D00FGR,Visceral leishmaniasis [ICD-11: 1F54.0],Phase 2,D00179
+D0K1XK,Hypertension [ICD-11: BA00-BA04],Approved,D00180
+D0U4UQ,Hypertension [ICD-11: BA00-BA04],Approved,D00181
+D00WAM,Congestive heart failure [ICD-11: BD10],Approved,D00182
+D0OJ4L,Malaria [ICD-11: 1F40-1F45],Approved,D00183
+D07CWD,Chronic myelogenous leukaemia [ICD-11: 2A20.0],Approved,D00184
+D0O6SX,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00185
+D03QJL,Castleman's disease [ICD-11: 4B2Y],Approved,D00186
+D03QJL,Amyotrophic lateral sclerosis [ICD-11: 8B60.0],Phase 2,D00186
+D03QJL,Alcohol dependence [ICD-11: 6C40.2],Phase 2,D00186
+D03QJL,Methamphetamine dependence [ICD-11: 6C46.2],Phase 2,D00186
+D03QJL,Opioid dependence [ICD-11: 6C43.2Z],Phase 2,D00186
+D03QJL,Multiple sclerosis [ICD-11: 8A40],Phase 2,D00186
+D0R1QE,Pain [ICD-11: MG30-MG3Z],Approved,D00187
+D0P9AC,Depression [ICD-11: 6A70-6A7Z],Approved,D00188
+D0P9AC,Skin imperfections [ICD-11: EK71],Patented,D00188
+D0X4RN,Anaesthesia [ICD-11: 9A78.6],Approved,D00189
+D0X4RN,Dysmenorrhea [ICD-11: GA34.3],Phase 2,D00189
+D0MM8N,Cognitive impairment [ICD-11: 6D71],Approved,D00190
+D0MM8N,Friedreich's ataxia [ICD-11: 8A03.10],Approved,D00190
+D02TLO,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00191
+D06ZUK,Depression [ICD-11: 6A70-6A7Z],Approved,D00192
+D0H8FH,Hypertension [ICD-11: BA00-BA04],Approved,D00193
+D0R1RS,Rheumatoid arthritis [ICD-11: FA20],Approved,D00194
+D0R1RS,Rheumatoid arthritis [ICD-11: FA20],Approved,D01370
+D00JAU,Hypertension [ICD-11: BA00-BA04],Approved,D00198
+D0I2VK,Depression [ICD-11: 6A70-6A7Z],Approved,D00199
+D09XQF,Tuberculosis [ICD-11: 1B10-1B1Z],Approved,D00200
+D0Z7KE,Hypertension [ICD-11: BA00-BA04],Approved,D00201
+D0Z7KE,Herpes simplex virus infection [ICD-11: 1F00],Phase 3,D00201
+D0UM7O,Anaesthesia [ICD-11: 9A78.6],Approved,D00202
+D0W9WF,Musculoskeletal pain [ICD-11: MG30],Approved,D00203
+D0W9WF,Pain [ICD-11: MG30-MG3Z],Phase 3,D00203
+D0W9WF,Migraine [ICD-11: 8A80],Phase 2,D00203
+D0W9WF,Osteoarthritis [ICD-11: FA00-FA05],Phase 1,D00203
+D0D9JW,Postoperative inflammation [ICD-11: 1A00-CA43.1],Approved,D00204
+D0YG7M,Allergic conjunctivitis [ICD-11: 9A60.02],Approved,D00205
+D0A8XN,Hypertension [ICD-11: BA00-BA04],Approved,D00206
+D03FLC,Bipolar disorder [ICD-11: 6A60],Approved,D00207
+D03FLC,Epilepsy [ICD-11: 8A60-8A68],Approved,D00207
+D08ROP,Arthritis [ICD-11: FA20],Approved,D00208
+D08ROP,Multiple sclerosis [ICD-11: 8A40],Approved,D00208
+D0C1WH,Hormonally-responsive breast cancer [ICD-11: 2C60-2C65],Approved,D00209
+D02KOF,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00210
+D06ABF,Allergy [ICD-11: 4A80-4A85],Approved,D00211
+D06ABF,Allergic rhinitis [ICD-11: CA08.0],Discontinued in Phase 2,D00211
+D0E0OG,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00212
+D0DD0K,Hypertension [ICD-11: BA00-BA04],Approved,D00213
+D0U5OE,Schizophrenia [ICD-11: 6A20],Approved,D00214
+D03KQF,Major depressive disorder [ICD-11: 6A70.3],Approved,D00217
+D0H8QL,Obesity [ICD-11: 5B81],Approved,D00218
+D0J1MI,Worm infection [ICD-11: 1F90.Z],Approved,D00220
+D0V8HA,Essential hypertension [ICD-11: BA00],Approved,D00221
+D08IFL,Ankylosing spondylitis [ICD-11: FA92.0],Approved,D00222
+D08IFL,Joint pain [ICD-11: ME82],Approved,D00222
+D05FTJ,Dysmenorrhea [ICD-11: GA34.3],Approved,D00223
+D0GQ7K,Malaria [ICD-11: 1F40-1F45],Approved,D00224
+D01JEU,Alzheimer disease [ICD-11: 8A20],Approved,D00225
+D00UYE,Pain [ICD-11: MG30-MG3Z],Approved,D00226
+D0Y4AW,Malaria [ICD-11: 1F40-1F45],Approved,D00227
+D0Y4AW,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00227
+D0Y4AW,Ischemic reperfusion injury [ICD-11: DB98.B],Discontinued in Phase 1,D00227
+D0C4YC,Ulcerative colitis [ICD-11: DD71],Approved,D00228
+D0C4YC,Ulcerative colitis [ICD-11: DD71],Approved,D01371
+D04AAN,Schizophrenia [ICD-11: 6A20],Approved,D00229
+D0D7LA,Type-2 diabetes [ICD-11: 5A11],Approved,D00230
+D09OJQ,Dry cough [ICD-11: MD12],Approved,D00231
+D0C2II,Glaucoma/ocular hypertension [ICD-11: 9C61],Approved,D00232
+D0FN7J,Musculoskeletal disorder [ICD-11: FA00-FC0Z],Approved,D00233
+D08SKH,Cutaneous T-cell lymphoma [ICD-11: 2B01],Approved,D00234
+D08SKH,Psoriasis vulgaris [ICD-11: EA90],Approved,D00234
+D07SOO,Anaesthesia [ICD-11: 9A78.6],Approved,D00235
+D02PPN,Attention deficit hyperactivity disorder [ICD-11: 6A05.Z],Approved,D00236
+D02PPN,Traumatic brain injury [ICD-11: NA07.Z],Phase 4,D00236
+D05OQJ,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00237
+D08VYV,Nausea [ICD-11: MD90],Approved,D00238
+D01WLC,Edema [ICD-11: MG29],Approved,D00239
+D01WLC,Hypertension [ICD-11: BA00-BA04],Approved,D00239
+D0I2MK,Hypertension [ICD-11: BA00-BA04],Approved,D00240
+D0A2ZX,Amoebiasis [ICD-11: 1A36],Approved,D00241
+D0A2ZX,Crohn disease [ICD-11: DD70],Phase 3,D00241
+D0A2ZX,Perianal crohn disease [ICD-11: DD70.4],Phase 3,D00241
+D0Q9JT,Cushing disease [ICD-11: 5A70],Approved,D00242
+D0X0RI,Ventricular tachycardia [ICD-11: BC71],Approved,D00243
+D00AXJ,Fungal infection [ICD-11: 1F29-1F2F],Approved,D00244
+D0U6LM,Irritability [ICD-11: MB24],Approved,D00245
+D0U6LM,Epilepsy [ICD-11: 8A60-8A68],Phase 3,D00245
+D02XJY,Orthostatic hypotension [ICD-11: BA21],Approved,D00246
+D0Y2CJ,Hypertension [ICD-11: BA00-BA04],Approved,D00247
+D05ZIK,Depression [ICD-11: 6A70-6A7Z],Approved,D00248
+D0Z5OE,Adrenocortical carcinoma [ICD-11: 2D11.Z],Approved,D00249
+D01ZSO,Depression [ICD-11: 6A70-6A7Z],Approved,D00250
+D01ZSO,Skin imperfections [ICD-11: EK71],Patented,D00250
+D07HQC,Narcolepsy [ICD-11: 7A20],Approved,D00251
+D07HQC,Bipolar disorder [ICD-11: 6A60],Phase 4,D00251
+D07HQC,Brain injury [ICD-11: NA07.Z],Investigative,D00251
+D07HQC,Narcolepsy [ICD-11: 7A20],Approved,D00251
+D07HQC,Bipolar disorder [ICD-11: 6A60],Phase 4,D00251
+D07HQC,Brain injury [ICD-11: NA07.Z],Investigative,D00251
+D07HQC,Narcolepsy [ICD-11: 7A20],Approved,D01372
+D07HQC,Bipolar disorder [ICD-11: 6A60],Phase 4,D01372
+D07HQC,Brain injury [ICD-11: NA07.Z],Investigative,D01372
+D07HQC,Narcolepsy [ICD-11: 7A20],Approved,D01372
+D07HQC,Bipolar disorder [ICD-11: 6A60],Phase 4,D01372
+D07HQC,Brain injury [ICD-11: NA07.Z],Investigative,D01372
+D05CKR,Pain [ICD-11: MG30-MG3Z],Approved,D00252
+D07XHO,Pancreatitis [ICD-11: DC31-DC34],Approved,D00253
+D07XHO,Sepsis [ICD-11: 1G40-1G41],Discontinued in Phase 2,D00253
+D07JGT,Urinary tract infection [ICD-11: GC08],Approved,D00254
+D0T3KI,Migraine [ICD-11: 8A80],Approved,D00255
+D0X7DE,Major depressive disorder [ICD-11: 6A70.3],Approved,D00256
+D0X7DE,Depression [ICD-11: 6A70-6A7Z],Withdrawn from market,D00256
+D0O2EM,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00257
+D0T0KA,High blood pressure [ICD-11: BA00],Approved,D00258
+D04OSE,Angina pectoris [ICD-11: BA40],Approved,D00259
+D0SN9T,Prostate cancer [ICD-11: 2C82.0],Approved,D00260
+D0XN1F,Cerebral vasospasm [ICD-11: BA85.Z],Approved,D00262
+D0S5CU,Hypertension [ICD-11: BA00-BA04],Approved,D00263
+D0T5WK,Epilepsy [ICD-11: 8A60-8A68],Approved,D00264
+D0T5WK,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00264
+D0A1DH,Hypertension [ICD-11: BA00-BA04],Approved,D00265
+D07YDE,Diabetic foot ulcer [ICD-11: BD54],Approved,D00266
+D07YDE,Angina pectoris [ICD-11: BA40],Approved,D00266
+D0Q2PE,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00267
+D04WFD,Depression [ICD-11: 6A70-6A7Z],Approved,D00268
+D03NHW,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00270
+D01XNB,Gastroesophageal reflux disease [ICD-11: DA22.Z],Approved,D00271
+D0K7WK,Chemotherapy-induced nausea [ICD-11: MD90],Approved,D00272
+D0K7WK,Alcohol dependence [ICD-11: 6C40.2],Phase 2,D00272
+D0D9FV,Parkinson disease [ICD-11: 8A00.0],Approved,D00273
+D0M9DC,Rheumatoid arthritis [ICD-11: FA20],Approved,D00275
+D0AJ5L,Hay fever [ICD-11: CA08.00],Approved,D00276
+D09LDR,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00277
+D0X2MB,Hypertension [ICD-11: BA00-BA04],Approved,D00278
+D06ZPS,Arthritis [ICD-11: FA20],Approved,D00280
+D01WJL,Pulmonary and extrapulmonary tuberculosis [ICD-11: 1B10.Z],Approved,D00281
+D01WJL,Inflammatory bowel disease [ICD-11: DD72],Approved,D00281
+D07ILQ,Attention deficit hyperactivity disorder [ICD-11: 6A05.Z],Approved,D00282
+D0T6XX,Gastroesophageal reflux disease [ICD-11: DA22.Z],Approved,D00283
+D0R0UJ,Hypertension [ICD-11: BA00-BA04],Approved,D00284
+D0R0UJ,Skin imperfections [ICD-11: EK71],Patented,D00284
+D0R0UJ,Muscular dystrophy [ICD-11: 8C70],Patented,D00284
+D0D5GG,Attention deficit hyperactivity disorder [ICD-11: 6A05.Z],Approved,D00285
+D0F0YZ,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00286
+D09QEI,Intermittent claudication [ICD-11: BD40.00],Approved,D00287
+D00AWT,Psychiatric disorder [ICD-11: 6E8Z],Approved,D00288
+D02HED,Schizophrenia [ICD-11: 6A20],Approved,D00289
+D07ONP,Epilepsy [ICD-11: 8A60-8A68],Approved,D00290
+D0O2IE,Analgesia [ICD-11: MB40.8],Withdrawn from market,D00291
+D00VUL,Pain [ICD-11: MG30-MG3Z],Approved,D00292
+D08FTG,Coagulation defect [ICD-11: 3B10.0],Approved,D00293
+D08FTG,Pulmonary embolism [ICD-11: BB00],Approved,D00293
+D0Y7RW,Seizure disorder [ICD-11: 8A6Z],Approved,D00294
+D0U0RZ,Obesity [ICD-11: 5B81],Approved,D00295
+D0B7CH,Urea cycle disorder [ICD-11: 5C50.A],Phase 2,D00296
+D07VHR,Chronic pain [ICD-11: MG30],Approved,D00297
+D0F2PO,Hypertension [ICD-11: BA00-BA04],Approved,D00298
+D03OFF,Diabetic complication [ICD-11: 5A2Y],Approved,D00299
+D03OFF,Type-2 diabetes [ICD-11: 5A11],Phase 3,D00299
+D03OFF,Obesity [ICD-11: 5B81],Investigative,D00299
+D01XLM,Enterobiasis [ICD-11: 1F65],Approved,D00300
+D01XLM,Ascariasis [ICD-11: 1F62],Approved,D00300
+D0Q4YK,Cognitive impairment [ICD-11: 6D71],Approved,D00301
+D0T0LM,Peptic ulcer [ICD-11: DA61],Approved,D00302
+D06TNG,Edema [ICD-11: MG29],Approved,D00303
+D06TNG,Hypertension [ICD-11: BA00-BA04],Approved,D00303
+D0E9JM,Hypokalemia [ICD-11: 5C77],Approved,D00304
+D0KD1U,Cardiac arrhythmias [ICD-11: BC9Z],Approved,D00305
+D0G3AQ,Anxiety disorder [ICD-11: 6B00-6B0Z],Approved,D00306
+D0L9ZR,Flatworm infection [ICD-11: 1F70-1F86],Approved,D00307
+D0WV3U,Congestive heart failure [ICD-11: BD10],Approved,D00308
+D0WV3U,Benign prostatic hyperplasia [ICD-11: GA90],Approved,D00308
+D0WV3U,Hypertension [ICD-11: BA00-BA04],Approved,D00308
+D06LYG,Pain [ICD-11: MG30-MG3Z],Approved,D00309
+D0T1LK,Malaria [ICD-11: 1F40-1F45],Approved,D00310
+D0U5RT,Epilepsy [ICD-11: 8A60-8A68],Approved,D00311
+D0L7FM,Hyperuricaemia [ICD-11: 5C55.Y],Approved,D00312
+D0L7FM,Gout [ICD-11: FA25],Approved,D00312
+D0H2DQ,Coronary artery disease [ICD-11: BA80],Approved,D00313
+D0U5SI,Ventricular arrhythmias [ICD-11: BC71],Approved,D00314
+D08GYO,Hodgkin lymphoma [ICD-11: 2B30],Approved,D00315
+D0Z1WA,Asthma [ICD-11: CA23],Approved,D00316
+D0B2UZ,Nausea [ICD-11: MD90],Approved,D00317
+D0R1WR,Parkinson disease [ICD-11: 8A00.0],Approved,D00318
+D00NAX,Psychomotor agitation [ICD-11: MB23.M],Approved,D00319
+D0T2XU,Nausea [ICD-11: MD90],Approved,D00320
+D0J2KV,Tachyarrhythmias [ICD-11: BC71],Approved,D00321
+D0V5ZZ,Stomach ulcer [ICD-11: DA60.Z],Approved,D00322
+D0V5ZZ,Excessive sweating [ICD-11: EE00.Z],Approved,D00322
+D0TV9K,Urinary incontinence [ICD-11: MF50.2],Approved,D00323
+D04JEE,Migraine [ICD-11: 8A80],Approved,D00324
+D0O2WB,Myasthenia gravis [ICD-11: 8C6Y],Approved,D00325
+D08JZS,Allergy [ICD-11: 4A80-4A85],Approved,D00326
+D0C0SK,Malaria [ICD-11: 1F40-1F45],Approved,D00327
+D03NPH,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00328
+D0H7KF,Schizophrenia [ICD-11: 6A20],Approved,D00329
+D0H7KF,Alcohol dependence [ICD-11: 6C40.2],Phase 3,D00329
+D0KL4J,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00330
+D01XBA,Osteoporosis [ICD-11: FB83.0],Approved,D00331
+D03BQP,Peptic ulcer [ICD-11: DA61],Phase 3,D00332
+D0H0KB,Amyotrophic lateral sclerosis [ICD-11: 8B60.0],Approved,D00333
+D01AZG,Schizophrenia [ICD-11: 6A20],Approved,D00334
+D0S9MU,Migraine [ICD-11: 8A80],Approved,D00335
+D05VLS,Osteoarthritis [ICD-11: FA00-FA05],Approved,D00336
+D0R9EQ,Parkinson disease [ICD-11: 8A00.0],Approved,D00337
+D0G6VL,Diabetic complication [ICD-11: 5A2Y],Approved,D00338
+D0Y0JH,Rheumatoid arthritis [ICD-11: FA20],Approved,D00339
+D00SJE,Intractable insomnia [ICD-11: 7A00],Approved,D00340
+D04YZL,Skin burns [ICD-11: ME65.0],Approved,D00341
+D0PA5S,Paget's disease [ICD-11: FB85],Approved,D00343
+D0PA5S,Paget's disease [ICD-11: FB85],Approved,D01374
+D04VMT,Sinus rhythm disorder [ICD-11: BC9Y],Approved,D00344
+D0AZ3C,Chronic myelogenous leukaemia [ICD-11: 2A20.0],Approved,D00345
+D0AZ3C,Acute lymphoblastic leukaemia [ICD-11: 2A85],Approved,D00345
+D0AZ3C,Intestinal cancer [ICD-11: 2C0Z],Phase 3,D00345
+D0AZ3C,Lung cancer [ICD-11: 2C25.0],Phase 2,D00345
+D0AZ3C,Systemic mastocytosis [ICD-11: 2A21.0],Investigative,D00345
+D0E7PQ,Cutaneous T-cell lymphoma [ICD-11: 2B01],Approved,D00346
+D07JJS,Urinary tract infection [ICD-11: GC08],Approved,D00347
+D02ZTJ,Rheumatoid arthritis [ICD-11: FA20],Approved,D00348
+D02ZTJ,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D00348
+D03DEI,Gout [ICD-11: FA25],Approved,D00349
+D03QGM,Schizophrenia [ICD-11: 6A20],Approved,D00350
+D0Z6UC,Migraine [ICD-11: 8A80],Approved,D00352
+D03CQE,Respiratory tract infection [ICD-11: CA45],Approved,D00353
+D0F3SY,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00354
+D04BNP,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00355
+D0C8EU,Grade IV astrocytoma [ICD-11: 2A00.0],Approved,D00356
+D0P9RF,Benign prostatic hyperplasia [ICD-11: GA90],Approved,D00357
+D08SOF,Allergy [ICD-11: 4A80-4A85],Withdrawn from market,D00358
+D0U7GK,Multiple myeloma [ICD-11: 2A83],Approved,D00359
+D0Y0ER,Nausea [ICD-11: MD90],Approved,D00361
+D0U1OE,Schizophrenia [ICD-11: 6A20],Approved,D00362
+D00YZA,Breast cancer [ICD-11: 2C60-2C65],Approved,D00363
+D0S7VO,Pain [ICD-11: MG30-MG3Z],Approved,D00364
+D05LBU,Stroke [ICD-11: 8B20],Approved,D00365
+D0A8CJ,Cystinuria [ICD-11: 5C60.2],Approved,D00367
+D0A8CJ,Cystine urolithiasis [ICD-11: GB70-GB7Z],Approved,D00367
+D01MDT,Spasm [ICD-11: MB47.3],Approved,D00368
+D09FJB,Diabetic complication [ICD-11: 5A2Y],Approved,D00369
+D06OIV,Non-insulin dependent diabetes [ICD-11: 5A11],Approved,D00370
+D09BHB,Rheumatoid arthritis [ICD-11: FA20],Approved,D00371
+D05HXX,Excessive bleeding [ICD-11: GA30.02],Approved,D00372
+D00USF,Depression [ICD-11: 6A70-6A7Z],Approved,D00373
+D00NKB,Congestive heart failure [ICD-11: BD10],Approved,D00374
+D00NKB,Edema [ICD-11: MG29],Approved,D00374
+D00NKB,Hypertension [ICD-11: BA00-BA04],Approved,D00374
+D0U3LS,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00375
+D0R4OM,Schizophrenia [ICD-11: 6A20],Approved,D00377
+D09GFL,Dystonia [ICD-11: 8A02],Approved,D00378
+D09GFL,Parkinson disease [ICD-11: 8A00.0],Approved,D00378
+D09GFL,Obesity [ICD-11: 5B81],Investigative,D00378
+D0E0CT,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D00379
+D0U4VT,Pancreatic cancer [ICD-11: 2C10],Approved,D00381
+D0U4VT,Epilepsy [ICD-11: 8A60-8A68],Approved,D00381
+D0A8FB,Nausea and vomiting [ICD-11: MD90],Approved,D00382
+D00HZV,Major depressive disorder [ICD-11: 6A70.3],Approved,D00383
+D0FA2O,Vitiligo [ICD-11: ED63.0],Approved,D00384
+D06XZW,Diabetic complication [ICD-11: 5A2Y],Approved,D00385
+D0G6SD,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00386
+D0P1UX,Depression [ICD-11: 6A70-6A7Z],Approved,D00387
+D0R3QY,Complex partial seizure [ICD-11: 8A68.0],Approved,D00388
+D0R3QY,Infantile spasm [ICD-11: 8A62.0],Approved,D00388
+D0R3QY,Epilepsy [ICD-11: 8A60-8A68],Approved,D00388
+D0V9JR,Major depressive disorder [ICD-11: 6A70.3],Approved,D00389
+D05DVP,Asthma [ICD-11: CA23],Approved,D00390
+D09DWL,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00391
+D0T1WN,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00393
+D09ZIS,Epilepsy [ICD-11: 8A60-8A68],Approved,D00394
+D0ZB7K,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00395
+D0IT2G,Rheumatoid arthritis [ICD-11: FA20],Approved,D00396
+D0X4RS,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00397
+D0KR5B,Inflammation [ICD-11: 1A00-CA43.1],Approved,D00398
+D0KR5B,Congenital adrenal hyperplasia [ICD-11: 5A71.01],Phase 2,D00398
+D0D1SG,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00399
+D0D1SG,Multiple sclerosis [ICD-11: 8A40],Phase 3,D00399
+D08QMX,Breast cancer [ICD-11: 2C60-2C65],Approved,D00400
+D0J4JM,Hypertension [ICD-11: BA00-BA04],Approved,D00401
+D06RGG,Hypothyroidism [ICD-11: 5A00],Approved,D00403
+D0EP0C,Congestive heart failure [ICD-11: BD10],Approved,D00404
+D08HZC,Rheumatoid arthritis [ICD-11: FA20],Approved,D00406
+D0IL7L,Inflammation [ICD-11: 1A00-CA43.1],Approved,D00407
+D0IL7L,Atopic dermatitis [ICD-11: EA80],Phase 1,D00407
+D0IL7L,Eczema [ICD-11: EA80-EA89],Phase 1,D00407
+D00ZFP,Menopausal and postmenopausal disorder [ICD-11: GA30],Approved,D00408
+D06HLY,Glaucoma/ocular hypertension [ICD-11: 9C61],Approved,D00409
+D0HE0Y,LambertEaton myasthenic syndrome [ICD-11: 8C62],Approved,D00410
+D0S6JG,Hypothyroidism [ICD-11: 5A00],Approved,D00411
+D0S6JG,Congestive heart failure [ICD-11: BD10],Phase 3,D00411
+D0X6IU,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00412
+D01JIA,Short bowel syndrome [ICD-11: KB89.1],Approved,D00413
+D09QVV,Acute lymphoblastic leukaemia [ICD-11: 2A85],Approved,D00414
+D07BSQ,Premature labour [ICD-11: JB00],Approved,D00416
+D07BSQ,Contraception [ICD-11: QA21],Phase 3,D00416
+D0H6QU,Parkinson disease [ICD-11: 8A00.0],Approved,D00417
+D0H6QU,Idiopathic parkinson disease [ICD-11: 8A00.0Z],Phase 3,D00417
+D0H6QU,Sexual dysfunction [ICD-11: HA00-HA01],Phase 2,D00417
+D09PJX,Hyperkinetic movement disorder [ICD-11: 6B60.8],Approved,D00418
+D09PJX,Huntington disease [ICD-11: 8A01.10],Approved,D00418
+D0O6IU,Fecal incontinence [ICD-11: ME07],Approved,D00419
+D0O6IU,Ophthalmic graves disease [ICD-11: 5A02.0],Approved,D00419
+D08HVR,Parkinson disease [ICD-11: 8A00.0],Approved,D00420
+D0V0LB,Nephropathic cystinosis [ICD-11: 5C60],Approved,D00422
+D04KTZ,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00424
+D0F1GS,Hypophosphatasia [ICD-11: 5C64.3],Approved,D00426
+D09DHY,Acute gouty arthritis [ICD-11: FA25.0],Approved,D00428
+D0GL7U,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00430
+D0GL7U,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D01375
+D02WFK,Tuberculosis [ICD-11: 1B10-1B14],Approved,D00431
+D02WFK,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00431
+D02WFK,Obsessive compulsive disorder [ICD-11: 6B20],Phase 2,D00431
+D0YA9Z,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00432
+D05RHI,Virus infection [ICD-11: 1A24-1D9Z],Approved,D00433
+D0J8ZA,Hypertension [ICD-11: BA00-BA04],Approved,D00435
+D0L2LS,Breast cancer [ICD-11: 2C60-2C65],Approved,D00436
+D08EOD,Epileptic seizures [ICD-11: 8A61-8A6Z],Approved,D00437
+D0W9TE,Angina pectoris [ICD-11: BA40],Approved,D00438
+D08HRJ,Nausea [ICD-11: MD90],Approved,D00439
+D08PIQ,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00440
+D08PIQ,Spinal cord injury [ICD-11: ND51.2],Investigative,D00440
+D08VXO,Allergic rhinitis [ICD-11: CA08.0],Approved,D00441
+D0I1SK,Anal fissure [ICD-11: DB50.0],Approved,D00443
+D0I1SK,Angina pectoris [ICD-11: BA40],Approved,D00443
+D00HHS,Nasal congestion [ICD-11: MD11.9],Approved,D00444
+D0Q2ES,Cough [ICD-11: MD12],Approved,D00446
+D01TSI,Headache [ICD-11: 8A80-8A84],Approved,D00447
+D0X6HD,Pain [ICD-11: MG30-MG3Z],Approved,D00449
+D0H4JM,Erectile dysfunction [ICD-11: HA01.1],Approved,D00450
+D0A0JH,Arthritis [ICD-11: FA20],Approved,D00451
+D0S8TD,Anaesthesia [ICD-11: 9A78.6],Approved,D00452
+D0LG8E,Asthma [ICD-11: CA23],Approved,D00454
+D0U0XD,Hormone replacement therapy [ICD-11: 8E01],Approved,D00455
+D03TYI,Bronchial asthma [ICD-11: CA23],Approved,D00457
+D03TYI,Asthma [ICD-11: CA23],Phase 2,D00457
+D09FAZ,Myelodysplastic syndrome [ICD-11: 2A37],Approved,D00458
+D0R9VR,Alzheimer disease [ICD-11: 8A20],Approved,D00460
+D0O6GC,Migraine [ICD-11: 8A80],Approved,D00461
+D01QLH,Angina pectoris [ICD-11: BA40],Approved,D00462
+D0D4PB,Pain [ICD-11: MG30-MG3Z],Approved,D00464
+D0V3ZA,Migraine [ICD-11: 8A80],Approved,D00468
+D0U8UV,Nausea [ICD-11: MD90],Approved,D00469
+D04UUH,Manic depression disorder [ICD-11: 6A71],Approved,D00472
+D0Z4NI,Wilson disease [ICD-11: 5C64.00],Approved,D00473
+D0Z4NI,Human immunodeficiency virus infection [ICD-11: 1C62],Investigative,D00473
+D06UDO,Common cold [ICD-11: CA00],Approved,D00474
+D0T5BC,Constipation [ICD-11: DD91.1],Approved,D00475
+D0M0AM,Anaesthesia [ICD-11: 9A78.6],Approved,D00477
+D0M0AM,Chronic obstructive pulmonary disease [ICD-11: CA22],Approved,D00477
+D02YIZ,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00478
+D0BA9U,Contraception [ICD-11: QA21],Approved,D00479
+D0BA9U,Contraception [ICD-11: QA21],Approved,D01376
+D0W9MM,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00481
+D07QPM,Kidney stone [ICD-11: GB70.0Z],Approved,D00482
+D0J2TN,Diarrhea [ICD-11: ME05.1],Approved,D00483
+D0Q4EW,Bipolar disorder [ICD-11: 6A60],Approved,D00484
+D07VBA,Hormone replacement therapy [ICD-11: 8E01],Approved,D00485
+D08QME,Pulmonary tuberculosis [ICD-11: 1B10.Z],Approved,D00486
+D0B1IV,Methicillin-resistant staphylococci infection [ICD-11: 1A00-1A09],Approved,D00489
+D0B1IV,MRSA infection [ICD-11: 1D01.0Y],Investigative,D00489
+D0S5CH,Pain [ICD-11: MG30-MG3Z],Approved,D00490
+D0I0RJ,Congestive heart failure [ICD-11: BD10],Approved,D00492
+D00KHM,Schizophrenia [ICD-11: 6A20],Approved,D00493
+D02WIW,Hay fever [ICD-11: CA08.00],Approved,D00494
+D0Z8EX,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00496
+D0R2KJ,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00497
+D0H0HJ,Major depressive disorder [ICD-11: 6A70.3],Approved,D00498
+D0H0HJ,Prostate cancer [ICD-11: 2C82.0],Patented,D00498
+D0N7AD,Allergic rhinitis [ICD-11: CA08.0],Approved,D00499
+D0OL7F,Pancreatic cancer [ICD-11: 2C10],Approved,D00500
+D0OL7F,Diabetic complication [ICD-11: 5A2Y],Approved,D00500
+D05GJW,Hairy cell leukaemia [ICD-11: 2A82.2],Approved,D00501
+D05GJW,Multiple sclerosis [ICD-11: 8A40],Phase 3,D00501
+D05GJW,Relapsing-remitting multiple sclerosis [ICD-11: 8A40.0],Phase 3,D00501
+D02TBI,Infection of the upper and lower urinary tract [ICD-11: GC08],Approved,D00502
+D0Q4YI,Angina pectoris [ICD-11: BA40],Approved,D00503
+D0Q2AT,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00504
+D00KRE,Ulcerative colitis [ICD-11: DD71],Approved,D00505
+D09TPF,Schizophrenia [ICD-11: 6A20],Approved,D00506
+D0Y3TM,Iron-deficiency anemia [ICD-11: 3A00],Approved,D00507
+D0Z9QR,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00510
+D0Z8AE,Virus infection [ICD-11: 1A24-1D9Z],Approved,D00511
+D0S2UG,Major depressive disorder [ICD-11: 6A70.3],Approved,D00513
+D0S2UG,Skin imperfections [ICD-11: EK71],Patented,D00513
+D0S2UG,Chemotherapy-induced nausea [ICD-11: MD90],Discontinued in Phase 3,D00513
+D0CF2Q,Parasitic infection [ICD-11: 1D0Y-1G2Z],Approved,D00514
+D0CF2Q,Colon cancer [ICD-11: 2B90.Z],Withdrawn from market,D00514
+D09JXM,Obesity [ICD-11: 5B81],Withdrawn from market,D00515
+D0C5XC,Allergic rhinitis [ICD-11: CA08.0],Approved,D00516
+D0L3TR,Autoimmune diabetes [ICD-11: 5A10],Phase 2,D00517
+D0Z5EM,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00519
+D0YS7D,Hydrocephalus [ICD-11: 8D64],Approved,D00520
+D0D0BE,Amoebiasis [ICD-11: 1A36],Approved,D00521
+D09IPV,Menorrhagia [ICD-11: GA20.50],Approved,D00522
+D09IPV,Breast cancer [ICD-11: 2C60-2C65],Phase 2,D00522
+D0T6SU,Obesity [ICD-11: 5B81],Approved,D00525
+D0K0MW,Opioid dependence [ICD-11: 6C43.2Z],Approved,D00526
+D0K0MW,Heroin and opiate withdrawal [ICD-11: 6C43],Approved,D00526
+D06YFA,Parkinson disease [ICD-11: 8A00.0],Approved,D00527
+D0R7JT,Cerebral salt-wasting syndrome [ICD-11: 5C72],Approved,D00528
+D0G3SH,Primary biliary cirrhosis [ICD-11: DB96.1],Approved,D00529
+D04XGT,Chagas disease [ICD-11: IF53],Approved,D00530
+D04XGT,Trypanosomiasis [ICD-11: 1D51-1F53],Approved,D00530
+D07VLY,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00531
+D07VLY,Hepatocellular carcinoma [ICD-11: 2C12.02],Phase 3,D00531
+D07VLY,Breast cancer [ICD-11: 2C60-2C65],Phase 2,D00531
+D07VLY,Tumour [ICD-11: 2A00-2F9Z],Investigative,D00531
+D04KAQ,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00532
+D0F6EO,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00533
+D05GKD,Pain [ICD-11: MG30-MG3Z],Approved,D00534
+D0QL3P,Epilepsy [ICD-11: 8A60-8A68],Approved,D00535
+D0P7JZ,Parkinson disease [ICD-11: 8A00.0],Approved,D00537
+D0U3YU,Hepatic fibrosis [ICD-11: DB93.0],Approved,D00538
+D0U3YU,Cerebrovascular ischaemia [ICD-11: 8B1Z],Phase 4,D00538
+D08QUV,Major depressive disorder [ICD-11: 6A70.3],Withdrawn from market,D00539
+D01XYJ,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00540
+D01XYJ,Virus infection [ICD-11: 1A24-1D9Z],Investigative,D00540
+D07BCT,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00541
+D0B7EB,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00543
+D07MVK,Malaria [ICD-11: 1F40-1F45],Approved,D00544
+D0H3WI,Hepatitis C virus infection [ICD-11: 1E51.1],Approved,D00545
+D0F8CM,Painful bladder syndrome [ICD-11: MG30.50],Approved,D00546
+D0F8CM,Interstitial cystitis [ICD-11: GC00.3],Approved,D00546
+D06KKS,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00547
+D0BA6T,Hypertension [ICD-11: BA00-BA04],Approved,D00548
+D00WCX,Hyperlipidaemia [ICD-11: 5C80],Approved,D00549
+D05SHK,High blood pressure [ICD-11: BA00],Approved,D00550
+D0OB1J,Hypertension [ICD-11: BA00-BA04],Approved,D00551
+D06YPU,Ankylosing spondylitis [ICD-11: FA92.0],Approved,D00552
+D02WCI,Idiopathic pulmonary fibrosis [ICD-11: CB03.4],Approved,D00553
+D0J1NQ,Irritable bowel syndrome [ICD-11: DD91.0],Phase 3,D00554
+D04RLY,Acute lymphoblastic leukaemia [ICD-11: 2A85],Approved,D00555
+D08EBN,Diarrhea [ICD-11: ME05.1],Approved,D00556
+D0D8DD,Analgesia [ICD-11: MB40.8],Approved,D00557
+D0AD5C,Diabetic complication [ICD-11: 5A2Y],Approved,D00558
+D0AD5C,Cardiovascular disease [ICD-11: BA00-BE2Z],Phase 3,D00558
+D06GDY,Depression [ICD-11: 6A70-6A7Z],Approved,D00560
+D0I0EG,Hypertension [ICD-11: BA00-BA04],Approved,D00561
+D0C2YB,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00562
+D04JCN,Parkinson disease [ICD-11: 8A00.0],Approved,D00564
+D0X9ZC,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00565
+D02VMJ,Helminth infection [ICD-11: 1F90.0],Approved,D00566
+D0PW7C,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00567
+D0G5QB,Anaesthesia [ICD-11: 9A78.6],Approved,D00568
+D0HR8Z,Type 1 gaucher disease [ICD-11: 5C56.0Y],Approved,D00569
+D0AP9T,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00570
+D06WTZ,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00571
+D06WTZ,Cardiovascular disease [ICD-11: BA00-BE2Z],Phase 3,D00571
+D0H0ND,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00572
+D0A6KR,Inflammatory bowel disease [ICD-11: DD72],Approved,D00573
+D02RQU,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00574
+D04EGX,Hyperprolactinaemia [ICD-11: 5A60.1],Approved,D00575
+D04CRN,Attention deficit hyperactivity disorder [ICD-11: 6A05.Z],Approved,D00576
+D0I7SZ,Hypertension [ICD-11: BA00-BA04],Approved,D00577
+D0I7SZ,Hypertension [ICD-11: BA00-BA04],Approved,D00577
+D0I7SZ,Hypertension [ICD-11: BA00-BA04],Approved,D01378
+D0I7SZ,Hypertension [ICD-11: BA00-BA04],Approved,D01378
+D0Z4EI,Cushing disease [ICD-11: 5A70],Approved,D00578
+D0V4IB,Fungal infection [ICD-11: 1F29-1F2F],Approved,D00579
+D0X8KY,Hypertension [ICD-11: BA00-BA04],Approved,D00580
+D04GKO,Congestive heart failure [ICD-11: BD10],Approved,D00581
+D0J5YC,Epilepsy [ICD-11: 8A60-8A68],Approved,D00582
+D03HYQ,Chronic/stable angina [ICD-11: BA40.1],Approved,D00583
+D03HYQ,Paroxysmal atrial fibrillation [ICD-11: BC81.30],Phase 2,D00583
+D08IWD,Benign prostatic hyperplasia [ICD-11: GA90],Approved,D00584
+D06CTE,Skin cancer [ICD-11: 2C30-2C37],Approved,D00585
+D0D2VS,Hormonally-responsive breast cancer [ICD-11: 2C60-2C65],Approved,D00586
+D0K6GZ,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00587
+D09JUG,Asthma [ICD-11: CA23],Approved,D00588
+D0N0TZ,Thrombosis [ICD-11: DB61-GB90],Approved,D00589
+D0N0TZ,Thrombosis [ICD-11: DB61-GB90],Approved,D00589
+D0ED7U,Epilepsy [ICD-11: 8A60-8A68],Approved,D00590
+D0ED7U,Anxiety disorder [ICD-11: 6B00-6B0Z],Phase 2,D00590
+D02PMO,Ovarian cancer [ICD-11: 2C73],Approved,D00591
+D02PMO,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00591
+D02PMO,Small-cell lung cancer [ICD-11: 2C25.Y],Phase 1,D00591
+D02RQT,Rheumatoid arthritis [ICD-11: FA20],Phase 3,D00592
+D0U1OM,Postoperative inflammation [ICD-11: 1A00-CA43.1],Approved,D00593
+D0U1OM,Inflammation [ICD-11: 1A00-CA43.1],Withdrawn from market,D00593
+D03UVS,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00594
+D0H3HM,Schizophrenia [ICD-11: 6A20],Approved,D00595
+D0H3HM,Erythropoietic porphyrias [ICD-11: 5C58.12],Approved,D00595
+D0H3HM,Major depressive disorder [ICD-11: 6A70.3],Phase 3,D00595
+D0H3HM,Bipolar disorder [ICD-11: 6A60],Application submitted,D00595
+D0T5OX,Anaesthesia [ICD-11: 9A78.6],Approved,D00596
+D01QIN,Cardiovascular disease [ICD-11: BA00-BE2Z],Approved,D00597
+D07TQV,Chronic HBV infection [ICD-11: 1E51.0Z],Approved,D00598
+D07TQV,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00598
+D07TQV,Human immunodeficiency virus-1 infection [ICD-11: 1C62],Approved,D00598
+D01AXB,Depression [ICD-11: 6A70-6A7Z],Approved,D00599
+D07HOB,Colorectal cancer [ICD-11: 2B91.Z],Approved,D00600
+D06UDG,Hypertension [ICD-11: BA00-BA04],Approved,D00601
+D08SJZ,Osteoporosis [ICD-11: FB83.0],Approved,D00602
+D0R1JV,Schizophrenia [ICD-11: 6A20],Approved,D00603
+D0NG7O,Migraine [ICD-11: 8A80],Approved,D00604
+D0ML1F,Hepatitis B virus infection [ICD-11: 1E51.0],Approved,D00605
+D0S9SD,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00606
+D0S9SD,Hepatitis virus infection [ICD-11: 1E50-1E51],Approved,D00606
+D0S9SD,Hepatitis B virus infection [ICD-11: 1E51.0],Phase 3,D00606
+D0Q8CS,Osteoporosis [ICD-11: FB83.0],Approved,D00607
+D0Q8CS,Osteoporosis [ICD-11: FB83.0],Approved,D01379
+D00HCQ,Colorectal cancer [ICD-11: 2B91.Z],Approved,D00608
+D00HCQ,Breast cancer [ICD-11: 2C60-2C65],Phase 3,D00608
+D06IAR,Paroxysmal supraventricular tachycardia [ICD-11: BC81.Z],Approved,D00609
+D04CJL,Chronic kidney disease [ICD-11: GB61],Approved,D00610
+D0GJ8R,Primary hypercholesterolemia [ICD-11: 5C80.00],Approved,D00612
+D0Z6QG,Schizophrenia [ICD-11: 6A20],Approved,D00613
+D03WPA,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00614
+D07HVY,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00615
+D0NF1U,Cardiovascular disease [ICD-11: BA00-BE2Z],Approved,D00617
+D0NF1U,Cardiovascular disease [ICD-11: BA00-BE2Z],Approved,D00617
+D0NF1U,Cardiovascular disease [ICD-11: BA00-BE2Z],Approved,D01380
+D0NF1U,Cardiovascular disease [ICD-11: BA00-BE2Z],Approved,D01380
+D0A0OO,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00618
+D0O5NK,Influenza virus infection [ICD-11: 1E30-1E32],Approved,D00619
+D02AXG,Hypogonadism [ICD-11: 5A61.0],Approved,D00620
+D09VGC,Depression [ICD-11: 6A70-6A7Z],Approved,D00621
+D0P6ZH,Hypertension [ICD-11: BA00-BA04],Approved,D00622
+D06MAJ,Allergic rhinitis [ICD-11: CA08.0],Approved,D00623
+D0N5YA,Diabetic complication [ICD-11: 5A2Y],Approved,D00624
+D0N6RF,Hypertension [ICD-11: BA00-BA04],Approved,D00625
+D0F9SG,Obesity [ICD-11: 5B81],Withdrawn from market,D00626
+D0K0TC,Depression [ICD-11: 6A70-6A7Z],Approved,D00627
+D00TGR,Crohn disease [ICD-11: DD70],Approved,D00628
+D06OFS,Hypertension [ICD-11: BA00-BA04],Approved,D00629
+D00RWW,Trypanosomiasis [ICD-11: 1D51-1F53],Phase 2/3,D00631
+D06CVT,Major depressive disorder [ICD-11: 6A70.3],Approved,D00633
+D0Z4ZT,Contraception [ICD-11: QA21],Approved,D00634
+D0M9BW,Malaria [ICD-11: 1F40-1F45],Approved,D00635
+D00MLW,Long-chain fatty acid oxidation disorder [ICD-11: BC43.10],Approved,D00637
+D00MLW,Genetic epileptic syndromes with variable age of onset [ICD-11: 8A61.4Y],Phase 3,D00637
+D0GC2M,Alcohol dependence [ICD-11: 6C40.2],Approved,D00638
+D0Z1UA,Hypertension [ICD-11: BA00-BA04],Approved,D00639
+D0NW3X,Sinus rhythm disorder [ICD-11: BC9Y],Approved,D00640
+D0H5LK,Premature ejaculation [ICD-11: HA03.0Z],Phase 4,D00641
+D0M8VE,Schizophrenia [ICD-11: 6A20],Approved,D00642
+D0N3VR,Invasive aspergillosis [ICD-11: 1F20.0],Approved,D00645
+D0T8VY,Inflammation [ICD-11: 1A00-CA43.1],Approved,D00646
+D0V5IW,Bacterial vaginosis [ICD-11: MF3A],Approved,D00647
+D0V5IW,Amoebiasis [ICD-11: 1A36],Approved,D00647
+D0JL2K,Chronic bronchitis [ICD-11: CA20.1],Approved,D00649
+D0JL2K,Bacterial infection [ICD-11: 1A00-1C4Z],Withdrawn from market,D00649
+D06ZEE,Fungal infection [ICD-11: 1F29-1F2F],Approved,D00650
+D0WY5Q,Alzheimer disease [ICD-11: 8A20],Approved,D00651
+D06FPQ,Migraine [ICD-11: 8A80],Approved,D00652
+D02DMQ,Migraine [ICD-11: 8A80],Approved,D00653
+D0N0RU,Cutaneous T-cell lymphoma [ICD-11: 2B01],Approved,D00654
+D0Z1ZM,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00656
+D0T8GD,Nicotine dependence [ICD-11: 6C4A.2],Approved,D00658
+D0T8GD,Tobacco dependence [ICD-11: 6C4A.2],Clinical trial,D00658
+D00HDU,Hypertension [ICD-11: BA00-BA04],Approved,D00659
+D06HBQ,"Diabetic complication [ICD-11: 5A2Y; ICD-9: 253.5, 588.1]",Approved,D00660
+D07UWV,Thrombosis [ICD-11: DB61-GB90],Approved,D00661
+D0U5GB,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00662
+D0I3RO,Neurogenic orthostatic hypotension [ICD-11: 8D87.0Y],Approved,D00664
+D0H3TD,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00665
+D0U4CE,Pulmonary arterial hypertension [ICD-11: BB01.0],Approved,D00666
+D03KYG,Hypertension [ICD-11: BA00-BA04],Approved,D00667
+D07UHS,Primary progressive multiple sclerosis [ICD-11: 8A40.1],Approved,D00668
+D03RTK,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00669
+D03RTK,Ovarian cancer [ICD-11: 2C73],Phase 3,D00669
+D05MQK,Erectile dysfunction [ICD-11: HA01.1],Approved,D00671
+D08HDY,Urinary tract infection [ICD-11: GC08],Approved,D00672
+D0B3UJ,Schizophrenia [ICD-11: 6A20],Approved,D00673
+D0V1UW,Hereditary tyrosinemia type 1 [ICD-11: 5C50.11],Approved,D00674
+D07TWN,Plasmodium vivax malaria [ICD-11: 1F41],Approved,D00675
+D07TWN,Malaria [ICD-11: 1F40-1F45],Approved,D00675
+D0R5RR,Acute lymphoblastic leukaemia [ICD-11: 2A85],Approved,D00676
+D0R5RR,Myelodysplastic syndrome [ICD-11: 2A37],Approved,D00676
+D0G8NN,Parkinson disease [ICD-11: 8A00.0],Approved,D00677
+D0L6DA,Osteoarthritis [ICD-11: FA00-FA05],Approved,D00678
+D0Z0MG,Acute hyperammonaemia [ICD-11: 5C50.A],Approved,D00679
+D0P0SZ,Malaria [ICD-11: 1F40-1F45],Approved,D00681
+D09MGR,Rheumatoid arthritis [ICD-11: FA20],Approved,D00683
+D01GBY,Allergic rhinitis [ICD-11: CA08.0],Approved,D00684
+D0O3FG,Major depressive disorder [ICD-11: 6A70.3],Approved,D00686
+D0O3FG,Menopause symptom [ICD-11: GA30.0],Phase 3,D00686
+D08GJH,Schizophrenia [ICD-11: 6A20],Phase 3,D00687
+D0SV8E,leukaemia [ICD-11: 2A60-2B33],Approved,D00688
+D0SV8E,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 3,D00688
+D0SV8E,Proliferative vitreoretinopathy [ICD-11: 9B78.2],Phase 3,D00688
+D0SV8E,Rheumatoid arthritis [ICD-11: FA20],Phase 1,D00688
+D0SV8E,Prostate cancer [ICD-11: 2C82.0],Investigative,D00688
+D05MBZ,Benign prostatic hyperplasia [ICD-11: GA90],Approved,D00689
+D0MD2L,Seizure disorder [ICD-11: 8A6Z],Approved,D00690
+D0MD2L,Pediatric lennox-gastaut syndrome [ICD-11: 8A62.1],Approved,D00690
+D0MD2L,Epilepsy [ICD-11: 8A60-8A68], Approved (orphan drug),D00690
+D07UBG,High blood pressure [ICD-11: BA00],Approved,D00691
+D0F5MT,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00692
+D0TV6I,Parkinson disease [ICD-11: 8A00.0],Approved,D00693
+D0TV6I,Idiopathic parkinson disease [ICD-11: 8A00.0Z],Phase 3,D00693
+D02STN,Prostate cancer [ICD-11: 2C82.0],Approved,D00694
+D0S9QA,Angina pectoris [ICD-11: BA40],Approved,D00695
+D0A5SE,Hyperuricaemia [ICD-11: 5C55.Y],Approved,D00697
+D0A3ZU,Systemic sclerosis [ICD-11: 4A42],Approved,D00698
+D08RBC,Major depressive disorder [ICD-11: 6A70.3],Approved,D00699
+D0O5WP,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00700
+D07IQS,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00701
+D0W4HZ,Hutchinson-Gilford progeria syndrome [ICD-11: LD2B],Approved,D00702
+D0W4HZ,Myelodysplastic syndrome [ICD-11: 2A37],Phase 3,D00702
+D0W4HZ,Hepatitis D virus infection [ICD-11: 1E51.2],Phase 2,D00702
+D0W4HZ,Non-small-cell lung cancer [ICD-11: 2C25.Y],Discontinued in Phase 3,D00702
+D02RSN,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00703
+D09LWS,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00704
+D04YMH,Knee osteoarthritis [ICD-11: FA01],Approved,D00705
+D0ZV0Z,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00706
+D09ELP,Hypertension [ICD-11: BA00-BA04],Approved,D00707
+D0L4YD,Overactive bladder [ICD-11: GC50.0],Approved,D00708
+D0JY8T,Osteopetrosis [ICD-11: LD24.10],Approved,D00710
+D0RD5W,Gastrointestinal disease [ICD-11: DE2Z],Approved,D00711
+D0Z2FB,Rheumatoid arthritis [ICD-11: FA20],Phase 2,D00712
+D0G6ZG,Thrombosis [ICD-11: DB61-GB90],Phase 3,D00713
+D0G6ZG,Myocardial infarction [ICD-11: BA41-BA43],Phase 3,D00713
+D0DJ1B,Osteoarthritis [ICD-11: FA00-FA05],Approved,D00714
+D0DJ1B,Pain [ICD-11: MG30-MG3Z],Phase 2,D00714
+D0DJ1B,Endometriosis [ICD-11: GA10],Investigative,D00714
+D03YGR,Hyperparathyroidism [ICD-11: 5A51],Approved,D00715
+D03YGR,Kidney disease [ICD-11: GC2Z],Phase 3,D00715
+D0C1BG,Liver disease [ICD-11: DB90-BD99],Approved,D00716
+D00CTS,Chronic idiopathic constipation [ICD-11: DC32],Approved,D00717
+D0CL9S,Hepatitis B virus infection [ICD-11: 1E51.0],Approved,D00718
+D01YVT,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00719
+D0U5VZ,Allergic rhinitis [ICD-11: CA08.0],Approved,D00720
+D04NDM,Intestinal amebiasis [ICD-11: 1A36],Approved,D00721
+D0H1LO,Hypophosphatasia [ICD-11: 5C64.3],Approved,D00722
+D02EXZ,Iron-deficiency anemia [ICD-11: 3A00],Approved,D00723
+D02EXZ,Onychomycosis [ICD-11: EE12.1],Phase 3,D00723
+D0LM4A,Smoking dependence [ICD-11: 6C4A.2],Approved,D00724
+D0RG3O,Organophosphate poisoning [ICD-11: NE6Z],Approved,D00726
+D0RG3O,Poison intoxication [ICD-11: NE6Z],Phase 1,D00726
+D0MU9L,Fabry disease [ICD-11: 5C56.01],Approved,D00727
+D07POC,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D00728
+D07POC,Pancreatic cancer [ICD-11: 2C10],Phase 3,D00728
+D07POC,Colon cancer [ICD-11: 2B90.Z],Phase 2,D00728
+D0TP5H,Depression [ICD-11: 6A70-6A7Z],Phase 3,D00730
+D09WYX,Duchenne dystrophy [ICD-11: 8C70],Approved,D00733
+D0X5SI,Chronic obstructive pulmonary disease [ICD-11: CA22],Approved,D00734
+D0BP9C,Human immunodeficiency virus-1 infection [ICD-11: 1C62],Approved,D00735
+D05CPV,Angina pectoris [ICD-11: BA40],Approved,D00736
+D05CPV,Atrial fibrillation [ICD-11: BC81.3],Withdrawn from market,D00736
+D0U0KW,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00737
+D0U0KW,Circadian rhythm sleep disorder [ICD-11: 7A60-7A65],Terminated,D00737
+D08CDI,Breast cancer [ICD-11: 2C60-2C65],Approved,D00738
+D03IGH,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00739
+D03IGH,Human immunodeficiency virus-1 infection [ICD-11: 1C62],Phase 3,D00739
+D0M7JT,Stroke [ICD-11: 8B20],Approved,D00741
+D03KZM,Hyponatraemia [ICD-11: 5C72],Approved,D00743
+D03KZM,Heart failure [ICD-11: BD10-BD13],Phase 3,D00743
+D0W5HK,Renal cell carcinoma [ICD-11: 2C90],Approved,D00744
+D0W5HK,Hepatocellular carcinoma [ICD-11: 2C12.02],Phase 3,D00744
+D0W5HK,Myelodysplastic syndrome [ICD-11: 2A37],Phase 2,D00744
+D0Q5NX,Multiple myeloma [ICD-11: 2A83],Approved,D00745
+D0XE1C,Radionuclide imaging [ICD-11: N.A.],Approved,D00746
+D05OFX,Convulsion [ICD-11: 8A68.Z],Approved,D00747
+D05OFX,Epilepsy [ICD-11: 8A60-8A68],Approved,D00747
+D05OFX,Diabetic neuropathy [ICD-11: 8C0Z],Phase 3,D00747
+D0OR2L,Synthesis disorder [ICD-11: 5C52-5C59],Approved,D00749
+D0OR2L,Peroxisomal disorder [ICD-11: 5C57],Approved,D00749
+D03SRY,Prostate cancer [ICD-11: 2C82.0],Approved,D00750
+D0SH3I,Multiple myeloma [ICD-11: 2A83],Approved,D00751
+D0SH3I,Mantle cell lymphoma [ICD-11: 2A85.5],Approved,D00751
+D0SH3I,Non-hodgkin lymphoma [ICD-11: 2B33.5],Phase 3,D00751
+D0ZU9R,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00752
+D0X7HM,Ovarian cancer [ICD-11: 2C73],Approved,D00753
+D0C1SF,Ringworm infection [ICD-11: 1F28],Approved,D00754
+D0M3QP,Heart failure [ICD-11: BD10-BD13],Approved,D00755
+D0M3QP,Arrhythmia [ICD-11: BC9Z],Approved,D00755
+D0M3QP,Congestive cardiac insufficiency [ICD-11: BD1Z],Approved,D00755
+D0WI3T,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00756
+D0W6DG,Pain [ICD-11: MG30-MG3Z],Approved,D00757
+D0A4IJ,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00758
+D0D0ZD,Diabetic complication [ICD-11: 5A2Y],Approved,D00759
+D0B3QM,Pheochromocytoma [ICD-11: 5A75],Approved,D00761
+D04CFW,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00762
+D07UYO,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00763
+D0Q4SD,Heart failure [ICD-11: BD10-BD13],Approved,D00765
+D0BZ7W,Overactive bladder [ICD-11: GC50.0],Approved,D00766
+D0W3OS,Anabolic metabolism [ICD-11: 5C50-5C8Z],Approved,D00767
+D0Y5AM,Overactive bladder [ICD-11: GC50.0],Approved,D00768
+D02DGU,Acne vulgaris [ICD-11: ED80],Approved,D00769
+D02DGU,Acute promyelocytic leukaemia [ICD-11: 2A60.0],Approved,D00769
+D06OMK,Organ transplant rejection [ICD-11: NE84],Approved,D00770
+D06OMK,Ocular allergy [ICD-11: 4A81],Phase 3,D00770
+D08GHB,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00772
+D03KIA,Hyperlipidaemia [ICD-11: 5C80],Approved,D00773
+D03KIA,Multiple myeloma [ICD-11: 2A83],Phase 1/2,D00773
+D0JE2E,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00774
+D0JE2E,Elevated C-reactive protein [ICD-11: MA14.15],Phase 3,D00774
+D0JE2E,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D00774
+D0JE2E,Elevated C-reactive protein [ICD-11: MA14.15],Phase 3,D00774
+D0JE2E,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D01381
+D0JE2E,Elevated C-reactive protein [ICD-11: MA14.15],Phase 3,D01381
+D0JE2E,Hypercholesterolaemia [ICD-11: 5C80.0],Approved,D01381
+D0JE2E,Elevated C-reactive protein [ICD-11: MA14.15],Phase 3,D01381
+D0Z8EV,Crohn disease [ICD-11: DD70],Approved,D00775
+D0Z8EV,Middle East Respiratory Syndrome (MERS) [ICD-11: 1D64],Investigative,D00775
+D0Z8EV,Coronavirus Disease 2019 (COVID-19) [ICD-11: 1D6Y],Investigative,D00775
+D0R0ZL,Acne vulgaris [ICD-11: ED80],Approved,D00776
+D01GYT,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00777
+D0M4WA,Primary biliary cholangitis [ICD-11: DB96.1],Approved,D00779
+D0M4WA,Insomnia [ICD-11: 7A00-7A0Z],Clinical trial,D00779
+D02XIY,Acromegaly [ICD-11: 5A60.0],Approved,D00780
+D09ZIO,Acute cardiac ischemic events [ICD-11: BA40.Z],Approved,D00781
+D0G3PI,Kaposi sarcoma [ICD-11: 2B57],Approved,D00782
+D0R4UW,Asthma [ICD-11: CA23],Approved,D00783
+D0R4UW,Type-2 diabetes [ICD-11: 5A11],Phase 1,D00783
+D0R4UW,Chronic obstructive pulmonary disease [ICD-11: CA22],Withdrawn from market,D00783
+D0R4UW,Atopic dermatitis [ICD-11: EA80],Discontinued in Phase 2,D00783
+D0X5XU,Myelodysplastic syndrome [ICD-11: 2A37],Approved,D00784
+D02AYL,Tuberculosis [ICD-11: 1B10-1B14],Approved,D00785
+D02AYL,Mycobacterium infection [ICD-11: 1B10-1B21],Phase 3,D00785
+D0B4IF,Fungal infection [ICD-11: 1F29-1F2F],Approved,D00786
+D06YHL,Microorganisms infection [ICD-11: 1A00-1A09],Approved,D00787
+D00FGO,Multiple myeloma [ICD-11: 2A83],Approved,D00788
+D00FGO,Intrahepatic cholangiocarcinoma [ICD-11: 2C12.10],Phase 3,D00788
+D6DT3X,Escherichia coli infection [ICD-11: 1A03],Phase 2,D00789
+D0D9HW,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00790
+D07ABV,Aspergillosis [ICD-11: 1F20],Approved,D00791
+D07WXI,Cytomegalovirus infection [ICD-11: 1D82],Phase 3,D00792
+D02FLB,Metabolic acidosis [ICD-11: 5C73],Approved,D00795
+D02IQY,Alzheimer disease [ICD-11: 8A20],Approved,D00798
+D0NE9T,Venous thrombosis [ICD-11: BA43],Approved,D00801
+D08BTB,Central nervous system disease [ICD-11: 8A04-8D87],Approved,D00803
+D0O1UZ,LennoxGastaut syndrome [ICD-11: 8A62.1],Approved,D00806
+D0O1UZ,Dravet syndrome [ICD-11: 8A61.11],Approved,D00806
+D0O1UZ,Infantile spasm [ICD-11: 8A62.0],Phase 3,D00806
+D0O1UZ,Epilepsy [ICD-11: 8A60-8A68],Phase 2,D00806
+D06AWE,Pain [ICD-11: MG30-MG3Z],Approved,D00807
+D06AWE,Psychiatric disorder [ICD-11: 6E8Z],Phase 3,D00807
+D06AWE,Migraine [ICD-11: 8A80],Phase 2,D00807
+D00STL,Chronic myelogenous leukaemia [ICD-11: 2A20.0],Approved,D00808
+D0B0SH,Cough [ICD-11: MD12],Approved,D00809
+D0K0KH,Fibromyalgia [ICD-11: MG30.01],Approved,D00810
+D0F2XQ,Haematological malignancy [ICD-11: 2B33.Y],Approved,D00811
+D00MIN,Hyperthyroidism [ICD-11: 5A02],Approved,D00812
+D0B0CP,Psychotic disorder [ICD-11: 6A20-6A25],Approved,D00813
+D06FES,Depression [ICD-11: 6A70-6A7Z],Approved,D00814
+D09UZO,Acute lymphoblastic leukaemia [ICD-11: 2A85],Approved,D00815
+D09UZO,Crohn disease [ICD-11: DD70],Phase 4,D00815
+D07QLG,Orthostatic hypotension [ICD-11: BA21],Approved,D00817
+D05CEU,Migraine [ICD-11: 8A80],Approved,D00818
+D0E0LQ,Schizophrenia [ICD-11: 6A20],Approved,D00819
+D06ZII,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00820
+D0Z5IU,Rheumatoid arthritis [ICD-11: FA20],Approved,D00822
+D0CT9Y,Female infertility [ICD-11: GA31.Z],Approved,D00823
+D01AYJ,Fungal infection [ICD-11: 1F29-1F2F],Approved,D00824
+D01AYJ,Onychomycosis [ICD-11: EE12.1],Phase 2,D00824
+D0M3TM,Thllium and radioactive isotopes of caesium poisoning [ICD-11: NE61],Approved,D00826
+D0M3TM,Metal intoxication [ICD-11: NE60],Approved,D00826
+D01GYK,Metal intoxication [ICD-11: NE60],Approved,D00827
+D02OZE,Heart failure [ICD-11: BD10-BD13],Approved,D00828
+D02OZE,Arrhythmia [ICD-11: BC9Z],Approved,D00828
+D02OZE,Congestive cardiac insufficiency [ICD-11: BD1Z],Approved,D00828
+D07KSG,Breast cancer [ICD-11: 2C60-2C65],Approved,D00829
+D0P0HB,Tuberculosis [ICD-11: 1B10-1B1Z],Approved,D00830
+D0X7XG,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00831
+D0X7XG,MRSA infection [ICD-11: 1D01.0Y],Phase 3,D00831
+D0B7YT,Addictive disorder [ICD-11: 6C50-6C5Z],Approved,D00832
+D0B7YT,Nausea [ICD-11: MD90],Approved,D00832
+D00MYT,Anaesthesia [ICD-11: 9A78.6],Approved,D00834
+D0B8WN,Peptic ulcer [ICD-11: DA61],Approved,D00836
+D09HNR,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00837
+D0NR6S,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00838
+D0NR6S,Chronic obstructive pulmonary disease [ICD-11: CA22],Phase 3,D00838
+D04VFJ,Breast cancer [ICD-11: 2C60-2C65],Approved,D00839
+D0X9CH,Hepatitis C virus infection [ICD-11: 1E51.1],Approved,D00840
+D0Q9WO,Muscle spasm [ICD-11: MB47.3],Approved,D00841
+D0Q9DK,Acid-reflux disorder [ICD-11: DA22],Approved,D00842
+D00YLW,Nausea [ICD-11: MD90],Approved,D00843
+D0T9TJ,Obesity [ICD-11: 5B81],Approved,D00844
+D03DDR,Malaria [ICD-11: 1F40-1F45],Approved,D00845
+D03DDR,Malaria [ICD-11: 1F40-1F45],Approved,D01382
+D02CTS,Dyspareunia [ICD-11: GA12],Approved,D00846
+D02CTS,Postmenopausal vaginal atrophy [ICD-11: GA30.2],Phase 3,D00846
+D00JRA,Schizophrenia [ICD-11: 6A20],Approved,D00847
+D06OMW,Parkinson disease [ICD-11: 8A00.0],Approved,D00849
+D06OMW,Skin cancer [ICD-11: 2C30-2C37],Patented,D00849
+D06OMW,Skin imperfections [ICD-11: EK71],Patented,D00849
+D0E6XR,Chronic myelogenous leukaemia [ICD-11: 2A20.0],Approved,D00850
+D0E6XR,Multiple myeloma [ICD-11: 2A83],Phase 2,D00850
+D0G6QF,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00851
+D0CY3A,Thrombosis [ICD-11: DB61-GB90],Discontinued in Phase 3,D00852
+D0W9ZF,Hyperprolactinaemia [ICD-11: 5A60.1],Approved,D00856
+D07IYO,Influenza virus infection [ICD-11: 1E30-1E32],Phase 2,D00858
+D07IYO,Coronavirus Disease 2019 (COVID-19) [ICD-11: 1D6Y],Investigative,D00858
+D05ATI,Constipation [ICD-11: DD91.1],Approved,D00859
+D00UJF,Thrombosis [ICD-11: DB61-GB90],Approved,D00860
+D0U2JP,Type-2 diabetes [ICD-11: 5A11],Approved,D00861
+D0U2JP,Peripheral arterial disease [ICD-11: BD4Z],Phase 1/2,D00861
+D0Y7PG,Parkinson disease [ICD-11: 8A00.0],Approved,D00862
+D0QD1G,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00863
+D0Y7IU,Asthma [ICD-11: CA23],Approved,D00867
+D0YX4S,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00868
+D0T7US,Hypertension [ICD-11: BA00-BA04],Approved,D00869
+D00QET,Asthma [ICD-11: CA23],Approved,D00870
+D0K5ER,Type-2 diabetes [ICD-11: 5A11],Approved,D00871
+D0K5ER,Alzheimer disease [ICD-11: 8A20],Phase 3,D00871
+D05ZGQ,Rhinitis [ICD-11: FA20],Approved,D00872
+D03VZH,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00873
+D04FBR,Organ transplant rejection [ICD-11: NE84],Approved,D00874
+D04FBR,Pemphigus vulgaris [ICD-11: EB40],Phase 3,D00874
+D04FBR,Immune System disease [ICD-11: 4A01-4B41],Investigative,D00874
+D0J1VY,Parkinson disease [ICD-11: 8A00.0],Approved,D00875
+D0N1TP,Hyperparathyroidism [ICD-11: 5A51],Approved,D00876
+D0G5CF,Chronic kidney disease [ICD-11: GB61],Approved,D00877
+D00YEV,Influenza virus infection [ICD-11: 1E30-1E32],Phase 2,D00879
+D0X9XP,Hemorrhoids [ICD-11: DB60],Approved,D00880
+D05JDR,Chronic bronchitis [ICD-11: CA20.1],Approved,D00884
+D0B1IP,Keratosis [ICD-11: ED56],Approved,D00885
+D00DKK,Acne vulgaris [ICD-11: ED80],Approved,D00886
+D09ANG,Medical abortion [ICD-11: JA00.1Z],Approved,D00887
+D0V0IX,Pulmonary hypertension [ICD-11: BB01],Approved,D00888
+D4Q5AW,Pulmonary hypertension [ICD-11: BB01],Phase 4,D00889
+D0E8CI,Hay fever [ICD-11: CA08.00],Approved,D00890
+D0G5GY,Coronavirus Disease 2019 (COVID-19) [ICD-11: 1D6Y],Phase 2/3,D00892
+D03DIG,Pain [ICD-11: MG30-MG3Z],Approved,D00893
+D03DIG,Cough [ICD-11: MD12],Phase 1,D00893
+D05QDC,Psoriasis vulgaris [ICD-11: EA90],Approved,D00895
+D06AEO,Prostate cancer [ICD-11: 2C82.0],Approved,D00896
+D0T6RC,Cancer related pain [ICD-11: MG30],Phase 4,D00897
+D06IZM,Angina pectoris [ICD-11: BA40],Approved,D00898
+D0J5KF,Nausea and vomiting [ICD-11: MD90],Approved,D00899
+D0X5KF,Pain [ICD-11: MG30-MG3Z],Approved,D00900
+D04JHN,Pain [ICD-11: MG30-MG3Z],Approved,D00901
+D04JHN,Chronic pain [ICD-11: MG30],Phase 3,D00901
+D0E1XL,Fibromyalgia [ICD-11: MG30.01],Approved,D00902
+D0E1XL,Epilepsy [ICD-11: 8A60-8A68],Approved,D00902
+D0E9WL,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00903
+D0L7AS,Insomnia [ICD-11: 7A00-7A0Z],Approved,D00904
+D05VIL,Opioid dependence [ICD-11: 6C43.2Z],Approved,D00905
+D05VIL,Opioid dependence [ICD-11: 6C43.2Z],Approved,D01383
+D0X3FX,Narcotic depression [ICD-11: 6A7Z],Approved,D00906
+D0X3FX,Respiratory depression [ICD-11: MD11.5],Phase 3,D00906
+D0X3FX,Pruritus [ICD-11: EC90],Phase 3,D00906
+D0X3FX,Opioid dependence [ICD-11: 6C43.2Z],Phase 1,D00906
+D03SKD,Pain [ICD-11: MG30-MG3Z],Approved,D00907
+D03SKD,Back pain [ICD-11: ME84.Z],Phase 3,D00907
+D02NSF,Pain [ICD-11: MG30-MG3Z],Approved,D00908
+D03LJR,Organ transplant rejection [ICD-11: NE84],Approved,D00909
+D03LJR,Multiple myeloma [ICD-11: 2A83],Approved,D00909
+D03LJR,Dutch elm disease [ICD-11: 8D64],Phase 1/2,D00909
+D07VDZ,Alcohol dependence [ICD-11: 6C40.2],Approved,D00910
+D07VDZ,Epilepsy [ICD-11: 8A60-8A68],Approved,D00910
+D07VDZ,Seizure disorder [ICD-11: 8A6Z],Investigative,D00910
+D05TIB,Spasm [ICD-11: MB47.3],Approved,D00911
+D05TIB,Overactive bladder [ICD-11: GC50.0],Approved,D00911
+D0WE3O,Chronic pain [ICD-11: MG30],Approved,D00912
+D0T5UL,Obesity [ICD-11: 5B81],Approved,D00913
+D0F4ZY,Parkinson disease [ICD-11: 8A00.0],Approved,D00914
+D0F4ZY,Substance use disorder [ICD-11: 6C4Z],Phase 1,D00914
+D05ZTH,Pulmonary arterial hypertension [ICD-11: BB01.0],Approved,D00915
+D01KQA,Pain [ICD-11: MG30-MG3Z],Approved,D00916
+D01KQA,Prurigo nodularis [ICD-11: EC91.0],Phase 2/3,D00916
+D01KQA,Uremic pruritus [ICD-11: EC90.10],Phase 2/3,D00916
+D06PSS,Diabetic complication [ICD-11: 5A2Y],Approved,D00917
+D05MFG,Hypertension [ICD-11: BA00-BA04],Approved,D00918
+D02XSA,Dravet syndrome [ICD-11: 8A61.11],Approved,D00919
+D02XSA,Epilepsy [ICD-11: 8A60-8A68],Approved,D00919
+D01HTL,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00920
+D07MON,Breast cancer [ICD-11: 2C60-2C65],Phase 2,D00921
+D0I8LU,Schizophrenia [ICD-11: 6A20],Approved,D00922
+D0U0VU,Benign prostatic hyperplasia [ICD-11: GA90],Approved,D00923
+D03HFG,Depression [ICD-11: 6A70-6A7Z],Approved,D00924
+D0OB0F,Breast cancer [ICD-11: 2C60-2C65],Approved,D00925
+D0R0MW,Gastrointestinal stromal tumour [ICD-11: 2B5B],Approved,D00926
+D0R0MW,Gastrointestinal cancer [ICD-11: 2C11],Approved,D00926
+D00UZR,Breast cancer [ICD-11: 2C60-2C65],Approved,D00927
+D00UZR,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D00927
+D00UZR,Schizophrenia [ICD-11: 6A20],Terminated,D00927
+D00UZR,Breast cancer [ICD-11: 2C60-2C65],Approved,D00927
+D00UZR,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D00927
+D00UZR,Schizophrenia [ICD-11: 6A20],Terminated,D00927
+D00UZR,Breast cancer [ICD-11: 2C60-2C65],Approved,D01384
+D00UZR,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01384
+D00UZR,Schizophrenia [ICD-11: 6A20],Terminated,D01384
+D00UZR,Breast cancer [ICD-11: 2C60-2C65],Approved,D01384
+D00UZR,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01384
+D00UZR,Schizophrenia [ICD-11: 6A20],Terminated,D01384
+D0L7LC,Cutaneous T-cell lymphoma [ICD-11: 2B01],Approved,D00928
+D0L7LC,Renal cell carcinoma [ICD-11: 2C90],Phase 3,D00928
+D0L7LC,Peripheral T-cell lymphoma [ICD-11: 2A90.C],Phase 3,D00928
+D0T3HY,Pain [ICD-11: MG30-MG3Z],Approved,D00929
+D0T3HY,Ischemic stroke [ICD-11: 8B11.5Z],Terminated,D00929
+D0PG8O,Alcohol dependence [ICD-11: 6C40.2],Approved,D00931
+D0PG8O,Human immunodeficiency virus infection [ICD-11: 1C62],Phase 4,D00931
+D09OBB,Cough [ICD-11: MD12],Approved,D00932
+D0X9RG,Pain [ICD-11: MG30-MG3Z],Approved,D00933
+D03YVO,Opioid-induced constipation [ICD-11: DB32.1],Approved,D00934
+D03YVO,Obesity [ICD-11: 5B81], Preclinical,D00934
+D06OVY,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00935
+D07HGR,Hypertension [ICD-11: BA00-BA04],Approved,D00936
+D0U3EC,Hypertension [ICD-11: BA00-BA04],Approved,D00937
+D01STB,Congestive heart failure [ICD-11: BD10],Approved,D00938
+D0V7CF,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00939
+D0Y4QG,Multi-drug resistant tuberculosis [ICD-11: MG52.00],Approved,D00940
+D00SEB,Hypertension [ICD-11: BA00-BA04],Approved,D00941
+D04LHJ,Nausea and vomiting [ICD-11: MD90],Approved,D00942
+D0PJ4K,Osteoporosis [ICD-11: FB83.0],Approved,D00943
+D0RN2W,Hypokalemia [ICD-11: 5C77],Approved,D00945
+D0B8QB,Ischemic stroke [ICD-11: 8B11.5Z],Approved,D00946
+D0Y2IE,Acute bronchitis [ICD-11: CA42],Approved,D00948
+D0A1CB,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00949
+D0M5OC,Hypertension [ICD-11: BA00-BA04],Approved,D00950
+D00WUF,Chronic obstructive pulmonary disease [ICD-11: CA22],Approved,D00951
+D0P1WA,Chronic obstructive pulmonary disease [ICD-11: CA22],Approved,D00952
+D0D7KC,Gastrointestinal disease [ICD-11: DE2Z],Approved,D00953
+D03SVX,Hypertension [ICD-11: BA00-BA04],Approved,D00954
+D0E2MJ,Angina pectoris [ICD-11: BA40],Discontinued in Phase 3,D00955
+D0K0OZ,Peptic ulcer [ICD-11: DA61],Approved,D00956
+D0U5HU,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00957
+D0U5HU,Osteosarcoma [ICD-11: 2B51],Phase 2,D00957
+D0P1IZ,Blood brain barrier [ICD-11: 5C61.5],Approved,D00959
+D0P8RS,Malaria [ICD-11: 1F40-1F45],Approved,D00960
+D09YHJ,Intestinal strongyloidiasis due to nematode parasite [ICD-11: 1F6B],Approved,D00961
+D0FX2Q,Diarrhea [ICD-11: ME05.1],Approved,D00963
+D0FX2Q,Infectious disease [ICD-11: 1A00-CA43.1],Phase 3,D00963
+D0W6CA,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00965
+D04FVU,Nausea [ICD-11: MD90],Approved,D00966
+D0R3FP,Discovery agent [ICD-11: N.A.],Approved,D00967
+D01XRP,Dyspepsia [ICD-11: MD92],Approved,D00969
+D04ITO,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00970
+D06MQM,Malaria [ICD-11: 1F40-1F45],Approved,D00971
+D0K3QS,Renal cell carcinoma [ICD-11: 2C90],Approved,D00972
+D0K3QS,Kidney cancer [ICD-11: 2C90.0],Phase 3,D00972
+D0W2EK,Breast cancer [ICD-11: 2C60-2C65],Approved,D00973
+D01ZRI,Renal cell carcinoma [ICD-11: 2C90],Approved,D00974
+D0G3YC,Chemotherapy-induced nausea [ICD-11: MD90],Phase 3,D00975
+D0T6WN,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D00976
+D0T6WN,Pain [ICD-11: MG30-MG3Z],Investigative,D00976
+D0E9TP,Tinnitus [ICD-11: MC41],Approved,D00977
+D0S3NU,Multi-drug resistant tuberculosis [ICD-11: MG52.00],Approved,D00978
+D0S3NU,Mycobacterium infection [ICD-11: 1B10-1B21],Phase 3,D00978
+D09QZI,Contraception [ICD-11: QA21],Approved,D00979
+D0R0BX,Urinary tract infection [ICD-11: GC08],Approved,D00980
+D0FC1J,Chagas disease [ICD-11: IF53],Approved,D00981
+D0FC1J,Trypanosomiasis [ICD-11: 1D51-1F53],Phase 4,D00981
+D0I8DD,Hyperthermia [ICD-11: MG26],Approved,D00982
+D0WS1X,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D00983
+D0BD8D,Gastroesophageal reflux disease [ICD-11: DA22.Z],Approved,D00984
+D0BD8D,Gastrointestinal disease [ICD-11: DE2Z],Investigative,D00984
+D02KIU,Contraception [ICD-11: QA21],Approved,D00985
+D02XOK,Fibromyalgia [ICD-11: MG30.01],Approved,D00986
+D01WUA,Pulmonary arterial hypertension [ICD-11: BB01.0],Approved,D00987
+D0X7KZ,Osteoporosis [ICD-11: FB83.0],Approved,D00988
+D0S9CB,Mood disorder [ICD-11: 6A60-6E23],Approved,D00989
+D0S9CB,Female sexual arousal dysfunction [ICD-11: HA01.1],Phase 3,D00989
+D0ES1Q,Renal cell carcinoma [ICD-11: 2C90],Approved,D00990
+D0OT9S,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D00991
+D0A9YA,Benign prostatic hyperplasia [ICD-11: GA90],Approved,D00992
+D0A9YA,Prostate cancer [ICD-11: 2C82.0],Phase 3,D00992
+D0X0CH,Complex partial seizure [ICD-11: 8A68.0],Phase 3,D00993
+D0X0CH,Postpartum depression [ICD-11: 6E20.0],Phase 2,D00993
+D0X6BV,Major depressive disorder [ICD-11: 6A70.3],Approved,D00994
+D07IRF,Acute coronary syndrome [ICD-11: BA41],Approved,D00995
+D07VHS,Invasive aspergillosis [ICD-11: 1F20.0],Phase 3,D00996
+D07VHS,Invasive candidiasis [ICD-11: 1F23],Phase 3,D00996
+D07VHS,Candidemia [ICD-11: 1F23.3Y],Phase 3,D00996
+D0L9HX,Lupus nephritis [ICD-11: 4A40.0Y],Approved,D00997
+D0L9HX,Psoriasis vulgaris [ICD-11: EA90],Phase 3,D00997
+D0L9HX,Kidney disease [ICD-11: GC2Z],Phase 2,D00997
+D0X5ZI,Pulmonary arterial hypertension [ICD-11: BB01.0],Approved,D00998
+D0L3DK,Type-2 diabetes [ICD-11: 5A11],Approved,D00999
+DMK6W0,Filarial disease [ICD-11: 1F66],Phase 1,D01000
+D0E9KA,Actinic keratosis [ICD-11: EK90.0],Approved,D01001
+D0E9KA,Melanoma [ICD-11: 2C30],Phase 3,D01001
+D0E3SH,Multiple myeloma [ICD-11: 2A83],Approved,D01002
+D0E3SH,Type-2 diabetes [ICD-11: 5A11],Phase 3,D01002
+D0E3SH,Primary myelofibrosis [ICD-11: 2A20.2],Phase 2,D01002
+D0V4GY,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D01003
+D0C6DT,Peptic ulcer [ICD-11: DA61],Approved,D01004
+D0J6II,Atrial fibrillation [ICD-11: BC81.3],Phase 3,D01005
+D0VR7W,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D01006
+D0JQ7Y,Coagulation defect [ICD-11: 3B10.0],Withdrawn from market,D01007
+D06YYD,Non-erosive gastro-esophageal reflux disease [ICD-11: DA22.0],Approved,D01009
+D06YYD,Erosive esophagitis [ICD-11: DA25.0],Approved,D01009
+D06YYD,Peptic ulcer [ICD-11: DA61],Approved,D01009
+D06YYD,NSAID-associated gastric ulcer [ICD-11: DA60],Phase 3,D01009
+D06YYD,Non-erosive gastro-esophageal reflux disease [ICD-11: DA22.0],Approved,D01385
+D06YYD,Erosive esophagitis [ICD-11: DA25.0],Approved,D01385
+D06YYD,Peptic ulcer [ICD-11: DA61],Approved,D01385
+D06YYD,NSAID-associated gastric ulcer [ICD-11: DA60],Phase 3,D01385
+D0J5RN,Pediatric cancer [ICD-11: 2A00-2F9Z],Approved,D01010
+D0F4SY,Huntington disease [ICD-11: 8A01.10],Phase 3,D01011
+D0BV3J,Somatotropin deficiency [ICD-11: 5A61.0],Approved,D01012
+D0BV3J,Growth hormone deficiency [ICD-11: 5A61.3],Approved,D01012
+D0T7ZQ,Hormone replacement therapy [ICD-11: 8E01],Approved,D01014
+D00LSI,Inflammatory bowel disease [ICD-11: DD72],Phase 2,D01015
+D00LSI,Rheumatoid arthritis [ICD-11: FA20],Phase 2,D01015
+D0I2WV,Hypertension [ICD-11: BA00-BA04],Phase 4,D01016
+D0R0FO,Thyroid cancer [ICD-11: 2D10],Approved,D01017
+D0R0FO,Hepatocellular carcinoma [ICD-11: 2C12.02],Phase 3,D01017
+D0R0FO,Renal cell carcinoma [ICD-11: 2C90],Phase 3,D01017
+D0R0FO,Melanoma [ICD-11: 2C30],Phase 2,D01017
+D0R0FO,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 1/2,D01017
+D0R0FO,Ovarian cancer [ICD-11: 2C73],Phase 1,D01017
+D0R0FO,Non-small-cell lung cancer [ICD-11: 2C25.Y],Application submitted,D01017
+D04BCB,Type-2 diabetes [ICD-11: 5A11],Approved,D01018
+D07NVU,Acute myeloid leukaemia [ICD-11: 2A60],Approved,D01019
+D07NVU,Systemic mastocytosis [ICD-11: 2A21.0],Approved,D01019
+D07NVU,Chronic myelomonocytic leukaemia [ICD-11: 2A40],Phase 2,D01019
+D07NVU,Colorectal cancer [ICD-11: 2B91.Z],Phase 1,D01019
+DZB84T,Progressive familial intrahepatic cholestasis [ICD-11: 5C58.03],Phase 3,D01021
+DZB84T,Alagille syndrome [ICD-11: LB20.0Y],Phase 2,D01021
+D05AWP,River blindness [ICD-11: 1F6A.0],Approved,D01022
+D05AWP,Onchocerciasis [ICD-11: 1F6A],Approved,D01022
+D0CT4D,Complex partial seizure [ICD-11: 8A68.0],Approved,D01023
+D0CT4D,Epilepsy [ICD-11: 8A60-8A68],Phase 3,D01023
+D0CT4D,Pain [ICD-11: MG30-MG3Z],Phase 3,D01023
+D0K4MH,Acute pain [ICD-11: MG31],Approved,D01024
+D00BLL,Overactive bladder [ICD-11: GC50.0],Approved,D01026
+D09QBG,Thrombosis [ICD-11: DB61-GB90],Approved,D01029
+D02HSB,Breast cancer [ICD-11: 2C60-2C65],Approved,D01030
+D02HSB,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01030
+D0X5UN,Overactive bladder [ICD-11: GC50.0],Approved,D01031
+D0L5KU,Procedural sedation [ICD-11: JB0C.3],Approved,D01032
+D0L5KU,Anaesthesia [ICD-11: 9A78.6],Phase 3,D01032
+D0Y5JC,Erectile dysfunction [ICD-11: HA01.1],Approved,D01033
+D0E3RW,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D01034
+D0KG3R,Deep vein thrombosis [ICD-11: BD71],Approved,D01036
+D05KBU,Alcohol dependence [ICD-11: 6C40.2],Phase 2,D01037
+D05KBU,Alcohol dependence [ICD-11: 6C40.2],Phase 2,D01037
+D05KBU,Alcohol dependence [ICD-11: 6C40.2],Phase 2,D01386
+D05KBU,Alcohol dependence [ICD-11: 6C40.2],Phase 2,D01386
+D01TNW,Type-2 diabetes [ICD-11: 5A11],Approved,D01038
+D0W7JZ,Renal cell carcinoma [ICD-11: 2C90],Approved,D01039
+D0N2SR,Pulmonary arterial hypertension [ICD-11: BB01.0],Approved,D01040
+D0EG1I,Rheumatoid arthritis [ICD-11: FA20],Approved,D01042
+D01SHZ,Ovarian cancer [ICD-11: 2C73],Approved,D01043
+D01UUD,Excessive daytime sleepiness [ICD-11: MG42],Approved,D01044
+D01UUD,Schizophrenia [ICD-11: 6A20],Phase 3,D01044
+D0M8PW,Allergic rhinitis [ICD-11: CA08.0],Approved,D01045
+D03WEX,Major depressive disorder [ICD-11: 6A70.3],Approved,D01046
+D03WEX,Mood disorder [ICD-11: 6A60-6E23],Phase 3,D01046
+D06LNW,Clostridium difficile associated diarrhea [ICD-11: 1A04],Approved,D01047
+D0J8JP,Parkinson disease [ICD-11: 8A00.0],Approved,D01048
+D0VA0I,Myocardial infarction [ICD-11: BA41-BA43],Approved,D01049
+D02EYG,Type-2 diabetes [ICD-11: 5A11],Approved,D01050
+D0T5DP,Melanoma [ICD-11: 2C30],Phase 3,D01052
+D0T5DP,Thyroid cancer [ICD-11: 2D10],Phase 3,D01052
+D0T5DP,Non-small-cell lung cancer [ICD-11: 2C25.Y],Phase 2,D01052
+D0T5DP,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Investigative,D01052
+D0M3CV,Excessive daytime sleepiness [ICD-11: MG42],Approved,D01053
+D0M3CV,Narcolepsy [ICD-11: 7A20],Phase 3,D01053
+D0J6AU,Osteoporosis [ICD-11: FB83.0],Phase 3,D01054
+DEWC27,Alagille syndrome [ICD-11: LB20.0Y],Phase 3,D01055
+D0I5HF,Thrombosis [ICD-11: DB61-GB90],Approved,D01057
+D0Q5MQ,Insomnia [ICD-11: 7A00-7A0Z],Approved,D01059
+D0YS1U,Focal segmental glomerulosclerosis [ICD-11: MF8Y],Phase 3,D01060
+D0YS1U,Myocardial infarction [ICD-11: BA41-BA43],Phase 2,D01060
+D0YS1U,Hypertension [ICD-11: BA00-BA04],Phase 2,D01060
+D0J0BU,Venous thromboembolism [ICD-11: BD72],Approved,D01061
+D0J0BU,Cerebrovascular ischaemia [ICD-11: 8B1Z],Phase 3,D01061
+D0H8OH,Fibrodysplasia ossificans progressiva [ICD-11: FB31.1],Phase 3,D01063
+D0H8OH,Emphysema [ICD-11: CA21],Phase 2,D01063
+D0CF0Y,Chemotherapy-induced nausea [ICD-11: MD90],Approved,D01064
+D0V3YT,Hepatitis C virus infection [ICD-11: 1E51.1],Approved,D01065
+D0F2WP,Prostate cancer [ICD-11: 2C82.0],Approved,D01066
+D0F2WP,Endometriosis [ICD-11: GA10],Phase 3,D01066
+D0D9NY,Familial hypercholesterolemia [ICD-11: 5C80.00],Approved,D01067
+D0D9NY,Cardiovascular disease [ICD-11: BA00-BE2Z],Phase 3,D01067
+D0E0BD,Hepatic encephalopathy [ICD-11: DB99.5],Approved,D01068
+D05XGO,Bipolar disorder [ICD-11: 6A60],Approved,D01070
+D09GDD,Metastatic colorectal cancer [ICD-11: 2B91],Approved,D01071
+D01QGX,Schizophrenia [ICD-11: 6A20],Approved,D01072
+D0K9MY,Type-2 diabetes [ICD-11: 5A11],Approved,D01073
+D09ZXR,Diarrhea-predominant irritable bowel syndrome [ICD-11: DD91.01],Approved,D01074
+D0UI3T,Uterine fibroids [ICD-11: 2E86.0],Phase 3,D01075
+D04UKC,Pulmonary arterial hypertension [ICD-11: BB01.0],Approved,D01077
+D02QFW,Fragile X syndrome [ICD-11: LD55],Phase 2,D01078
+D02QFW,Rett syndrome [ICD-11: LD90.4],Phase 2,D01078
+D02QFW,Traumatic brain injury [ICD-11: NA07.Z],Phase 2,D01078
+D02QFW,Type-1 diabetes [ICD-11: 5A10],Phase 2,D01078
+D00ZCT,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D01079
+D0Y4SI,Multiple sclerosis [ICD-11: 8A40],Approved,D01080
+D0Y4SI,Psoriasis vulgaris [ICD-11: EA90],Phase 2,D01080
+D0NJ5H,Type-2 diabetes [ICD-11: 5A11],Approved,D01082
+D06XXH,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01086
+D07ESC,Psoriasis vulgaris [ICD-11: EA90],Approved,D01087
+D00DEF,Attention deficit hyperactivity disorder [ICD-11: 6A05.Z],Approved,D01088
+D01NQM,Migraine [ICD-11: 8A80],Approved,D01089
+D0J5VR,Chronic lymphocytic leukaemia [ICD-11: 2A82.0],Approved,D01090
+D03ZBT,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01091
+D2GV9Q,Vascular dementia [ICD-11: 6D81],Phase 2,D01092
+D01JMC,Obesity [ICD-11: 5B81],Approved,D01094
+D01JMC,Drug abuse [ICD-11: 6C4G.1Z],Phase 1,D01094
+D0V8HJ,Immune thrombocytopenic purpura [ICD-11: 3B64.13],Approved,D01096
+D0V8HJ,Rheumatoid arthritis [ICD-11: FA20],Phase 3,D01096
+D04XVN,Melanoma [ICD-11: 2C30],Approved,D01097
+D0G5JW,Anemia [ICD-11: 3A00-3A9Z],Investigative,D01098
+D06ALD,Type-1 diabetes [ICD-11: 5A10],Approved,D01099
+D0U5UC,Rheumatoid arthritis [ICD-11: FA20],Phase 2,D01100
+D0U5UC,Psoriasis vulgaris [ICD-11: EA90],Phase 2,D01100
+D0U5UC,Psoriatic arthritis [ICD-11: FA21],Phase 1,D01100
+D0U5UC,Scleroderma [ICD-11: 4A42],Phase 1,D01100
+D0U5UC,Systemic lupus erythematosus [ICD-11: 4A40.0],Phase 1,D01100
+D00PLV,Hypertension [ICD-11: BA00-BA04],Approved,D01101
+DU8CF6,Complex partial seizure [ICD-11: 8A68.0],Approved,D01103
+D0V4WD,Contraception [ICD-11: QA21],Approved,D01105
+D0QK5X,Prostate cancer [ICD-11: 2C82.0],Approved,D01106
+D0S7JH,Cardiovascular disease [ICD-11: BA00-BE2Z],Approved,D01107
+D0MD8D,Smallpox [ICD-11: 1E70],Approved,D01109
+D0MD8D,Virus infection [ICD-11: 1A24-1D9Z],Phase 3,D01109
+D0I1XG,Osteoporosis [ICD-11: FB83.0],Approved,D01110
+D00UOR,Deep vein thrombosis [ICD-11: BD71],Approved,D01111
+D09HVL,Thrombocytopenia [ICD-11: 3B64],Approved,D01112
+D0YA2L,Osteogenesis imperfecta [ICD-11: LD24.K0],Approved,D01113
+D0YA2L,Psoriatic disorder [ICD-11: EA90],Discontinued in Phase 2,D01113
+D03GOI,Type-2 diabetes [ICD-11: 5A11],Approved,D01114
+D03GOI,Obesity [ICD-11: 5B81],Phase 2,D01114
+D01NLB,Pain [ICD-11: MG30-MG3Z],Approved,D01115
+D01NLB,Traumatic brain injury [ICD-11: NA07.Z],Phase 1/2,D01115
+D0M2XE,Diabetic complication [ICD-11: 5A2Y],Approved,D01116
+D00GNJ,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D01118
+D0W7WC,Cystic fibrosis [ICD-11: CA25],Approved,D01119
+D0X0CB,Cystic fibrosis [ICD-11: CA25],Phase 2,D01121
+D0G8BM,Myelofibrosis [ICD-11: 2A20.2],Approved,D01123
+D09VXM,HIV-associated diarrhoea [ICD-11: 1A2Z],Approved,D01124
+D07KUN,Breast cancer [ICD-11: 2C60-2C65],Phase 3,D01125
+D03TPR,High blood cholesterol level [ICD-11: 5C80.00],Approved,D01126
+D0J9HW,Ovarian cancer [ICD-11: 2C73],Approved,D01128
+D0J9HW,Pancreatic cancer [ICD-11: 2C10],Phase 3,D01128
+D0J9HW,Prostate cancer [ICD-11: 2C82.0],Phase 3,D01128
+D0L2UN,Inflammatory arthritis [ICD-11: FA2Z],Approved,D01129
+D09WCM,Head and body lice [ICD-11: 1G00.0],Approved,D01130
+D03EDQ,Basal cell carcinoma [ICD-11: 2C32],Approved,D01132
+D03EDQ,Primitive neuroectodermal tumour medulloblastoma [ICD-11: 2A00.11],Phase 2,D01132
+D0K3OK,Pruritus [ICD-11: EC90],Phase 3,D01135
+D08DFX,Type-2 diabetes [ICD-11: 5A11],Approved,D01137
+D08DFX,Diabetic nephropathy [ICD-11: GB61.Z],Phase 3,D01137
+D08DFX,Type-1 diabetes [ICD-11: 5A10],Phase 2,D01137
+D09KTS,Mantle cell lymphoma [ICD-11: 2A85.5],Approved,D01138
+D09KTS,B-cell non-hodgkin lymphoma [ICD-11: 2B33.5],Phase 3,D01138
+D09KTS,Diffuse large B-cell lymphoma [ICD-11: 2A81],Phase 3,D01138
+D09KTS,Follicular lymphoma [ICD-11: 2A80],Phase 3,D01138
+D09KTS,Non-hodgkin lymphoma [ICD-11: 2B33.5],Phase 3,D01138
+D09KTS,Pancreatic cancer [ICD-11: 2C10],Phase 3,D01138
+D09KTS,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01138
+D0H0EQ,Acute lymphoblastic leukaemia [ICD-11: 2A85],Approved,D01139
+D00TLP,Chronic HCV-1 infection [ICD-11: 1E51.1],Approved,D01143
+D00OVU,Insomnia [ICD-11: 7A00-7A0Z],Approved,D01145
+D0D5ZJ,Myelofibrosis [ICD-11: 2A20.2],Phase 3,D01146
+D0D5ZJ,Polycythemia vera [ICD-11: 2A20.4],Phase 2,D01146
+D0D5ZJ,Thrombocythemia [ICD-11: 3B63],Phase 2,D01146
+D08WYM,Endometriosis [ICD-11: GA10],Approved,D01147
+D0IQ6P,Thyroid cancer [ICD-11: 2D10],Approved,D01148
+D0IQ6P,Ovarian cancer [ICD-11: 2C73],Phase 2,D01148
+D04LKS,High-risk myelofibrosis [ICD-11: 2A20.2],Approved,D01149
+D04LKS,Essential thrombocythemia [ICD-11: 3B63.1Z],Approved,D01149
+D04LKS,Pancreatic cancer [ICD-11: 2C10],Phase 3,D01149
+D04LKS,Atopic dermatitis [ICD-11: EA80],Phase 1/2,D01149
+D04LKS,Vitiligo [ICD-11: ED63.0],Phase 1/2,D01149
+D0O0LS,Non-small cell lung cancer [ICD-11: 2C25],Approved,D01151
+D0O0LS,Colorectal cancer [ICD-11: 2B91.Z],Phase 2,D01151
+D0O0LS,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01151
+D0O0LS,Neuroblastoma [ICD-11: 2D11.2],Phase 1,D01151
+D0O0LS,Mammary analogue secretory carcinoma [ICD-11: 2C60],Phase 1,D01151
+D07OJZ,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01152
+D07OJZ,Hepatocellular carcinoma [ICD-11: 2C12.02],Phase 2,D01152
+D07OJZ,Recurrent glioblastoma [ICD-11: 2A00.00],Phase 1,D01152
+D09TAB,Tenosynovial giant cell tumour [ICD-11: 2F7B],Approved,D01153
+D09TAB,Alzheimer disease [ICD-11: 8A20],Phase 3,D01153
+D09TAB,Pigmented villonodular synovitis [ICD-11: FA27.1],Phase 3,D01153
+D09TAB,Neurofibromatosis type 1 [ICD-11: LD2D.10],Phase 1/2,D01153
+D02VJP,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D01154
+D09SGV,Hepatitis C virus infection [ICD-11: 1E51.1],Approved,D01155
+D0R8QG,Non-small cell lung cancer [ICD-11: 2C25],Approved,D01157
+D0R8QG,Hepatocellular carcinoma [ICD-11: 2C12.02],Phase 2,D01157
+D0R8QG,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 1/2,D01157
+D0RE6T,Carcinoid syndrome diarrhea [ICD-11: DA90.0],Approved,D01158
+D0RE6T,Carcinoid syndrome [ICD-11: 5B10],Approved,D01158
+D0Y2SW,Multiple myeloma [ICD-11: 2A83],Approved,D01159
+D0EB5N,Community-acquired pneumonia [ICD-11: CA40.Z],Approved,D01160
+D0EB5N,Acute bacterial skin infection [ICD-11: 1C41],Phase 2,D01160
+D0OR3G,Type-2 diabetes [ICD-11: 5A11],Phase 3,D01161
+D0Y9EW,Melanoma [ICD-11: 2C30],Approved,D01162
+D03AJU,Cushing disease [ICD-11: 5A70],Approved,D01163
+D0V3FM,Pulmonary tuberculosis [ICD-11: 1B10.Z],Phase 2,D01164
+D0Y7IC,Rheumatoid arthritis [ICD-11: FA20],Approved,D01165
+D05ROI,Melanoma [ICD-11: 2C30],Approved,D01167
+D05ROI,Melanoma [ICD-11: 2C30],Approved,D01167
+D05ROI,Melanoma [ICD-11: 2C30],Approved,D01388
+D05ROI,Melanoma [ICD-11: 2C30],Approved,D01388
+D0DH5X,Overactive bladder [ICD-11: GC50.0],Approved,D01168
+D03JTG,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 3,D01169
+D07FKQ,Multiple sclerosis [ICD-11: 8A40],Approved,D01171
+D07FKQ,Hepatocellular carcinoma [ICD-11: 2C12.02],Phase 3,D01171
+D07FKQ,Rheumatoid arthritis [ICD-11: FA20],Phase 2,D01171
+D06WRJ,Non-small-cell lung cancer [ICD-11: 2C25.Y],Registered,D01173
+D0SL8X,Stroke [ICD-11: 8B20],Approved,D01174
+D0SL8X,Venous thromboembolism [ICD-11: BD72],Approved,D01174
+D0SL8X,Embolism [ICD-11: JB42],Approved,D01174
+D0T0LU,Menopause symptom [ICD-11: GA30.0],Approved,D01178
+D0T0LU,Vasomotor symptom [ICD-11: CA08],Approved,D01178
+D02CPP,Helicobacter infection [ICD-11: DA42-DA63],Approved,D01180
+D02CPP,Gastroesophageal reflux disease [ICD-11: DA22.Z],Phase 3,D01180
+D00YVF,Type-2 diabetes [ICD-11: 5A11],Approved,D01181
+D00YVF,Cardiovascular disease [ICD-11: BA00-BE2Z],Phase 3,D01181
+D07TOK,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D01182
+DY7MH5,Autism spectrum disorder [ICD-11: 6A02],Phase 3,D01184
+D0PN8H,Myelofibrosis [ICD-11: 2A20.2],Phase 3,D01185
+D06JHV,Chronic myelogenous leukaemia [ICD-11: 2A20.0],Phase 2,D01187
+D04KZY,Acute myeloid leukaemia [ICD-11: 2A60],Approved,D01189
+D0U3SY,Lung cancer [ICD-11: 2C25.0],Approved,D01190
+D0U3SY,Non-small-cell lung cancer [ICD-11: 2C25.Y],Phase 2,D01190
+D0TD1R,Thrombocytopenia [ICD-11: 3B64],Approved,D01192
+D0TD1R,Liver disease [ICD-11: DB90-BD99],Phase 2,D01192
+D07OGZ,Acute coronary syndrome [ICD-11: BA41],Discontinued in Phase 3,D01193
+D07YGK,Endometriosis [ICD-11: GA10],Phase 2,D01196
+D09GRX,HER2-positive breast cancer [ICD-11: 2C60-2C65],Approved,D01198
+D09GRX,Gastric adenocarcinoma [ICD-11: 2B72],Phase 2/3,D01198
+D0V9VG,Migraine [ICD-11: 8A80],Approved,D01199
+D0J8IJ,Metabolic disorder [ICD-11: 5C50-5D2Z],Approved,D01200
+D05PWX,Neuroendocrine cancer [ICD-11: 2B72.1],Phase 3,D01201
+D05PWX,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 1,D01201
+D07EDB,Multiple sclerosis [ICD-11: 8A40],Approved,D01202
+D07EDB,Ulcerative colitis [ICD-11: DD71],Phase 3,D01202
+D07EDB,Non-small-cell lung cancer [ICD-11: 2C25.Y],Phase 3,D01202
+D07EDB,Crohn disease [ICD-11: DD70],Phase 2,D01202
+D0C3SW,Hyperuricaemia [ICD-11: 5C55.Y],Approved,D01204
+D0I1FQ,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D01206
+D0S0LZ,Chronic periodontitis [ICD-11: DA0C.Y],Approved,D01207
+D0S0LZ,Advanced gum disease [ICD-11: DA0D],Approved,D01207
+D0S0LZ,Diabetic foot ulcer [ICD-11: BD54],Phase 2,D01207
+D06ZEO,Heart failure [ICD-11: BD10-BD13],Approved,D01208
+D08NQZ,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D01209
+D0J2NK,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D01210
+D08LTU,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D01211
+D08LTU,Rosacea [ICD-11: ED90.0],Phase 2,D01211
+D00IBN,Pain [ICD-11: MG30-MG3Z],Approved,D01213
+D05HFY,Thrombosis [ICD-11: DB61-GB90],Approved,D01214
+D0G7FJ,Arthritis [ICD-11: FA20],Approved,D01215
+D0I6IB,Rheumatoid arthritis [ICD-11: FA20],Approved,D01216
+D0E3OF,Atrial fibrillation [ICD-11: BC81.3],Approved,D01217
+D0E3OF,Thrombosis [ICD-11: DB61-GB90],Application submitted,D01217
+D0QV5T,Thrombosis [ICD-11: DB61-GB90],Approved,D01219
+D0T6EI,Acne vulgaris [ICD-11: ED80],Approved,D01220
+D0EV6T,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D01221
+D05AFR,Acne vulgaris [ICD-11: ED80],Approved,D01222
+D07QFP,Hyperlipidaemia [ICD-11: 5C80],Approved,D01223
+D07QFP,Multiple sclerosis [ICD-11: 8A40],Approved,D01223
+D07QFP,Rheumatoid arthritis [ICD-11: FA20],Phase 3,D01223
+D07QFP,Hepatitis B virus infection [ICD-11: 1E51.0],Phase 1,D01223
+D09GUJ,Acute bacterial skin infection [ICD-11: 1C41],Approved,D01225
+D09GUJ,Bacterial pneumonia [ICD-11: CA40.0],Approved,D01225
+D09GUJ,Bacterial infection [ICD-11: 1A00-1C4Z],Phase 3,D01225
+D04VEJ,Bacterial infection [ICD-11: 1A00-1C4Z],Approved,D01226
+D00YZD,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D01228
+D0W7HE,Breast cancer [ICD-11: 2C60-2C65],Approved,D01234
+D0W7HE,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01234
+D0DF9Z,Diarrhea [ICD-11: ME05.1],Approved,D01235
+D02ULU,Type-2 diabetes [ICD-11: 5A11],Approved,D01236
+D0A7ZK,Insomnia [ICD-11: 7A00-7A0Z],Approved,D01237
+D0A7ZK,Alzheimer disease [ICD-11: 8A20],Phase 2,D01237
+D07LCF,Opioid-induced constipation [ICD-11: DB32.1],Approved,D01238
+D0KX7I,Non-small-cell lung cancer [ICD-11: 2C25.Y],Phase 3,D01239
+D04LVK,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01240
+DGO2C1,Sjogren syndrome [ICD-11: 4A43.20],Phase 2,D01241
+D01ZGH,Hepatitis C virus infection [ICD-11: 1E51.1],Discontinued in Phase 1,D01242
+D07JAG,Rheumatoid arthritis [ICD-11: FA20],Approved,D01244
+D07JAG,Psoriatic arthritis [ICD-11: FA21],Phase 3,D01244
+D07JAG,Atopic dermatitis [ICD-11: EA80],Phase 2,D01244
+D07JAG,Crohn disease [ICD-11: DD70],Phase 2,D01244
+D07JAG,Ulcerative colitis [ICD-11: DD71],Phase 2,D01244
+D07VFD,Peripheral neuropathy [ICD-11: 8C0Z],Registered,D01246
+D07VFD,Fibromyalgia [ICD-11: MG30.01],Phase 3,D01246
+D07VFD,Cancer related pain [ICD-11: MG30],Phase 3,D01246
+D07VFD,Cardiovascular disease [ICD-11: BA00-BE2Z],Phase 3,D01246
+D0C8AP,Pyruvate kinase deficiency [ICD-11: 5C53.00],Phase 2,D01247
+D0NV5O,Diabetic nephropathy [ICD-11: GB61.Z],Phase 3,D01248
+D0E8LA,Dyslipidemia [ICD-11: 5C80-5C81],Approved,D01249
+D00EQL,Follicular lymphoma [ICD-11: 2A80],Approved,D01250
+D00EQL,Malignant rhabdoid tumour [ICD-11: 2A00.1Y],Phase 2,D01250
+D00EQL,Brain and central nervous system tumour [ICD-11: 2A00.11],Phase 2,D01250
+D00EQL,Mesothelioma [ICD-11: 2C51.2],Phase 2,D01250
+D00EQL,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01250
+D00EQL,Diffuse large B-cell lymphoma [ICD-11: 2A81],Phase 1/2,D01250
+D00EQL,Synovial sarcoma [ICD-11: 2B5A],Phase 1,D01250
+D0DV6D,Prostate cancer [ICD-11: 2C82.0],Approved,D01253
+D0U1ZV,HER2/NEU overexpressing breast cancer [ICD-11: 2C60-2C65],Approved,D01254
+D0NW0T,Bladder cancer [ICD-11: 2C94],Approved,D01255
+D0NW0T,Urothelial carcinoma [ICD-11: 2C92.0],Phase 2,D01255
+D0NW0T,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01255
+D0NW0T,Lymphoma [ICD-11: 2A80-2A86],Phase 1/2,D01255
+D08PIE,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01258
+D08PIE,Anaplastic large cell lymphoma [ICD-11: 2A90.A],Approved,D01258
+D0LW0T,Renal cell carcinoma [ICD-11: 2C90],Phase 3,D01259
+D0LW0T,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01259
+D07GXR,Migraine [ICD-11: 8A80],Approved,D01261
+D0C4AM,Type-1/2 diabetes [ICD-11: 5A10-5A11],Approved,D01263
+D07FEC,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D01264
+D07FEC,Chronic idiopathic constipation [ICD-11: DC32],Approved,D01264
+D07FEC,Crohn disease [ICD-11: DD70],Phase 3,D01264
+D06ZYM,Diarrhea [ICD-11: ME05.1],Approved,D01265
+D09PQZ,Mantle cell lymphoma [ICD-11: 2A85.5],Approved,D01266
+D09PQZ,Chronic lymphocytic leukaemia [ICD-11: 2A82.0],Phase 3,D01266
+D08CVQ,Familial hypercholesterolemia [ICD-11: 5C80.00],Approved,D01267
+D0P0WV,Melanoma [ICD-11: 2C30],Approved,D01268
+D00LNW,Multiple myeloma [ICD-11: 2A83],Phase 3,D01269
+D00LNW,Liposarcoma [ICD-11: 2B59],Phase 3,D01269
+D00LNW,Neuroendocrine cancer [ICD-11: 2B72.1],Phase 3,D01269
+D00LNW,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 2,D01269
+D00LNW,Diffuse large B-cell lymphoma [ICD-11: 2A81],Phase 2,D01269
+D00LNW,Acute myeloid leukaemia [ICD-11: 2A60],Phase 2,D01269
+D00LNW,Recurrent glioblastoma [ICD-11: 2A00.00],Phase 2,D01269
+D0O8GK,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01270
+D0O8GK,Melanoma [ICD-11: 2C30],Phase 3,D01270
+D09AAK,Gastrointestinal stromal tumour [ICD-11: 2B5B],Approved,D01271
+D09AAK,Glioma [ICD-11: 2A00.0],Phase 1,D01271
+D09AAK,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 1,D01271
+D09AAK,Systemic mastocytosis [ICD-11: 2A21.0],Phase 1,D01271
+D04TQO,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D01272
+D04TQO,Kidney disease [ICD-11: GC2Z],Phase 2,D01272
+D04TQO,Constipation [ICD-11: DD91.1],Phase 2,D01272
+D09RII,Sickle-cell disorder [ICD-11: 3A51],Approved,D01273
+D01ZLU,Cholangiocarcinoma [ICD-11: 2C12.10],Phase 3,D01274
+D01ZLU,Multiple myeloma [ICD-11: 2A83],Phase 1/2,D01274
+D01ZLU,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 1/2,D01274
+D07DCG,Acute myeloid leukaemia [ICD-11: 2A60],Approved,D01275
+D07DCG,Cholangiocarcinoma [ICD-11: 2C12.10],Phase 3,D01275
+D07DCG,Haematological malignancy [ICD-11: 2B33.Y],Phase 1,D01275
+D0GT5W,Coronavirus Disease 2019 (COVID-19) [ICD-11: 1D6Y],Investigative,D01276
+D0AF6O,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01277
+D0JB3H,Friedreich's ataxia [ICD-11: 8A03.10],Phase 2,D01278
+D0JB3H,Melanoma [ICD-11: 2C30],Phase 1/2,D01278
+D0JB3H,Psychiatric disorder [ICD-11: 6E8Z],Clinical trial,D01278
+D02ZUG,Migraine [ICD-11: 8A80],Phase 2/3,D01279
+D0DD4P,Invasive aspergillosis [ICD-11: 1F20.0],Phase 3,D01281
+D0DD4P,Haematological malignancy [ICD-11: 2B33.Y],Phase 1,D01281
+D0O8SJ,Follicular lymphoma [ICD-11: 2A80],Approved,D01282
+D0O8SJ,Marginal zone lymphoma [ICD-11: 2A85.0],Approved,D01282
+D0O8SJ,Diffuse large B-cell lymphoma [ICD-11: 2A81],Phase 2/3,D01282
+D0O8SJ,Chronic lymphocytic leukaemia [ICD-11: 2A82.0],Phase 2,D01282
+D0O8SJ,Non-hodgkin lymphoma [ICD-11: 2B33.5],Phase 2,D01282
+D0E7ZU,Tardive dyskinesia [ICD-11: 8A02.10],Approved,D01284
+D0E7ZU,Huntington disease [ICD-11: 8A01.10],Approved,D01284
+D02CII,Postmenopausal osteoporosis [ICD-11: FB83.11],Approved,D01287
+D05PCM,Atopic dermatitis [ICD-11: EA80],Phase 3,D01290
+D05PCM,Lupus [ICD-11: 4A40],Phase 2,D01290
+D0DN0W,Peritoneal cancer [ICD-11: 2C51.Z],Approved,D01291
+D0DN0W,Fallopian tube cancer [ICD-11: 2C74],Approved,D01291
+D0O6UY,Cholangiocarcinoma [ICD-11: 2C12.10],Approved,D01293
+D0O6UY,Bladder cancer [ICD-11: 2C94],Phase 2,D01293
+D0O6UY,Myeloproliferative syndrome [ICD-11: 2A22],Phase 2,D01293
+D0VI4N,Major depressive disorder [ICD-11: 6A70.3],Phase 1,D01296
+D05MKA,Type-2 diabetes [ICD-11: 5A11],Approved,D01297
+D0WH4P,Acute myeloid leukaemia [ICD-11: 2A60],Approved,D01298
+D0D1ZF,Obstructive hypertrophic cardiomyopathy [ICD-11: BC43.12],Phase 3,D01300
+D0NU8J,Renal cell carcinoma [ICD-11: 2C90],Phase 3,D01301
+D0NU8J,Von hippel-lindau disease [ICD-11: 5A75],Phase 2,D01301
+D0NU8J,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 1,D01301
+D0UO2P,Gastrointestinal stromal tumour [ICD-11: 2B5B],Approved,D01302
+D0UO2P,Mast cell leukaemia [ICD-11: 2A21.00],Phase 1,D01302
+D0UO2P,Systemic mastocytosis [ICD-11: 2A21.0],Phase 1,D01302
+D0D6XT,Hepatocellular carcinoma [ICD-11: 2C12.02],Phase 1,D01303
+D0N5MH,Spinal muscular atrophy [ICD-11: 8B61],Approved,D01305
+DI4HA7,Non-small cell lung cancer [ICD-11: 2C25],Phase 3,D01306
+D09LPN,Thrombocytopenia [ICD-11: 3B64],Approved,D01307
+D0L2CI,Type-1/2 diabetes [ICD-11: 5A10-5A11],Approved,D01310
+D06QAK,Achondroplasia [ICD-11: LD24.00],Phase 3,D01311
+DDH8L6,Non-small-cell lung cancer [ICD-11: 2C25.Y],Phase 3,D01313
+D06ULU,Acne vulgaris [ICD-11: ED80],Approved,D01315
+D02AIN,Coronary artery disease [ICD-11: BA80],Phase 2,D01316
+D0O5AG,Influenza virus infection [ICD-11: 1E30-1E32],Approved,D01317
+D0OD2I,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01318
+D0OD2I,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 1,D01318
+DXP04H,Chronic lymphocytic leukaemia [ICD-11: 2A82.0],Phase 3,D01319
+DXP04H,Small lymphocytic lymphoma [ICD-11: 2A82.0],Phase 3,D01319
+D0S1XX,Plaque psoriasis [ICD-11: EA90.0],Phase 3,D01321
+D0S1XX,Psoriasis vulgaris [ICD-11: EA90],Phase 3,D01321
+D01KOA,Non-small-cell lung cancer [ICD-11: 2C25.Y],Approved,D01322
+D01KOA,Thyroid cancer [ICD-11: 2D10],Approved,D01322
+D01KOA,Colon cancer [ICD-11: 2B90.Z],Phase 1/2,D01322
+D0KR2J,Hepatitis B virus infection [ICD-11: 1E51.0],Approved,D01323
+D0Z0DW,Vitamin deficiency [ICD-11: 5B55-5B71],Approved,D01326
+D0Z0DW,Folate-deficiency anemia [ICD-11: 3A02.Y],Approved,D01326
+D0G3DL,Tuberculosis [ICD-11: 1B10-1B1Z],Approved,D01327
+D0G3DL,Tuberculosis [ICD-11: 1B10-1B1Z],Approved,D01327
+D0G3DL,Tuberculosis [ICD-11: 1B10-1B1Z],Approved,D01390
+D0G3DL,Tuberculosis [ICD-11: 1B10-1B1Z],Approved,D01390
+D0Z1RV,Schizophrenia [ICD-11: 6A20],Approved,D01328
+D0Y7ZU,Melanoma [ICD-11: 2C30],Approved,D01329
+D06FDR,Human immunodeficiency virus infection [ICD-11: 1C62],Approved,D01330
+D05ARP,Virus infection [ICD-11: 1A24-1D9Z],Approved,D01331
+D05CHI,Mycobacterium infection [ICD-11: 1B10-1B21],Approved,D01333
+D05CHI,Tuberculosis [ICD-11: 1B10-1B14],Approved,D01333
+D05ULR,Erectile dysfunction [ICD-11: HA01.1],Approved,D01334
+D05ULR,Coronavirus Disease 2019 (COVID-19) [ICD-11: 1D6Y],Phase 3,D01334
+D0V4QS,Schizophrenia [ICD-11: 6A20],Approved,D01335
+D0C9SY,Erectile dysfunction [ICD-11: HA01.1],Approved,D01336
+D04KYY,Hyperuricaemia [ICD-11: 5C55.Y],Approved,D01337
+D0G9IU,Tuberculosis [ICD-11: 1B10-1B1Z],Approved,D01338
+D0G9IU,Macular degeneration [ICD-11: 9B78.3],Investigative,D01338
+D0D1HW,Thrombocythemia [ICD-11: 3B63],Approved,D01339
+D0D1HW,Essential thrombocythemia [ICD-11: 3B63.1Z],Phase 2,D01339
+D00XWD,Irritable bowel syndrome [ICD-11: DD91.0],Approved,D01340
+D00XWD,Gastro-oesophageal reflux [ICD-11: DA22],Withdrawn from market,D01340
+D00XWD,Dyspepsia [ICD-11: MD92],Withdrawn from market,D01340
+D0S2IQ,Hyperphenylalaninemia [ICD-11: 5C50],Approved,D01341
+D0Y4GO,Malignant pleural mesothelioma [ICD-11: 2C26.0],Approved,D01343
+D06GWF,Virus infection [ICD-11: 1A24-1D9Z],Approved,D01344
+D0GU4K,Depression [ICD-11: 6A70-6A7Z],Approved,D01345
+D0GU4K,Nausea [ICD-11: MD90],Approved,D01345
+D0GU4K,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Phase 3,D01345
+D00PEH,Thrombocytopenia [ICD-11: 3B64],Approved,D01347
+D00PEH,Idiopathic thrombocytopenic purpura [ICD-11: 3B64.10],Phase 3,D01347
+D0GV8J,Breast cancer [ICD-11: 2C60-2C65],Approved,D01348
+D0GV8J,Psoriatic arthritis [ICD-11: FA21],Phase 3,D01348
+D0KI5R,Venous thromboembolism [ICD-11: BD72],Phase 3,D01350
+D01SGK,Parkinson disease [ICD-11: 8A00.0],Approved,D01351
+D0UT4W,Mantle cell lymphoma [ICD-11: 2A85.5],Approved,D01352
+D0UT4W,Chronic lymphocytic leukaemia [ICD-11: 2A82.0],Phase 3,D01352
+D0UT4W,Small lymphocytic lymphoma [ICD-11: 2A82.0],Phase 3,D01352
+D0UT4W,Waldenstrom macroglobulinemia [ICD-11: 2A85.4],Phase 3,D01352
+D0UT4W,B-cell lymphoma [ICD-11: 2A86],Phase 1,D01352
+D0R7LD,Non-small-cell lung cancer [ICD-11: 2C25.Y],Phase 3,D01353
+DQ1S0B,Hereditary angioedema [ICD-11: 4A00.14],Approved,D01354
+D24GYL,Human immunodeficiency virus infection [ICD-11: 1C62],Phase 2/3,D01355
+DUQV41,Non-small-cell lung cancer [ICD-11: 2C25.Y],Phase 3,D01356
+D0A7CO,Venous thrombosis [ICD-11: BA43],Approved,D01358
+D0A7CO,Coronavirus Disease 2019 (COVID-19) [ICD-11: 1D6Y],Investigative,D01358
+D0C4DH,Hepatitis C virus infection [ICD-11: 1E51.1],Approved,D01391
+D0Y8OK,Hairy cell leukaemia [ICD-11: 2A82.2],Approved,D01393
+D07BQE,Pulmonary embolism [ICD-11: BB00],Approved,D01394
+D03QCW,Chronic myelogenous leukaemia [ICD-11: 2A20.0],Approved,D01395
+D02LVZ,Anemia [ICD-11: 3A00-3A9Z],Approved,D01396
+D0E8UO,Myocardial infarction [ICD-11: BA41-BA43],Approved,D01397
+D0T1UJ,Heart attack [ICD-11: BA41],Approved,D01398
+D08NWC,Hepatitis C virus infection [ICD-11: 1E51.1],Approved,D01399
+D0K4DI,Acute coronary syndrome [ICD-11: BA41],Approved,D01400
+D0FX8A,Myocardial infarction [ICD-11: BA41-BA43],Approved,D01402
+D0U8US,Chronic granulomatous disease [ICD-11: 4A00.0Y],Approved,D01403
+D09PMV,Chronic HCV-1 infection [ICD-11: 1E51.1],Approved,D01404
+D0P3TX,Angina pectoris [ICD-11: BA40],Approved,D01405
+D0PG0G,Cerebrovascular ischaemia [ICD-11: 8B1Z],Approved,D01406
+D0PG0G,Severe sepsis [ICD-11: 1G40-1G41],Approved,D01406
+D0U8JN,Solid tumour/cancer [ICD-11: 2A00-2F9Z],Approved,D01407
+D0V4JQ,Multiple sclerosis [ICD-11: 8A40],Approved,D01408
+D0CQ2O,Multiple sclerosis [ICD-11: 8A40],Approved,D01409
+D0F3JT,Growth failure [ICD-11: LD2F.1Y],Approved,D01415
+D0TC4R,Ischemic stroke [ICD-11: 8B11.5Z],Phase 3,D01418
+D0UG0K,HER2-positive breast cancer [ICD-11: 2C60-2C65],Phase 3,D01421
+D0UG0K,Breast cancer [ICD-11: 2C60-2C65],Phase 2,D01421
+D0TD2G,Rheumatoid arthritis [ICD-11: FA20],Approved,D01422
+D0TD2G,Cryopyrin-associated periodic syndromes [ICD-11: 4A60.1],Approved,D01422
+D0TD2G,Vasculitis [ICD-11: 4A44],Phase 2,D01422
+D0TD2G,Urticaria [ICD-11: EB00-EB05],Phase 2,D01422
+D08WSY,Postmenopausal osteoporosis [ICD-11: FB83.11],Approved,D01423
+D08WSY,Prostate cancer [ICD-11: 2C82.0],Phase 3,D01423
+D08WSY,Rheumatoid arthritis [ICD-11: FA20],Phase 2,D01423
+D03TIS,Hodgkin lymphoma [ICD-11: 2B30],Approved,D01425
+D0G6HA,Metabolic disorder [ICD-11: 5C50-5D2Z],Approved,D01426
+D0S8WA,Chronic lymphocytic leukaemia [ICD-11: 2A82.0],Approved,D01427
+D0S8WA,Haematological malignancy [ICD-11: 2B33.Y],Phase 1,D01427
+D0Z9EO,Diabetic complication [ICD-11: 5A2Y],Approved,D01429
+D0R6RE,Breast cancer [ICD-11: 2C60-2C65],Approved,D01435
+D05QOL,Diffuse large B-cell lymphoma [ICD-11: 2A81],Approved,D01451
+D05QOL,Follicular lymphoma [ICD-11: 2A80],Phase 2,D01451
+D05QOL,Haematological malignancy [ICD-11: 2B33.Y],Phase 2,D01451
+DA69JF,Type 2 diabetes [ICD-11: 5A11],Phase 3,D01475
+D7HLI1,Haemophilia A [ICD-11: 3B10.0],Phase 3,D01481
+DDE3Z4,Lymphoma [ICD-11: 2A80-2A86; ICD-10: C81-C86; ICD-9: 202],Phase 1,D01502
+DF0PI8,Cough [ICD-11: MD12; ICD-10: R05],Phase 1,D01503
+DF0PI8,"Endometriosis [ICD-11: GA10; ICD-10: N80, N80.9]",Phase 1,D01503
+D02TQO,Cardiovascular disease [ICD-11: BA00-BE2Z; ICD-10: I00-I99],Approved,D01508
+D0K5CB,"Acute asthma [ICD-11: CA23; ICD-10: J45, J45.8; ICD-9: 493]","	Approved",D01486
+D0OC3J,Schizophrenia [ICD-11: 6A20],"	Withdrawn from market",D01413
+D09EGZ,"Malaria [ICD-11: 1F40-1F45; ICD-10: B50-B64, B54]",Approved,D01510
+D0L9UU,Bacterial infection [ICD-11: 1A00-1C4Z; ICD-10: A00-B99],Approved,D01511
+D0CS2F,Diarrhea [ICD-11: ME05.1],Approved,D01512
+D0I5WB,Female infertility [ICD-11: GA31.Z],Approved,D01513
+D07NSU,Osteoarthritis [ICD-11: FA00-FA05; ICD-9: 715],Approved,D01514
+D0I8FI,Heart block [ICD-11: BC63],Approved,D01515
+D0I8FI,Melanoma [ICD-11: 2C30; ICD-9: 172],Phase 1,D01515

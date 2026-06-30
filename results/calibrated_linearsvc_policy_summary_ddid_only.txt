@@ -1,0 +1,14 @@
+MediFoodShield Paper 1 - Calibrated LinearSVC Safety Gate Summary
+================================================================================
+
+Policy A: best validation macro F1
+                                               model  threshold  accuracy  macro_f1  weighted_f1  avoid_precision  avoid_recall  avoid_f1  caution_precision  caution_recall  caution_f1  no_known_precision  no_known_recall  no_known_f1  false_safe_count  risky_true_count  false_safe_rate  avoid_false_safe_rate  caution_false_safe_rate
+Calibrated TFIDF + LinearSVC Balanced Original [VAL]        NaN  0.922758  0.757159     0.922037         0.861111      0.574074  0.688889           0.953782        0.959831    0.956797            0.621849         0.629787     0.625793                90              2419         0.037205                    0.0                 0.038055
+
+Policy B: validation false-safe <= 1%, then best macro F1
+                                              model  threshold  accuracy  macro_f1  weighted_f1  avoid_precision  avoid_recall  avoid_f1  caution_precision  caution_recall  caution_f1  no_known_precision  no_known_recall  no_known_f1  false_safe_count  risky_true_count  false_safe_rate  avoid_false_safe_rate  caution_false_safe_rate
+Calibrated LinearSVC SafetyGate threshold=0.7 [VAL]        0.7  0.920121  0.674732     0.900246         0.861111      0.574074  0.688889           0.921001        0.995772    0.956928            0.918033         0.238298     0.378378                 5              2419         0.002067                    0.0                 0.002114
+
+Policy C: validation false-safe <= 3%, then best macro F1
+                                              model  threshold  accuracy  macro_f1  weighted_f1  avoid_precision  avoid_recall  avoid_f1  caution_precision  caution_recall  caution_f1  no_known_precision  no_known_recall  no_known_f1  false_safe_count  risky_true_count  false_safe_rate  avoid_false_safe_rate  caution_false_safe_rate
+Calibrated LinearSVC SafetyGate threshold=0.6 [VAL]        0.6  0.926903  0.740296     0.919995         0.861111      0.574074  0.688889           0.940365        0.980127    0.959834             0.72549          0.47234     0.572165                42              2419         0.017363                    0.0                 0.017759

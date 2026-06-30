@@ -1,0 +1,6 @@
+Model / Mode,Gate Threshold,False-safe Count,Risky True Count,False-safe Rate (%),Accuracy (%),Macro F1 (%),Avoid Recall (%),No-known Recall (%)
+Majority baseline,,0,2419,0.0,89.11,31.41,0.0,0.0
+Balanced AI baseline,,128,2419,5.29,91.86,74.01,55.56,77.02
+Calibrated balanced mode,,96,2419,3.97,91.52,71.73,48.15,57.45
+MedSafe-GATE v1 balanced-safety mode,0.6,47,2419,1.94,91.67,68.6,48.15,38.3
+MedSafe-GATE v1 strict-screening mode,0.7,15,2419,0.62,90.99,61.57,48.15,17.02

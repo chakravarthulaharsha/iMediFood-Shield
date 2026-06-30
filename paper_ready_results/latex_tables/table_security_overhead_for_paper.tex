@@ -1,0 +1,10 @@
+\begin{tabular}{llrrrrl}
+\toprule
+Security Operation & Target & Runs & Mean Time (ms) & Min Time (ms) & Max Time (ms) & Verification Output \\
+\midrule
+Full security manifest verification & all protected assets & 30 & 127.921000 & 103.869000 & 466.872000 & True \\
+Sign one recommendation output & one signed recommendation record & 100 & 0.024000 & 0.022000 & 0.091000 & signature\_generated \\
+Verify signed recommendation outputs & 5 signed records & 100 & 0.119000 & 0.113000 & 0.219000 & True \\
+Verify tampered recommendation outputs & 5 records with one tampered record & 100 & 0.120000 & 0.113000 & 0.215000 & [False, True, True, True, True] \\
+\bottomrule
+\end{tabular}

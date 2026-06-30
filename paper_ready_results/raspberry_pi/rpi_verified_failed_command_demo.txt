@@ -1,0 +1,18 @@
+======================================================================
+CASE 1: ORIGINAL RASPBERRY PI DEPLOYMENT
+======================================================================
+Manifest signature match: True
+All protected file hashes match: True
+Verification result: VERIFIED_PROVENANCE
+
+======================================================================
+CASE 2: TAMPERED COPY DEMONSTRATION
+======================================================================
+Tampered asset: ddid_lookup_table
+Original file: data_processed/ddid_evidence_lookup_guard_table.csv
+Tampered copy: /home/pi/Desktop/MediFoodShield/security/rpi_command_prompt_demo/tampered_ddid_evidence_lookup_guard_table.csv
+Expected SHA-256: 59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84
+Tampered SHA-256: e74781b6d760047011979ec7313cc29ed520694a461b2300de5ffdea864aa643
+Hash match: False
+Verification result: FAILED_VERIFICATION
+======================================================================

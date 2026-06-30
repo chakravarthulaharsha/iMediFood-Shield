@@ -1,0 +1,5 @@
+model_name,false_safe_count,food_count,herb_count,unique_drugs,unique_food_herb_items,avoid_cases,use_caution_cases
+Balanced AI baseline,128,110,18,109,32,1,127
+Calibrated balanced mode,96,82,14,82,22,1,95
+MedSafe-GATE v1 balanced-safety threshold 0.6,47,36,11,38,15,1,46
+MedSafe-GATE v1 strict-screening threshold 0.7,15,5,10,7,13,1,14

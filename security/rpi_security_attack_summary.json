@@ -1,0 +1,6 @@
+{
+  "detected_attacks": 5,
+  "total_attacks": 5,
+  "attack_detection_rate_percent": 100.0,
+  "attack_results_csv": "/home/pi/Desktop/MediFoodShield/security/rpi_security_attack_detection.csv"
+}

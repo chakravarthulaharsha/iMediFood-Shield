@@ -1,0 +1,6 @@
+{
+  "fast_lookup_entries": 16644,
+  "known_drugs": 1507,
+  "known_food_herb_items": 1328,
+  "note": "Fast dictionary lookup created from DDID evidence lookup guard table."
+}

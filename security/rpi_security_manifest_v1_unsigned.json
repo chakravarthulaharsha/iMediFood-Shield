@@ -1,0 +1,46 @@
+{
+  "manifest_name": "MediFoodShield Raspberry Pi Security Manifest",
+  "manifest_version": "rpi_v1.0",
+  "created_utc": "2026-06-30T09:09:05.135784Z",
+  "hash_algorithm": "SHA-256",
+  "signature_algorithm": "HMAC-SHA256",
+  "device_platform": {
+    "system": "Linux",
+    "release": "5.10.103-v7l+",
+    "machine": "armv7l",
+    "python": "3.9.2"
+  },
+  "protected_assets": [
+    {
+      "asset_name": "ddid_lookup_table",
+      "relative_path": "data_processed/ddid_evidence_lookup_guard_table.csv",
+      "size_bytes": 12797737,
+      "sha256": "59186b1d68163f13f3a659d964a215ebd86c22abf623fd95061d6a4aee14fe84"
+    },
+    {
+      "asset_name": "model_file",
+      "relative_path": "models/medsafe_gate_v1_calibrated_linearsvc.joblib",
+      "size_bytes": 573854,
+      "sha256": "cea20002341ee99ac5254ac5a08f34a88be4e1d717f16cf9c1bf39aa6afc86f9"
+    },
+    {
+      "asset_name": "inference_policy",
+      "relative_path": "security/rpi_inference_policy.json",
+      "size_bytes": 340,
+      "sha256": "e2e9bdeca794c857777c9b29dcda2a4d35478083be48c35c8c82621fbbc1d76b"
+    },
+    {
+      "asset_name": "rpi_backend_output_log",
+      "relative_path": "paper_ready_results/raspberry_pi/rpi_backend_test.txt",
+      "size_bytes": 803,
+      "sha256": "f1c1b1ba171c754ed551e8474ac5443712790ec2bed492906962b277a4df767e"
+    },
+    {
+      "asset_name": "signed_recommendation_records",
+      "relative_path": "security/step19_signed_recommendation_records.json",
+      "size_bytes": 7049,
+      "sha256": "f6aedbc89065ea3679dff30719ff3af9e00905856d89bf87cf54989d6e511342"
+    }
+  ],
+  "missing_assets": []
+}

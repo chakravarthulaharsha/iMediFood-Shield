@@ -1,0 +1,36 @@
+MediFoodShield Paper 1 - DDID-only Split Summary
+======================================================================
+
+Full split-ready dataset shape: (17693, 36)
+Train shape: (12385, 36)
+Validation shape: (2654, 36)
+Test shape: (2654, 36)
+
+Full label distribution:
+paper_label
+Use caution                                15766
+No known interaction in selected source     1566
+Avoid                                        361
+
+Train label distribution:
+paper_label
+Use caution                                11036
+No known interaction in selected source     1096
+Avoid                                        253
+
+Validation label distribution:
+paper_label
+Use caution                                2365
+No known interaction in selected source     235
+Avoid                                        54
+
+Test label distribution:
+paper_label
+Use caution                                2365
+No known interaction in selected source     235
+Avoid                                        54
+
+Pair leakage check:
+Train-Val overlap: 0
+Train-Test overlap: 0
+Val-Test overlap: 0

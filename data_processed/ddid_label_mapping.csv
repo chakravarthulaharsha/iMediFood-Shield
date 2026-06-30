@@ -1,0 +1,6 @@
+ddid_effect,paper_label,reason
+Harmful,Avoid,DDID effect indicates harmful diet-drug interaction.
+Negative,Use caution,DDID effect indicates a negative interaction or reduced drug/health outcome.
+Positive,Use caution,DDID records an interaction effect; it should not be treated as no interaction.
+Possible,Use caution,DDID records a possible interaction; safer screening label is caution.
+No Effect,No known interaction in selected source,DDID reports no observed effect in the selected evidence source; not a clinical safety claim.

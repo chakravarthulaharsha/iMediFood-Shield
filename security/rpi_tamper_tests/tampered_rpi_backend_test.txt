@@ -1,0 +1,26 @@
+============================================================
+Drug: Ibuprofen
+Food/Herb: Ginkgo Biloba
+Recommendation: Avoid
+Decision source: DDID exact-pair evidence lookup
+Signed: True
+============================================================
+Drug: Omeprazole
+Food/Herb: Grapefruit
+Recommendation: Use caution
+Decision source: DDID exact-pair evidence lookup
+Signed: True
+============================================================
+Drug: Atorvastatin
+Food/Herb: High-Fat Meal
+Recommendation: Use caution
+Decision source: DDID exact-pair evidence lookup
+Signed: True
+============================================================
+Drug: RandomDrugXYZ
+Food/Herb: RandomFoodXYZ
+Recommendation: Insufficient evidence
+Decision source: Coverage guard blocked out-of-vocabulary model prediction
+Signed: True
+
+RPI_TAMPER_TEST_CHANGE

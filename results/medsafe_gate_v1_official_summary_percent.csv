@@ -1,0 +1,6 @@
+paper_model_name,model,threshold,accuracy,macro_f1,weighted_f1,avoid_precision,avoid_recall,avoid_f1,caution_precision,caution_recall,caution_f1,no_known_precision,no_known_recall,no_known_f1,false_safe_count,risky_true_count,false_safe_rate,avoid_false_safe_rate,caution_false_safe_rate
+Majority baseline,Majority baseline [TEST],,89.11,31.41,83.98,0.0,0.0,0.0,89.11,100.0,94.24,0.0,0.0,0.0,0,2419,0.0,0.0,0.0
+Balanced AI baseline,TFIDF + LinearSVC Balanced [TEST],,91.86,74.01,92.21,65.22,55.56,60.0,96.87,94.16,95.5,58.58,77.02,66.54,128,2419,5.29,1.85,5.37
+Calibrated balanced mode,Calibrated TFIDF + LinearSVC Balanced Original [TEST],,91.52,71.73,91.34,86.67,48.15,61.9,94.78,95.9,95.33,58.44,57.45,57.94,96,2419,3.97,1.85,4.02
+MedSafe-GATE v1 balanced-safety mode,Calibrated LinearSVC SafetyGate threshold=0.6 [TEST],0.6,91.67,68.6,90.65,86.67,48.15,61.9,93.16,97.97,95.51,65.69,38.3,48.39,47,2419,1.94,1.85,1.95
+MedSafe-GATE v1 strict-screening mode,Calibrated LinearSVC SafetyGate threshold=0.7 [TEST],0.7,90.99,61.57,88.55,86.67,48.15,61.9,91.44,99.32,95.22,72.73,17.02,27.59,15,2419,0.62,1.85,0.59

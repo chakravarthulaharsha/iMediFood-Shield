@@ -1,0 +1,9 @@
+{
+  "test_name": "Recommendation output tampering",
+  "total_signed_records_checked": 5,
+  "tampered_records": 1,
+  "tampered_records_detected": 1,
+  "expected_detection_count": 1,
+  "output_tamper_detection_success": true,
+  "summary": "Changing a signed recommendation output invalidated its HMAC signature and caused FAILED_OUTPUT_VERIFICATION."
+}

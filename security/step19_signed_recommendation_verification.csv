@@ -1,0 +1,6 @@
+record_index,drug_name_input,food_herb_name_input,recommendation_label,source,signature_valid,verification_status
+0,Ibuprofen,Ginkgo Biloba,Avoid,DDID Evidence Lookup Guard,True,VERIFIED_OUTPUT
+1,Ibuprofen,Alcohol,Use caution,DDID Evidence Lookup Guard,True,VERIFIED_OUTPUT
+2,Omeprazole,Grapefruit,Use caution,DDID Evidence Lookup Guard,True,VERIFIED_OUTPUT
+3,Atorvastatin,High-Fat Meal,Use caution,DDID Evidence Lookup Guard,True,VERIFIED_OUTPUT
+4,RandomDrugXYZ,RandomFoodXYZ,Insufficient evidence,Input Coverage Guard,True,VERIFIED_OUTPUT

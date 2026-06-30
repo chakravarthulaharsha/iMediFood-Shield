@@ -1,0 +1,37 @@
+{
+  "policy_name": "MedSafe-GATE v1 DDID Evidence Lookup Guard",
+  "version": "v1.0",
+  "description": "Evidence-first inference policy for MediFoodShield Paper 1.",
+  "rules": [
+    {
+      "order": 1,
+      "rule": "Normalize medication and food/herb names."
+    },
+    {
+      "order": 2,
+      "rule": "If an exact Drug_ID and Food_Herb_ID pair exists in DDID lookup table, return the DDID-derived paper_label with evidence fields."
+    },
+    {
+      "order": 3,
+      "rule": "If no exact DDID pair exists, run MedSafe-GATE v1 calibrated LinearSVC model."
+    },
+    {
+      "order": 4,
+      "rule": "Apply safety gate to No known interaction predictions. If confidence is below selected threshold, output Use caution."
+    },
+    {
+      "order": 5,
+      "rule": "Never call a pair clinically safe. Use No known interaction in selected source only when supported by the selected source or high-confidence model branch."
+    }
+  ],
+  "recommended_modes": {
+    "balanced_safety": {
+      "threshold": 0.6,
+      "purpose": "Better balance between macro F1 and false-safe reduction."
+    },
+    "strict_screening": {
+      "threshold": 0.7,
+      "purpose": "Lower false-safe rate with more conservative caution outputs."
+    }
+  }
+}

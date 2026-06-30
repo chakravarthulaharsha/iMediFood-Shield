@@ -1,0 +1,9 @@
+{
+  "policy_name": "MediFoodShield Raspberry Pi inference policy",
+  "framework": "MediFoodShield",
+  "coverage_guard": "enabled",
+  "evidence_lookup_guard": "enabled",
+  "recommendation_signing": "enabled",
+  "security_mode": "software_hmac_sha256_tamper_evident",
+  "note": "Software HMAC prototype; not hardware-rooted secure element."
+}

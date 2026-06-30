@@ -1,0 +1,11 @@
+{
+  "figures": {
+    "false_safe_reduction_png": "MediFoodShield/paper_ready_results/figures/fig_false_safe_reduction.png",
+    "false_safe_reduction_pdf": "MediFoodShield/paper_ready_results/figures/fig_false_safe_reduction.pdf",
+    "fast_secured_latency_png": "MediFoodShield/paper_ready_results/figures/fig_fast_secured_inference_latency.png",
+    "fast_secured_latency_pdf": "MediFoodShield/paper_ready_results/figures/fig_fast_secured_inference_latency.pdf",
+    "security_attack_detection_png": "MediFoodShield/paper_ready_results/figures/fig_security_attack_detection.png",
+    "security_attack_detection_pdf": "MediFoodShield/paper_ready_results/figures/fig_security_attack_detection.pdf"
+  },
+  "latex_tables_dir": "MediFoodShield/paper_ready_results/latex_tables"
+}

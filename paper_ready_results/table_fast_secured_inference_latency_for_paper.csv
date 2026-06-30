@@ -1,0 +1,9 @@
+Pipeline,Case Type,Drug,Food/Herb,Runs,Mean Time (ms),Min Time (ms),Max Time (ms),Output Label,Decision Source
+Fast recommendation only,Exact DDID lookup branch,Ibuprofen,Ginkgo Biloba,500,0.015,0.014,0.059,Avoid,DDID exact-pair evidence lookup
+Fast recommendation + output signing,Exact DDID lookup branch,Ibuprofen,Ginkgo Biloba,500,0.063,0.046,0.507,Avoid,DDID exact-pair evidence lookup
+Fast recommendation only,Exact DDID lookup branch,Atorvastatin,High-Fat Meal,500,0.031,0.021,0.429,Use caution,DDID exact-pair evidence lookup
+Fast recommendation + output signing,Exact DDID lookup branch,Atorvastatin,High-Fat Meal,500,0.054,0.046,0.231,Use caution,DDID exact-pair evidence lookup
+Fast recommendation only,Input coverage guard branch,RandomDrugXYZ,RandomFoodXYZ,500,0.014,0.013,0.048,Insufficient evidence,Coverage guard blocked out-of-vocabulary model prediction
+Fast recommendation + output signing,Input coverage guard branch,RandomDrugXYZ,RandomFoodXYZ,500,0.052,0.044,0.504,Insufficient evidence,Coverage guard blocked out-of-vocabulary model prediction
+Fast recommendation only,Known-entity model branch,abacavir,250-caloric high-fat meal,500,3.027,2.403,5.024,No known interaction in selected source,Known-entity model branch with safety gate
+Fast recommendation + output signing,Known-entity model branch,abacavir,250-caloric high-fat meal,500,2.94,2.455,4.484,No known interaction in selected source,Known-entity model branch with safety gate

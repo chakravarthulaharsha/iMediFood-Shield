@@ -1,0 +1,4 @@
+,Pred: Avoid,Pred: Use caution,Pred: No known interaction in selected source
+True: Avoid,26,27,1
+True: Use caution,2,2349,14
+True: No known interaction in selected source,2,193,40
