@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+joblib
+gradio
+pymupdf
+pytesseract
+pillow
+rapidfuzz
+matplotlib
